@@ -1,15 +1,18 @@
-# Additional channel URLs the packages in your channel depend on
+# Additional channel URLs the packages in your channel depend on (default: [])
 extra-channels:
-  - https://memo33.github.io/sc4pac/channel/
+- https://memo33.github.io/sc4pac/channel/
 
 # Additional subfolders (if not already used by the Main channel)
 subfolders: []
 
 # Package names for which the check for asset version mismatches should be skipped.
 # Only needed when the linter tells you so.
-ignore-version-mismatches: [
-  t-wrecks:replace-palm-cypress,
-]
+ignore-version-mismatches: []
 
 # Set this to true to allow writing descriptions from a first-person perspective.
-allow-ego-perspective: true
+allow-ego-perspective: false
+
+# For downloading DLLs from GitHub, define a mapping between groups and GH accounts.
+# group-to-github:
+# - null-45: "0xC0000054"
+# - simmaster07: nsgomez
