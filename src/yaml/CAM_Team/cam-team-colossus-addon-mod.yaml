@@ -1,5 +1,5 @@
 group: "cam-team" 
-name: "cam-team-colossus-addon-mod"
+name: "colossus-addon-mod"
 version: "2.5.0"
 subfolder: "050-load-first"
 
