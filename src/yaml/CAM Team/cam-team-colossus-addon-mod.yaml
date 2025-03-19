@@ -2,15 +2,18 @@ group: "cam-team"
 name: "cam-team-colossus-addon-mod" # official version
 version: "2.5.0"
 subfolder: "050-load-first"
+
 variants:
 - variant: { CAM: "no" }
 - variant: { CAM: "yes" }
   dependencies:
   - "memo:submenus-dll"  # for exemplar patching
+  
 variantDescriptions:
   CAM:
     "no": "Choose this if you do not want to install the Colossus Addon Mod (CAM)."
-    "yes": "Choose this to install the Colossus Addon Mod (CAM)."    
+    "yes": "Choose this to install the Colossus Addon Mod (CAM)."
+    
 assets:
 - assetId: "cam-team-colossus-addon-mod"
 info:
