@@ -2,6 +2,8 @@ group: "romualdillo"
 name: "romualdillo-props-vol01"
 version: "1.0"
 subfolder: "100-props-textures"
+dependencies:
+- 
 assets:
 - assetId: "romualdillo-props-vol01"
 info:
