@@ -1,0 +1,19 @@
+{
+  "name": "sc4pac-channel",
+  "version": "1.0.0",
+  "description": "Contains the exchange YAML files as well as the clientside scripts for SC4Evermore's SC4Pac integration",
+  "main": "index.js",
+  "repository": "git@github.com:SC4Evermore/sc4pac-channel.git",
+  "author": "SC4Evermore",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^22.14.1",
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.5",
+    "webpack-cli": "^6.0.1"
+  },
+  "scripts": {
+    "build": "webpack --disable-interpret -c ./webpack.config.js"
+  }
+}
