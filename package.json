@@ -15,5 +15,9 @@
   },
   "scripts": {
     "build": "webpack --disable-interpret -c ./webpack.config.js"
+  },
+  "engines": {
+    "yarn": ">=1.22.0 <2.0.0",
+    "node": ">=22.0"
   }
 }
