@@ -1,0 +1,24 @@
+group: vortext
+name: vortext-grass-pastures
+version: "2.0"
+subfolder: 400-industrial
+dependencies:
+- "null-45:allow-more-building-styles"
+info:
+  summary: Vortext - Grass Pastures
+  description: |-
+    This download contains eight (8) growable, stage 1 IR pastures. They're simple grass fields which do not contain a visible building. 
+    The textures are in HD and multi-fsh; each texture contains no less than 16 variations of itself which will to a large extend eliminate tiling effects. 
+    The package has been updated for Buidling Style DLL support.
+  author: Vortext
+  website: https://www.sc4evermore.com/index.php/downloads/download/43-agriculture/320-vortext-grass-pastures
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Pastures%20Overview.jpg
+assets:
+  - assetId: vortext-grass-pastures
+
+---
+assetId: vortext-grass-pastures
+version: "2.0"
+lastModified: "2025-05-04T13:51:35-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=320:vortext-grass-pastures
