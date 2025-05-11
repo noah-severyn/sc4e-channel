@@ -140,7 +140,6 @@ dependencies:
 - "bsc:mega-props-rubik3-vol01-wtc-props"
 - "bsc:textures-vol01"
 - "bsc:textures-vol03"
-- "cam:colossus-addon-mod"
 version: "2.0"
 subfolder: "300-commercial"
 variants:
