@@ -149,8 +149,8 @@ variants:
     include:
     - "Two World Trade with Jobs.dat"
     - "One World Trade with Jobs.dat"
-  dependencies:
-  - "cam:colossus-addon-mod"
+    dependencies:
+    - "cam:colossus-addon-mod"
 - variant: { cam: "no" }
   assets:
   - assetId: "bsc-rubik-wtc-complex"
