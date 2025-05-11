@@ -143,11 +143,21 @@ dependencies:
 - "cam:colossus-addon-mod"
 version: "2.0"
 subfolder: "300-commercial"
-assets:
-- assetId: "bsc-rubik-wtc-complex"
-  include:
-  - "Two World Trade with Jobs.dat"
-  - "One World Trade with Jobs.dat"
+variants:
+- variant: { cam: "yes" }
+  assets:
+  - assetId: "bsc-rubik-wtc-complex"
+    include:
+    - "Two World Trade with Jobs.dat"
+    - "One World Trade with Jobs.dat"
+  dependencies:
+  - "cam:colossus-addon-mod"
+- variant: { cam: "no" }
+  assets:
+  - assetId: "bsc-rubik-wtc-complex"
+    exclude:
+    - "Two World Trade with Jobs.dat"
+    - "One World Trade with Jobs.dat\""
 info:
   summary: "BSC Rubik One and Two Trade Center by Rubik3"
   description: |
