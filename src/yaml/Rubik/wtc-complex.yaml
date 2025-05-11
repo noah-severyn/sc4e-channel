@@ -1,0 +1,239 @@
+assetId: "bsc-rubik-wtc-complex"
+version: "2.0"
+lastModified: "2024-09-02T23:42:33Z"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=279:sc4d-lex-legacy-bsc-custodian-rubik-wtc-complex"
+
+---
+group: "bsc"
+name: "mega-props-rubik3-vol01-wtc-props"
+version: "2.0"
+subfolder: "100-props-textures"
+assets:
+- assetId: "bsc-rubik-wtc-complex"
+  include: [ "/BSC MEGA Props - Rubik3 Vol01 - WTC Props v..dat" ]
+info:
+  summary: "BSC MEGA Props Rubik3 Vol01 - WTC Props by Rubik3"
+  author: "Rubik"
+  websites:
+    - "https://www.sc4evermore.com/index.php/downloads/download/20-ploppable/279-sc4d-lex-legacy-bsc-custodian-rubik-wtc-complex"
+    - "https://community.simtropolis.com/files/file/36354-wtc-complex-sc4d-lex-legacy-bsc-custodian-rubik/"
+
+---
+group: "bsc"
+name: "bsc-rubik-world-trade-center-complex"
+dependencies:
+- "bsc:essentials"
+- "bsc:mega-props-sg-vol01"
+- "csx:mega-props-vol01"
+- "csx:mega-props-vol04"
+- "bsc:mega-props-rubik3-vol01-wtc-props"
+- "bsc:textures-vol01"
+- "bsc:textures-vol03"
+- "lord-quillian2:foss-construction-tower-crane"
+- "memo:submenus-dll"
+version: "2.0"
+subfolder: "360-landmark"
+assets:
+- assetId: "bsc-rubik-wtc-complex"
+  include:
+  - "BSC_WTC_Submenu.dat"
+  - "WTC_Complex_Landmark_4e4dd98d.SC4Lot"
+  - "WTC_Complex_Placeholder_0e44f044.SC4Lot"
+  - "WTC_Complex_Reward_ae3f8aea.SC4Lot"
+info:
+  summary: "BSC Rubik World Trade Center Complex by Rubik3"
+  description: |
+      **SC4D LEX Legacy - BSC Custodian Rubik WTC Complex**
+
+    This SC4 Devotion LEX Legacy Pack features the complete set of World Trade Center Compelex (Pre 11/9/2001) by Rubik, including Props and Lots, which had been available on the Lot Exchange (LEX) at SC4 Devotion. 
+
+    It includes the contents of 7 previously separate downloads.
+    After battling a number of technical issues, software incompatibility ultimately shuttered the LEX (at least in its familiar form from 2007 onward) in June 2023, and this package is designed to collect these dependencies in an easy-to-use form, allowing users to install them all in one go, or carefully select exactly which packs they wish to install.
+
+    Please note that this pack is expected to receive updates in the near future. Do not redistribute without asking first, mostly as doing so would complicate efforts to properly maintain, update, and provide technical support for the pack.
+    **CONTENTS:**
+
+    *     BSC MEGA Props Rubik3 Vol01 - WTC Props
+    *     BSC Rubik3 WTC Landmark
+    *     BSC Rubik3 WTC Placeholder
+    *     BSC Rubik3 WTC Reward
+    *     BSC WTC Submenu
+    *     One and Two World Trade - added with Version 2
+
+    **INSTALLATION:**
+
+    Please note:* if you had any of the older versions of these contents (including the now added One and Two World Trade - came as:* WTC_One World Trade.dat and WTC_Two World Trade.dat), first you must bulldoze them in your cities, then remove the original files from your Plugins.
+
+    This package is a simple .zip file.
+
+    Copy/extract the BSC and CAM parent folders into your plugins (or equivalent, if you have a custom Plugins folder location). If you extracted the ~Documents folder into your plugins, too, it's highly recommended to keep it, but move it out of the Plugins folder.
+
+    It is highly recommended to run the cleanitol with the installer and remove any previous versions from your plugins.
+    ptionally in the ~Documents folder in the main ZIP you can find a collective/master and separately all the individual cleanitol files and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
+    **DLL DEPENDENCIES:**
+
+    In order for the contents of this package to display correctly by taking advantage of the new DLL Mods requires the complete installation of the following dependencies (the below listed dependencies are covering a full install):*
+
+       ** Submenus DLL** - You need it to get the package submenu working.
+
+        Compatible only with the digital version (1.1.641) of SimCity 4 (Microsoft Windows and Linux only).
+
+    **DEPENDENCIES:**
+
+    The following files are required in order for the contents of this package to appear correctly (i.e., no 'brown boxes' or missing textures) (the below listed dependencies are covering a full install; for dependencies for individual collections see the readme_bsc_custodian_rubik_wtc_complex.html in the ZIP. Bear in mind that the original readmes are also available in the ~Documents/BSC_Readmes folder, but they have not been updated):*
+
+       ** SC4D LEX Legacy - BSC Custodian Rubik WTC Complex v1 (and above) - INCLUDED**
+        The below listed dependencies are all can be found in the hereby linked dependency pack compilation.
+    *         BSC MEGA Props - Rubik3 Vol01 - WTC Props v2
+
+    **    SC4D LEX Legacy - BSC Common Dependencies Pack v9 (and above)**
+        The below listed dependencies are all can be found in the hereby linked dependency pack compilation.
+    *         BSC Essentials (custom queries for the CAM lots)
+    *         BSC MEGA Props - SG Vol01 v4
+    *         CSX MEGA Props - Vol01 v3
+    *         CSX MEGA Props - Vol04 v3
+
+    *         BSC Textures Vol01
+    *         BSC Textures Vol03 v4
+        Foss Construction Tower Crane - You need them to make the cranes appear in the WTC Placeholder Lot.
+        Colossus Addon Mod 2.1.1 (only if you want to use the growable versions of the two tower lots)
+
+    **CREDITS:**
+
+    The following BSC members contributed models, textures, and modding support to this collection:*
+
+    *     Rubik
+    *     BarbyW
+    *     callagrafx
+    *     RippleJet
+    *     SimGoober
+
+    This package has been made possible by the Project ZIP efforts of Tyberius06, and was assembled by Ulisse Wolf.
+    Special Thanks
+
+    Webmaster & administration staff at SC4Evermore and SC4 Devotion.
+
+    For memo for subsequent updates on the NAM/Java installer.
+
+    And possibly others who may not have been mentioned. If your name has been forgotten or you're not on the list, then drop us a line, as it has been difficult to keep track of anyone/everyone that may of helped somewhere along the lines.
+
+    And to the community itself, we would also like to thank you for your support, making mods such as this possible too. We're still at it after 20 years thanks to you!
+
+    And last but not least, a thanks for the Maxis individuals too, for the [paid] work that they did. ;-)
+
+    **We will never forget 9/11, the victims and the heroes of this day**
+  author: "Rubik"
+  websites:
+    - "https://www.sc4evermore.com/index.php/downloads/download/20-ploppable/279-sc4d-lex-legacy-bsc-custodian-rubik-wtc-complex"
+    - "https://community.simtropolis.com/files/file/36354-wtc-complex-sc4d-lex-legacy-bsc-custodian-rubik/"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Night1.jpg
+---
+group: "bsc"
+name: "bsc-rubik-one-and-two-trade-center"
+dependencies:
+- "bsc:essentials"
+- "bsc:mega-props-sg-vol01"
+- "csx:mega-props-vol01"
+- "csx:mega-props-vol04"
+- "bsc:mega-props-rubik3-vol01-wtc-props"
+- "bsc:textures-vol01"
+- "bsc:textures-vol03"
+- "cam:colossus-addon-mod"
+version: "2.0"
+subfolder: "300-commercial"
+assets:
+- assetId: "bsc-rubik-wtc-complex"
+  include:
+  - "Two World Trade with Jobs.dat"
+  - "One World Trade with Jobs.dat"
+info:
+  summary: "BSC Rubik One and Two Trade Center by Rubik3"
+  description: |
+      **SC4D LEX Legacy - BSC Custodian Rubik WTC Complex**
+
+    This SC4 Devotion LEX Legacy Pack features the complete set of World Trade Center Compelex (Pre 11/9/2001) by Rubik, including Props and Lots, which had been available on the Lot Exchange (LEX) at SC4 Devotion. 
+
+    It includes the contents of 7 previously separate downloads.
+    After battling a number of technical issues, software incompatibility ultimately shuttered the LEX (at least in its familiar form from 2007 onward) in June 2023, and this package is designed to collect these dependencies in an easy-to-use form, allowing users to install them all in one go, or carefully select exactly which packs they wish to install.
+
+    Please note that this pack is expected to receive updates in the near future. Do not redistribute without asking first, mostly as doing so would complicate efforts to properly maintain, update, and provide technical support for the pack.
+    **CONTENTS:**
+
+    *     BSC MEGA Props Rubik3 Vol01 - WTC Props
+    *     BSC Rubik3 WTC Landmark
+    *     BSC Rubik3 WTC Placeholder
+    *     BSC Rubik3 WTC Reward
+    *     BSC WTC Submenu
+    *     One and Two World Trade - added with Version 2
+
+    **INSTALLATION:**
+
+    Please note:* if you had any of the older versions of these contents (including the now added One and Two World Trade - came as:* WTC_One World Trade.dat and WTC_Two World Trade.dat), first you must bulldoze them in your cities, then remove the original files from your Plugins.
+
+    This package is a simple .zip file.
+
+    Copy/extract the BSC and CAM parent folders into your plugins (or equivalent, if you have a custom Plugins folder location). If you extracted the ~Documents folder into your plugins, too, it's highly recommended to keep it, but move it out of the Plugins folder.
+
+    It is highly recommended to run the cleanitol with the installer and remove any previous versions from your plugins.
+    ptionally in the ~Documents folder in the main ZIP you can find a collective/master and separately all the individual cleanitol files and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
+    **DLL DEPENDENCIES:**
+
+    In order for the contents of this package to display correctly by taking advantage of the new DLL Mods requires the complete installation of the following dependencies (the below listed dependencies are covering a full install):*
+
+       ** Submenus DLL** - You need it to get the package submenu working.
+
+        Compatible only with the digital version (1.1.641) of SimCity 4 (Microsoft Windows and Linux only).
+
+    **DEPENDENCIES:**
+
+    The following files are required in order for the contents of this package to appear correctly (i.e., no 'brown boxes' or missing textures) (the below listed dependencies are covering a full install; for dependencies for individual collections see the readme_bsc_custodian_rubik_wtc_complex.html in the ZIP. Bear in mind that the original readmes are also available in the ~Documents/BSC_Readmes folder, but they have not been updated):*
+
+       ** SC4D LEX Legacy - BSC Custodian Rubik WTC Complex v1 (and above) - INCLUDED**
+        The below listed dependencies are all can be found in the hereby linked dependency pack compilation.
+    *         BSC MEGA Props - Rubik3 Vol01 - WTC Props v2
+
+    **    SC4D LEX Legacy - BSC Common Dependencies Pack v9 (and above)**
+        The below listed dependencies are all can be found in the hereby linked dependency pack compilation.
+    *         BSC Essentials (custom queries for the CAM lots)
+    *         BSC MEGA Props - SG Vol01 v4
+    *         CSX MEGA Props - Vol01 v3
+    *         CSX MEGA Props - Vol04 v3
+
+    *         BSC Textures Vol01
+    *         BSC Textures Vol03 v4
+        Foss Construction Tower Crane - You need them to make the cranes appear in the WTC Placeholder Lot.
+        Colossus Addon Mod 2.1.1 (only if you want to use the growable versions of the two tower lots)
+
+    **CREDITS:**
+
+    The following BSC members contributed models, textures, and modding support to this collection:*
+
+    *     Rubik
+    *     BarbyW
+    *     callagrafx
+    *     RippleJet
+    *     SimGoober
+
+    This package has been made possible by the Project ZIP efforts of Tyberius06, and was assembled by Ulisse Wolf.
+    Special Thanks
+
+    Webmaster & administration staff at SC4Evermore and SC4 Devotion.
+
+    For memo for subsequent updates on the NAM/Java installer.
+
+    And possibly others who may not have been mentioned. If your name has been forgotten or you're not on the list, then drop us a line, as it has been difficult to keep track of anyone/everyone that may of helped somewhere along the lines.
+
+    And to the community itself, we would also like to thank you for your support, making mods such as this possible too. We're still at it after 20 years thanks to you!
+
+    And last but not least, a thanks for the Maxis individuals too, for the [paid] work that they did. ;-)
+
+    **We will never forget 9/11, the victims and the heroes of this day**
+  author: "Rubik"
+  websites:
+    - "https://www.sc4evermore.com/index.php/downloads/download/20-ploppable/279-sc4d-lex-legacy-bsc-custodian-rubik-wtc-complex"
+    - "https://community.simtropolis.com/files/file/36354-wtc-complex-sc4d-lex-legacy-bsc-custodian-rubik/"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Night1.jpg
