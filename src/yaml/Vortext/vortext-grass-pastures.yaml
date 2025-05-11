@@ -2,8 +2,8 @@ group: vortext
 name: vortext-grass-pastures
 version: "2.0"
 subfolder: 400-industrial
-dependencies:
-- "null-45:allow-more-building-styles"
+#dependencies:
+#- "null-45:allow-more-building-styles"
 info:
   summary: Vortext - Grass Pastures
   description: |-

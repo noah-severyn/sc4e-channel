@@ -4,7 +4,7 @@ version: "3.0"
 subfolder: 400-industrial
 dependencies:
 - "memo:submenus-dll"
-- "null-45:allow-more-building-styles"
+#- "null-45:allow-more-building-styles"
 info:
   summary: BSC-VIP Girafe Agripack Vol01
   description: |-
