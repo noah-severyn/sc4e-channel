@@ -132,6 +132,14 @@ info:
 ---
 group: "bsc"
 name: "bsc-rubik-one-and-two-trade-center"
+dependencies:
+- "bsc:essentials"
+- "bsc:mega-props-sg-vol01"
+- "csx:mega-props-vol01"
+- "csx:mega-props-vol04"
+- "bsc:mega-props-rubik3-vol01-wtc-props"
+- "bsc:textures-vol01"
+- "bsc:textures-vol03"
 version: "2.0"
 subfolder: "300-commercial"
 variants:
@@ -141,15 +149,6 @@ variants:
     include:
     - "Two World Trade with Jobs.dat"
     - "One World Trade with Jobs.dat"
-    dependencies:
-    - "cam:colossus-addon-mod"
-    - "bsc:essentials"
-    - "bsc:mega-props-sg-vol01"
-    - "csx:mega-props-vol01"
-    - "csx:mega-props-vol04"
-    - "bsc:mega-props-rubik3-vol01-wtc-props"
-    - "bsc:textures-vol01"
-    - "bsc:textures-vol03"
 - variant: { cam: "no" }
   assets:
   - assetId: "bsc-rubik-wtc-complex"
