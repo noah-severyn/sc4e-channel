@@ -1,27 +1,21 @@
-group: bsc
-name: vip-girafe-agripack-vol01
+group: "girafe"
+name: "agripack-farms"
 version: "3.0"
-subfolder: 400-industrial
-dependencies:
-- "memo:submenus-dll"
-#- "null-45:allow-more-building-styles"
+subfolder: "410-agriculture"
 info:
-  summary: BSC-VIP Girafe Agripack Vol01
+  website: "https://www.sc4evermore.com/index.php/downloads/download/43-agriculture/210-bsc-vip-girafe-agripack-vol01-v2"
+  summary: "A collection of seasonal corn, rapeseed, and wheat fields"
+  author: "Girafe"
   description: |-
-    This mod contains all the agricultural mods developed by girafe. They are growable lots in addition to ploppable lots. 
-    Also there are prop seasonal which are available in the flora menu. 
-    The package has been updated for Submenu DLL and Buidling Style DLL support.
-  author: Girafe
-  website: https://www.sc4evermore.com/index.php/downloads/download/43-agriculture/210-bsc-vip-girafe-agripack-vol01
+    Corn, rapeseed and wheat are available as ploppable LOT (1 LOT with tractors and 1 LOT without tractors) that you can find under park menu.
+
+    This pack also includes growable farms and farm fields.
+
+    **Note: the farms do not include any visible building (farm house) only plain field.**
   images:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/Image_agripack_2.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/Image_agripack_1.jpg
-    - https://www.sc4evermore.com/images/jdownloads/screenshots/Image_agripack_props.jpg
-assets:
-  - assetId: bsc-vip-girafe-agripack-vol01
-
----
-assetId: bsc-vip-girafe-agripack-vol01
-version: "3.0"
-lastModified: "2025-05-04T13:53:42-07:00"
-url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=210:bsc-vip-girafe-agripack-vol01
+dependencies:
+- "girafe:agripack-props"
+- "memo:submenus-dll"
+- "null-45:allow-more-building-styles-dll"
