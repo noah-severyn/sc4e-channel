@@ -1,0 +1,94 @@
+group: "gottago"
+name: "vhs-building"
+dependencies:
+- "bsc:mega-props-cp-vol01"
+- "bsc:mega-props-d66-vol01"
+version: "1.0"
+subfolder: "600-civics"
+assets:
+- assetId: "vhs-building"
+info:
+  summary: "VHS Building by gottago(GTG)"
+  description: |-
+    VHS is an abbreviation of Volkshochschule, or community college, in German. The original building stands on Cäcilienstraße at Neumarkt in Cologne, Germany. The unusual, banded entry facade is a bas-relief by the Italian sculptor Arnoldo Pomodoro.
+
+    This is my first BAT and was created to begin to fill a shortage of long, low-rise commercial buildings in SC4. Three versions of the lot will be installed a college, a growable 5x2 CO §§ stage 6, and a ploppable LM CO §§ with jobs (included as CO lots of these dimensions are difficult to grow).
+
+    **INSTALLATION**
+
+    Copy/Extract the GTG parent folder into your Plugins. If you've extracted the ~Documents folder you may remove it from the Plugins, but keep it in a safe location.
+
+    To un-install the files, simply bulldoze every lot from this download in your cities and delete the files from the plugins folder afterwards.
+
+    To avoid conflicts, please, it is highly recommended to use any of the third party cleanitol tools and remove any previous versions from your plugins. In the ~Documents folder in the main ZIP you can find cleantiol script and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
+
+    **DEPENDENCY**
+    
+    To ensure proper functionality, be sure the files listed below are installed in the plugins folder.
+
+    *     GTG_sidewalk.DAT (included in this package)
+    *     SC4D LEX Legacy - BSC Common Dependencies Pack v9c (and above)
+    *         BSC MEGA Props CP Vol01
+    *         BSC MEGA Props D66 Vol01 v3
+    *     TSC Props Pack - Orange Mega Props v3
+
+    **Lot Details**
+
+    ***Ploppable College***
+    * Lot Size	5 x 2 tiles
+    * Student Capacity 	21,800
+    * School EQ Boost 	24
+    * Budget Cost 	§ 850/month in Health & Education
+    * Demand Created & Jobs & Amenities § 247, §§ 405, §§§ 80
+    * Plop Cost 	§ 10,400
+    * Bulldoze Cost 	§ 890
+    * Flammability 	40
+    * Power Consumption 	8 MWh/month
+    * Water Consumption 	30 gallons/month
+    * Air Pollution	4 over 2 tiles
+    * Water Pollution 	3 over 3 tiles
+    * Garbage Pollution 	2 tons/month
+
+    ***Growable Version***
+    * Lot size 	5 x 2 tiles, Commercial Office
+    * Building Style 	Euro
+    * Growth Stage 	6
+    * Occupancy 	773 CO§§
+    * Building Value 	§ 5,403
+    * Bulldoze Cost 	§ 415
+    * Flammability	40
+    * Power Consumption 	16 MWh/month
+    * Water Consumption 	164 gallons/month
+    * Air Pollution 	3 over 5 tiles
+    * Water Pollution 	3 over 6 tiles
+    * Garbage Pollution 	4 tons/month
+
+    ***Ploppable Version***
+    * Lot size 	5 x 2 tiles
+    * Menu Position 	Landmarks
+    * Custom Features 	Menu Icon, Query
+    * Reward Requirements 	None
+    * Jobs 	595 CO§§
+    * Plop Cost 	§ 5,800
+    * Bulldoze Cost 	§ 415
+    * Transit Enabled 	No
+    * Power Consumption 	12 MWh/month
+    * Water Consumption 	129 gallons/month
+    * Air Pollution 	2 over 5 tiles
+    * Water Pollution 	2 over 6 tiles
+    * Garbage Pollution 	4 tons/month
+    * Park, Landmark & Mayor-rating Effects 	None
+    * Demand Cap Relief 	None
+
+  author: "gottago(GTG)"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/16-civic/405-gtg-vhs-building"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GTG_VHS2.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/VHS_nite.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/VHS2.jpg
+    
+---
+assetId: "vhs-building"
+version: "1.0"
+lastModified: "2025-06-17T05:13:35-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=405:gtg-vhs-building"

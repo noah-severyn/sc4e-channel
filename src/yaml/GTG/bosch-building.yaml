@@ -1,0 +1,66 @@
+group: "gottago"
+name: "bosch-building"
+version: "1.0"
+subfolder: "300-commercial"
+assets:
+- assetId: "bosch-building"
+info:
+  summary: "Bosch Building by gottago(GTG)"
+  description: |-
+    No. 2-10 Hohenzollernring stands on a prominent location at Rudolfplatz in Cologne, and is typical of the boxy, low-rise commercial buildings built in postwar Germany. This is my second BAT and, with the VHS Building, the second in this Cologne commercials series. The curious rooftrack and corner 'ears' are window-cleaning equipment.
+
+    As the BAT fills an entire 2x4 W2W corner lot, there are no dependencies. Two versions of the lot will be installed a growable 4x2 CS §§ stage 6, and a ploppable LM CS §§ with jobs.
+
+    **INSTALLATION**
+
+    Copy/Extract the GTG parent folder into your Plugins. If you've extracted the ~Documents folder you may remove it from the Plugins, but keep it in a safe location.
+
+    To un-install the files, simply bulldoze every lot from this download in your cities and delete the files from the plugins folder afterwards.
+
+    To avoid conflicts, please, it is highly recommended to use any of the third party cleanitol tools and remove any previous versions from your plugins. In the ~Documents folder in the main ZIP you can find cleantiol script and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
+
+    **Lot Details**
+
+    ***Growable Version***
+    * Lot size 	4 x 2 tiles, W2W corner, Commercial Services
+    * Building Style 	Euro
+    * Growth Stage 	7
+    * Occupancy 	2113 CSS§,531 CS§§
+    * Building Value 	§ 18,129
+    * Bulldoze Cost 	§ 468
+    * Flammability 	40
+    * Power Consumption 	43 MWh/month
+    * Water Consumption 	511 gallons/month
+    * Air Pollution 	19 over 5 tiles
+    * Water Pollution 	13 over 6 tiles
+    * Garbage Pollution 	26 tons/month
+
+    ***Ploppable Version***
+    * Lot size 	4 x 2 tiles
+    * Menu Position 	Landmarks
+    * Custom Features 	Menu Icon, Query
+    * Reward Requirements 	None
+    * Jobs 	1410 CS§, 355 CS§§
+    * Plop Cost 	§ 8,030
+    * Bulldoze Cost 	§ 468
+    * Transit Enabled 	No
+    * Power Consumption 	29 MWh/month
+    * Water Consumption 	342 gallons/month
+    * Air Pollution 	17 over 5 tiles
+    * Water Pollution 	8 over 6 tiles
+    * Garbage Pollution 	17 tons/month
+    * Park, Landmark & Mayor-rating Effects 	None
+    * Demand Cap Relief 	None
+    
+  author: "gottago(GTG)"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/12-commercial/404-gtg-bosch-building"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Bosch1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/BoschNite.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Hring.jpg
+    
+---
+assetId: "bosch-building"
+version: "1.0"
+lastModified: "2025-06-17T05:08:11-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=404:gtg-bosch-building"
