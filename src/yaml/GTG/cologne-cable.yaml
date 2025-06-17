@@ -1,4 +1,4 @@
-group: "gottago(GTG)"
+group: "gottago"
 name: "cologne-cable"
 dependencies:
 - "peg:security-fencing-kit"
