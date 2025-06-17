@@ -3,6 +3,7 @@ name: "vhs-building"
 dependencies:
 - "bsc:mega-props-cp-vol01"
 - "bsc:mega-props-d66-vol01"
+- "orange:mega-props-vol01"
 version: "1.0"
 subfolder: "600-civics"
 assets:
