@@ -16,11 +16,11 @@ dependencies:
 version: "1.0"
 subfolder: "400-industrial"
 variants:
- - variant: { CAM: "no"}
-   assets:
-   - assetId: "cologne-cable"
-     exclude:  
-     - "/CAM/"
+  - variant: { CAM: "no"}
+    assets:
+    - assetId: "cologne-cable"
+      exclude:  
+      - "/CAM/"
   - variant: { CAM: "yes" }
     assets:
     - assetId: "cologne-cable"
