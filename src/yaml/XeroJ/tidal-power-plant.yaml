@@ -1,9 +1,9 @@
 group: "xeroj"
-name: "xero-j-wavestar-tidal-power-plants"
+name: "wavestar-tidal-power-plants"
 version: "2.0"
 subfolder: "500-utilities"
 assets:
-- assetId: "xero-j-wavestar-tidal-power-plants"
+- assetId: "wavestar-tidal-power-plants"
 info:
   summary: "Wavestar Tidal Power Plants by Xero_J"
   description: |-
@@ -22,7 +22,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/prev3.jpg
     
 ---
-assetId: "xero-j-wavestar-tidal-power-plants"
+assetId: "wavestar-tidal-power-plants"
 version: "2.0"
 lastModified: "2025-06-18T17:12:03-07:00"
 url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=408:xero-j-wavestar-tidal-power-plants"

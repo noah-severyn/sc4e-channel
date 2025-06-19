@@ -1,9 +1,9 @@
 group: "xeroj"
-name: "xero-j-normal-and-multirotor-wind-turbines"
+name: "normal-and-multirotor-wind-turbines"
 version: "2.0"
 subfolder: "500-utilities"
 assets:
-- assetId: "xero-j-normal-and-multirotor-wind-turbines"
+- assetId: "normal-and-multirotor-wind-turbines"
 info:
   summary: "Normal And Multirotor Wind Turbines by Xero_J"
   description: |-
@@ -24,7 +24,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/Xero_J%20Windturbines_preview.jpg
     
 ---
-assetId: "xero-j-normal-and-multirotor-wind-turbines"
+assetId: "normal-and-multirotor-wind-turbines"
 version: "2.0"
 lastModified: "2025-06-18T17:11:04-07:00"
 url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=407:xero-j-normal-and-multirotor-wind-turbines"
