@@ -1,0 +1,28 @@
+group: "xeroj"
+name: "xero-j-wavestar-tidal-power-plants"
+version: "2.0"
+subfolder: "500-utilities"
+assets:
+- assetId: "xero-j-wavestar-tidal-power-plants"
+info:
+  summary: "Wavestar Tidal Power Plants by Xero_J"
+  description: |-
+   Tidal Power Plants made by Xero_J
+
+   These power plants are to be placed in the sea and allow to produce clean electricity.
+
+   These buildings have PIM-Xd statistics.
+
+   To install this mod just copy the Xero_J folder inside the Plugins folder
+
+  author: "Xero_J"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/15-utility/408-xero-j-wavestar-tidal-power-plants"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/prev2.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/prev3.jpg
+    
+---
+assetId: "xero-j-wavestar-tidal-power-plants"
+version: "2.0"
+lastModified: "2025-06-18T17:12:03-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=408:xero-j-wavestar-tidal-power-plants"

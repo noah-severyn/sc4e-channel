@@ -1,0 +1,30 @@
+group: "xeroj"
+name: "xero-j-normal-and-multirotor-wind-turbines"
+version: "2.0"
+subfolder: "500-utilities"
+assets:
+- assetId: "xero-j-normal-and-multirotor-wind-turbines"
+info:
+  summary: "Normal And Multirotor Wind Turbines by Xero_J"
+  description: |-
+   This file was created by Xero_J from Argentina.
+
+   The installer contains the version animated and static of the wind turbines,if you want to remove one of the 2 versions
+   enter the folder or document library go into "SimCity 4\Plugins\Xero_J\Normal and Multirotor Wind Turbines",
+   you can remove the folder that you do not need (animated or static)
+   the animated model has a small error in the largest zomm,sometimes shows bad animation,but it solves moving or rotating the camera a couple of times.
+
+   These buildings have PIM-Xd statistics.
+
+   To avoid conflicts, please, it is highly recommended to use any of the third party cleanitol tools and remove any previous versions from your plugins. In the ~Documents folder in the main ZIP you can find a **Cleanitol_Xero_J Normal and Multirotor Wind Turbines_Props.txt** file and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
+
+  author: "Xero_J"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/15-utility/407-xero-j-normal-and-multirotor-wind-turbines"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Xero_J%20Windturbines_preview.jpg
+    
+---
+assetId: "xero-j-normal-and-multirotor-wind-turbines"
+version: "2.0"
+lastModified: "2025-06-18T17:11:04-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=407:xero-j-normal-and-multirotor-wind-turbines"
