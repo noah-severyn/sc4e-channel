@@ -1,0 +1,59 @@
+group: "zero7"
+name: "peckham-library-and-media-centre"
+version: "1.0"
+subfolder: "620-education"
+dependencies:
+- "bsc:essentials"
+- "bsc:mega-props-mikeseith-vol01"
+- "bsc:mega-props-mikeseith-vol03"
+- "porkissimo:jenx-porkie-expanded-porkie-props"
+assets:
+- assetId: "peckham-library-and-media-centre"
+info:
+  summary: "Peckham Library and Media Centre by Zero7"
+  description: |-
+    Libraries are not generally the most distinctive buildings in the world, but Alsop Architects set out to change that when they designed the Peckham Library and Media Centre. The main features are the pod rooms which extend above the roofline of the main library, the extreme cantilever of the upper floors and the six storeys of glass at the rear which is used to display art installations 
+
+    **INSTALLATION**
+
+    Copy/Extract the Zero7 parent folder into your Plugins. If you've extracted the ~Documents folder you may remove it from the Plugins, but keep it in a safe location.
+
+    To un-install the files, simply bulldoze every lot from this download in your cities and delete the files from the plugins folder afterwards.
+
+    **DEPENDENCY**
+
+    To ensure the proper functionality, make sure the files mentioned below are installed in the plugins folder.
+
+        SC4D LEX Legacy - BSC Common Dependencies Pack v9c (and above)
+            BSC Essentials
+            BSC MEGA Props Mikeseith Vol01 v2
+            BSC MEGA Props Mikeseith Vol03
+        JENX-Porkie Expanded Porkie Props
+
+    **Lot Details and Information**
+
+    *Ploppable*
+    
+    Lot size 	4 x 3 tiles
+    Building style(s) 	Building Civic,Building Library
+    Growth stage 	Ploppable
+    Books 	740000
+    Bulldoze cost 	§ 610
+    Max. Fire Stage 	35
+    Power consumption 	6 MWh/month
+    Water consumption 	21 Gallons/month
+    Air pollution 	3 over 2 tiles
+    Water pollution 	2 over 3 tiles
+    Garbage pollution 	1 over 0 tiles
+
+  author: "Zero7"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/410-zero7-peckham-library-and-media-centre"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/PeckhamLibrary_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/PeckhamLibrary_Night.jpg
+    
+---
+assetId: "peckham-library-and-media-centre"
+version: "1.0"
+lastModified: "2025-06-18T17:32:47-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=410:zero7-peckham-library-and-media-centre"

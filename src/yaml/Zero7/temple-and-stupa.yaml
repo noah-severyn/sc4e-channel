@@ -1,0 +1,59 @@
+group: "zero7"
+name: "temple-and-stupa"
+version: "1.0"
+subfolder: "650-religion"
+dependencies:
+- "bsc:essentials"
+- "bsc:mega-props-cp-vol01"
+- "bsc:texturepack-cycledogg-vol01"
+assets:
+- assetId: "temple-and-stupa"
+info:
+  summary: "Temple and Stupa by Zero7"
+  description: |-
+    A Thai style Buddhist temple and stupa in a walled courtyard.
+
+    This is a simple landmark.
+
+    **INSTALLATION**
+
+    Copy/Extract the Zero7 parent folder into your Plugins. If you've extracted the ~Documents folder you may remove it from the Plugins, but keep it in a safe location.
+
+    To un-install the files, simply bulldoze every lot from this download in your cities and delete the files from the plugins folder afterwards.
+
+    **DEPENDENCY**
+
+    To ensure the proper functionality, make sure the files mentioned below are installed in the plugins folder.
+
+    *     SC4D LEX Legacy - BSC Common Dependencies Pack v9b (and above)
+    *         BSC Essentials
+    *         BSC MEGA Props CP Vol01
+    *         BSC TexturePack CycleDogg V01
+
+    ** Lot Details and Information**
+
+    *Ploppable:*
+    
+    * Lot size 	2 x 5 tiles
+    * Building style(s) 	Building Landmark,Building YIMBY,Building Landmark Ogle,Building Worship
+    * Bulldoze cost 	§ 286
+    * Worth 	§
+    * Construction Time 	days
+    * Max. Fire Stage 	10
+    * Power consumption 	50 MWh/month
+    * Water consumption 	0 Gallons/month
+    * Air pollution 	1 over 1 tiles
+    * Water pollution 	1 over 2 tiles
+    * Garbage pollution 	10 over 0 tiles
+
+  author: "Zero7"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/16-civic/411-zero7-temple-and-stupa"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Z7_TempleAndStupa_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Z7_TempleAndStupa_Night.jpg
+    
+---
+assetId: "temple-and-stupa"
+version: "1.0"
+lastModified: "2025-06-19T18:05:55-07:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=411:zero7-temple-and-stupa"
