@@ -1,6 +1,6 @@
 group: "jmyers2043"
 name: "homes-pack"
-version: "2"
+version: "2.0"
 subfolder: "200-residential"
 dependencies:
 - "bsc:essentials"
@@ -13,13 +13,11 @@ variants:
  - variant: { building-style: "no" }
    assets:
    - assetId: "cycledogg-early-19th-century-residentials-pack"
-   include: [ "/JMyers/" ]  # excludes BSCProps folder which has been moved to bsc:mega-props-jmyers-common-props
  - variant: { building-style: "yes" }
    dependencies: 
    - "null-45:allow-more-building-styles-dll"
    assets:
    - assetId: "cycledogg-early-19th-century-residentials-pack"
-   include: [ "/JMyers/" ]  # excludes BSCProps folder which has been moved to bsc:mega-props-jmyers-common-props
 variantInfo:
 - variantId: "building-style"
   description: This setting determines whether to install the version that supports additional building styles or the original version without support for additional styles activated
@@ -90,6 +88,6 @@ info:
 
 ---
 assetId: "jmyers-homes-pack"
-version: "2"
-lastModified: "2025-05-04T20:49:45Z"
+version: "2.0"
+lastModified: "2025-06-26T16:02:36-07:00"
 url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=4:sc4d-lex-legacy-jmyers-homes-pack"
