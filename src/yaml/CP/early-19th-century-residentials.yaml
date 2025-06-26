@@ -15,10 +15,10 @@ dependencies:
 - "bsc:textures-vol02"
 - "peg:mtp-super-pack"
 variants:
-  - variant: { buildingstyle: no }
+  - variant: { buildingstyle: "no" }
     assets:
       - assetId: "cycledogg-early-19th-century-residentials-pack"
-  - variant: { buildingstyle: yes }
+  - variant: { buildingstyle: "yes" }
     dependencies: [ "null-45:allow-more-building-styles" ]
     assets:
       - assetId: "cycledogg-early-19th-century-residentials-pack"
@@ -36,8 +36,8 @@ info:
     Once into the installer, after agreeing to the terms for the package, click to the Files tab to select which dependencies you wish to install (making no changes here will install everything). Then, click to the Location tab to set up an installation location (this should be the root of your Documents/SimCity 4/Plugins folder). After this, click over to the Install tab, and click 'Start installation' to begin the installation procedure. When installation is complete, the tab pop up a 
     message indicating it, after which you are safe to close the installer.
 
-    It is highly recommended to run the cleanitol with the installer and remove any previous versions from your plugins. However it is also highly recommended to keep regular back-ups of your plugins folder or specific contents listed in the cleanitol scripts just to be on the safe side.
-    Optionally in the ~Documents folder in the main ZIP you can find a collective/master and separately all the individual cleanitol files and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
+    It is highly recommended to run the cleanitol with the installer and remove any previous versions from your plugins. However it is also highly recommended to keep regular back-ups of your plugins folder "or" specific contents listed in the cleanitol scripts just to be on the safe side.
+    Optionally in the ~Documents folder in the main ZIP you can find a collective/master and separately all the individual cleanitol files and by using either the newer nos.17's SC4 Cleanitol "or" the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
 
     **DLL DEPENDENCIES:**
 
