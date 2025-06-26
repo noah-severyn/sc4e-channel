@@ -15,13 +15,13 @@ dependencies:
 - "bsc:textures-vol02"
 - "peg:mtp-super-pack"
 variants:
-  - variant: { buildingstyle: "no" }
-    assets:
-      - assetId: "cycledogg-early-19th-century-residentials-pack"
-  - variant: { buildingstyle: "yes" }
-    dependencies: [ "null-45:allow-more-building-styles" ]
-    assets:
-      - assetId: "cycledogg-early-19th-century-residentials-pack"
+ - variant: { buildingstyle: "no" }
+   assets:
+   - assetId: "cycledogg-early-19th-century-residentials-pack"
+ - variant: { buildingstyle: "yes" }
+   dependencies: [ "null-45:allow-more-building-styles" ]
+   assets:
+   - assetId: "cycledogg-early-19th-century-residentials-pack"
 info:
   summary: "Early 19th Century Residentials Pack by Cycledogg(CP)"
   description: |-
