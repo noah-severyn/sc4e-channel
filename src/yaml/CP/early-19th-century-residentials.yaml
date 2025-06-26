@@ -1,5 +1,5 @@
 group: "cycledogg"
-name: "early-19th-century-residentials"
+name: "early-19th-century-residentials-pack"
 version: "2.0"
 subfolder: "200-residential"
 dependencies:
@@ -17,13 +17,13 @@ dependencies:
 variants:
   - variant: { buildingstyle: no }
     assets:
-      - assetId: "cycledogg-early-19th-century-residentials"
+      - assetId: "cycledogg-early-19th-century-residentials-pack"
   - variant: { buildingstyle: yes }
     dependencies: [ "null-45:allow-more-building-styles" ]
     assets:
-      - assetId: "cycledogg-early-19th-century-residentials"
+      - assetId: "cycledogg-early-19th-century-residentials-pack"
 info:
-  summary: "Early 19th-Century Residentials Pack by Cycledogg(CP)"
+  summary: "Early 19th Century Residentials Pack by Cycledogg(CP)"
   description: |-
     These two sets by c.p. transport you to early 19th century America, offering 10 high-wealth houses on 16 varied, slope-friendly lots (stages 1-4) and 34 high-wealth tenements on 34 diverse, slope-friendly lots (stages 4-6). Both are part of a series focused on this architectural style, encouraging varied lot zoning for visual interest. Enjoy bringing this historical charm to your city!
 
@@ -70,7 +70,7 @@ info:
 
     **CREDITS:**
 
-    The following members contributed models, textures, and modding support to this collection:
+    The following members contributed models, textures, and modding support to this collection
 
     * CP (Cycledogg)
 
@@ -93,7 +93,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/GreekRevHiWealthHsesL1.JPG
     
 ---
-assetId: "cycledogg-early-19th-century-residentials"
+assetId: "cycledogg-early-19th-century-residentials-pack"
 version: "2.0"
 lastModified: "2025-05-03T17:51:59-07:00"
 url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=5:sc4d-lex-legacy-cp-early19thcenturyresidentials-pack"
