@@ -17,11 +17,11 @@ dependencies:
 variants:
   - variant: { buildingstyle: no }
     assets:
-      - assetId: cycledogg-early-19th-century-residentials
+      - assetId: "cycledogg-early-19th-century-residentials"
   - variant: { buildingstyle: yes }
     dependencies: [ "null-45:allow-more-building-styles" ]
     assets:
-      - assetId: cycledogg-early-19th-century-residentials
+      - assetId: "cycledogg-early-19th-century-residentials"
 info:
   summary: "Early 19th-Century Residentials Pack by Cycledogg(CP)"
   description: |-
