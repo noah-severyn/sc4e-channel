@@ -15,10 +15,10 @@ dependencies:
 - "bsc:textures-vol02"
 - "peg:mtp-super-pack"
 variants:
- - variant: { buildingstyle: "no" }
+ - variant: { cycledogg-early-19th-century-residentials-pack:buildingstyle: "no" }
    assets:
    - assetId: "cycledogg-early-19th-century-residentials-pack"
- - variant: { buildingstyle: "yes" }
+ - variant: { cycledogg-early-19th-century-residentials-pack:buildingstyle: "yes" }
    dependencies: [ "null-45:allow-more-building-styles" ]
    assets:
    - assetId: "cycledogg-early-19th-century-residentials-pack"
