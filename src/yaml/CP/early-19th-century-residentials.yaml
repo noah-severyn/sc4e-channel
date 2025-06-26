@@ -25,7 +25,7 @@ variants:
 info:
   summary: "Early 19th-Century Residentials Pack by Cycledogg(CP)"
   description: |-
-    hese two sets by c.p. transport you to early 19th century America, offering 10 high-wealth houses on 16 varied, slope-friendly lots (stages 1-4) and 34 high-wealth tenements on 34 diverse, slope-friendly lots (stages 4-6). Both are part of a series focused on this architectural style, encouraging varied lot zoning for visual interest. Enjoy bringing this historical charm to your city!
+    These two sets by c.p. transport you to early 19th century America, offering 10 high-wealth houses on 16 varied, slope-friendly lots (stages 1-4) and 34 high-wealth tenements on 34 diverse, slope-friendly lots (stages 4-6). Both are part of a series focused on this architectural style, encouraging varied lot zoning for visual interest. Enjoy bringing this historical charm to your city!
 
     **INSTALLATION:**
 
@@ -33,7 +33,8 @@ info:
 
     To install it, you'll either need the Java Runtime Environment to run the installer--Adoptium's open-source edition is recommended--or a zip tool capable of opening the installer to allow manual installation. For Windows/Linux, use 7-zip, and for macOS, use Keka.
 
-    Once into the installer, after agreeing to the terms for the package, click to the Files tab to select which dependencies you wish to install (making no changes here will install everything). Then, click to the Location tab to set up an installation location (this should be the root of your My DocumentsSimCity 4Plugins folder). After this, click over to the Install tab, and click 'Start installation' to begin the installation procedure. When installation is complete, the tab pop up a message indicating it, after which you are safe to close the installer.
+    Once into the installer, after agreeing to the terms for the package, click to the Files tab to select which dependencies you wish to install (making no changes here will install everything). Then, click to the Location tab to set up an installation location (this should be the root of your Documents/SimCity 4/Plugins folder). After this, click over to the Install tab, and click 'Start installation' to begin the installation procedure. When installation is complete, the tab pop up a 
+    message indicating it, after which you are safe to close the installer.
 
     It is highly recommended to run the cleanitol with the installer and remove any previous versions from your plugins. However it is also highly recommended to keep regular back-ups of your plugins folder or specific contents listed in the cleanitol scripts just to be on the safe side.
     Optionally in the ~Documents folder in the main ZIP you can find a collective/master and separately all the individual cleanitol files and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
@@ -42,13 +43,13 @@ info:
 
     In order for the contents of this package to display correctly by taking advantage of the new DLL Mods requires the complete installation of the following dependencies (the below listed dependencies are covering a full install):
 
-    llow More Building Styles DLL Plugin - You need to get the function of the additional styles
+    Allow More Building Styles DLL Plugin - You need to get the function of the additional styles
 
     Compatible only with the digital version (1.1.641) of SimCity 4 (Microsoft Windows and Linux only).
 
     **DEPENDENCIES:**
 
-    The following files are required in order for the contents of this package to appear correctly and they work correctly (i.e., no 'brown boxes' or missing textures) (Bear in mind that the original readmes are also available in the ~Documents/Boston BigDig_Readmes folder, but they have not been updated):
+    The following files are required in order for the contents of this package to appear correctly and they work correctly (i.e., no 'brown boxes' or missing textures) (Bear in mind that the original readmes are also available in the ~Documents folder, but they have not been updated):
 
     * BSC Common Dependencies Pack V9 (and above)
     The below listed dependencies are all can be found in the hereby linked dependency pack compilation.
