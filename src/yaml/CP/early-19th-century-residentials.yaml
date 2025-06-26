@@ -20,7 +20,7 @@ variants:
    - assetId: "cycledogg-early-19th-century-residentials-pack"
  - variant: { buildingstyle: "yes" }
    dependencies: 
-   - "null-45:allow-more-building-styles"
+   - "null-45:allow-more-building-styles-dll"
    assets:
    - assetId: "cycledogg-early-19th-century-residentials-pack"
 info:
