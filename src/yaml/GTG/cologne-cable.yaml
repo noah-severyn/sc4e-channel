@@ -24,7 +24,7 @@ variants:
     assets:
     - assetId: "cologne-cable"
       exclude:  
-      - "/Cologne Cable/IM\\$\\$3_10x6_GTG Cologne Cable_fdb60d49.SC4Lot/"
+      - [ "/IM\\$\\$3_10x6_GTG Cologne Cable_fdb60d49.SC4Lot/" ]
 
 assets:
 - assetId: "cologne-cable"
