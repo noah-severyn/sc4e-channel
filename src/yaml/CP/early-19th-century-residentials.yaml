@@ -14,23 +14,6 @@ dependencies:
 - "bsc:textures-vol01"
 - "bsc:textures-vol02"
 - "peg:mtp-super-pack"
-variants:
- - variant: { building-style: "no" }
-   assets:
-   - assetId: "cycledogg-early-19th-century-residentials-pack"
- - variant: { building-style: "yes" }
-   dependencies: 
-   - "null-45:allow-more-building-styles-dll"
-   assets:
-   - assetId: "cycledogg-early-19th-century-residentials-pack"
-variantInfo:
-- variantId: "building-style"
-  description: This setting determines whether to install the version that supports additional building styles or the original version without support for additional styles activated
-  values:
-  - value: "no"
-    description: Maxis default building styles (recommended for non DLL User)
-  - value: "yes"
-    description: For those using the additional building styles 
 info:
   summary: "Early 19th Century Residentials Pack by Cycledogg(CP)"
   description: |-
