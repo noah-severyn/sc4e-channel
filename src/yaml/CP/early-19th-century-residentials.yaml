@@ -14,6 +14,8 @@ dependencies:
 - "bsc:textures-vol01"
 - "bsc:textures-vol02"
 - "peg:mtp-super-pack"
+assets:
+- assetId: "cycledogg-early-19th-century-residentials-pack"
 info:
   summary: "Early 19th Century Residentials Pack by Cycledogg(CP)"
   description: |-
@@ -85,7 +87,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/GreekRevHiWealthHsesL1.JPG
     
 ---
-assetId: "early-19th-century-residentials-pack"
+assetId: "cycledogg-early-19th-century-residentials-pack"
 version: "2.0"
 lastModified: "2025-05-03T17:51:59-07:00"
 url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=5:sc4d-lex-legacy-cp-early19thcenturyresidentials-pack"
