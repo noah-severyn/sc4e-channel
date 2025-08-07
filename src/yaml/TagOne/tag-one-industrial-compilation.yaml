@@ -639,7 +639,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Ammonia Plant/"
+    - "/Ammonia Plant/"
 
 ---
 group: tag-one
@@ -673,7 +673,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/AquaFilter Inc/"
+    - "/AquaFilter Inc/"
 
 ---
 group: tag-one
@@ -731,7 +731,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Concrete Batching Plant/"
+    - "/Concrete Batching Plant/"
 
 ---
 group: tag-one
@@ -766,7 +766,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/DIYworld/"
+    - "/DIYworld/"
 
 ---
 group: tag-one
@@ -797,7 +797,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/DPC Logistics/"
+    - "/DPC Logistics/"
 
 ---
 group: tag-one
@@ -826,7 +826,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/GasTag Galvanization AG/"
+    - "/GasTag Galvanization AG/"
 
 ---
 group: tag-one
@@ -882,7 +882,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/I-m filler lots/"
+    - "/I-m filler lots/"
 
 ---
 group: tag-one
@@ -911,7 +911,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/IMPEX Clothing Company/"
+    - "/IMPEX Clothing Company/"
 
 ---
 group: tag-one
@@ -936,7 +936,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Industrial Furnace/"
+    - "/Industrial Furnace/"
 
 ---
 group: tag-one
@@ -994,7 +994,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/LedPro Leds/"
+    - "/LedPro Leds/"
 
 ---
 group: tag-one
@@ -1023,7 +1023,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/LGX Chemical Engineering/"
+    - "/LGX Chemical Engineering/"
 
 ---
 group: tag-one
@@ -1051,7 +1051,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Milk Production Factory/"
+    - "/Milk Production Factory/"
 
 ---
 group: tag-one
@@ -1081,7 +1081,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Oil Refinery Fillers with Jobs#/"
+    - "/Oil Refinery Fillers with Jobs#/"
 
 ---
 group: tag-one
@@ -1111,7 +1111,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Oil Refinery#/"
+    - "/Oil Refinery#/"
 
 ---
 group: tag-one
@@ -1142,7 +1142,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Pink Cap Music/"
+    - "/Pink Cap Music/"
 
 ---
 group: tag-one
@@ -1174,7 +1174,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Pluimers Insulation/"
+    - "/Pluimers Insulation/"
 
 ---
 group: tag-one
@@ -1207,7 +1207,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Rena Electronics/"
+    - "/Rena Electronics/"
 
 ---
 group: tag-one
@@ -1237,7 +1237,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/SAP Rebar/"
+    - "/SAP Rebar/"
         
 ---
 group: tag-one
@@ -1269,7 +1269,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Skerwin Paint Products/"
+    - "/Skerwin Paint Products/"
         
 ---
 group: tag-one
@@ -1299,7 +1299,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Small I-ht storage buildings/"
+    - "/Small I-ht storage buildings/"
     
 ---
 group: tag-one
@@ -1340,7 +1340,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Small I-m buildings/"
+    - "/Small I-m buildings/"
 
 ---
 group: tag-one
@@ -1365,7 +1365,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Vacuum Distillation Unit/"
+    - "/Vacuum Distillation Unit/"
     
 ---
 group: tag-one
@@ -1396,7 +1396,7 @@ dependencies:
 assets:
 - assetId: tag-one-industrial-set
     include:
-        - "/Vuvuzela Injection Molding/"
+    - "/Vuvuzela Injection Molding/"
         
 ---
 group: tag-one
