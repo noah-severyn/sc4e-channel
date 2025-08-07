@@ -109,12 +109,12 @@ variants:
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$3_4x6_Jack Wild Conductors_35f7ea77.SC4Lot"
+        - "/IHT\\$\\$\\$3_4x6_Jack Wild Conductors_35f7ea77.SC4Lot"
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$5_4x6_Jack Wild Conductors_e74165f5.SC4Lot"
+        - "/IHT\\$\\$\\$5_4x6_Jack Wild Conductors_e74165f5.SC4Lot"
         
 ---
 group: tag-one
@@ -147,16 +147,16 @@ variants:
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$3_4x4_LEDPRO_6e05eb50.SC4Lot"
-        - "/IHT\\$$\\$3_4x5_LEDPRO_6db4ebec.SC4Lot"
-        - "/IHT\\$$\\$3_5x4_LEDPRO_8f4662a2.SC4Lot"
+        - "/IHT\\$\\$\\$3_4x4_LEDPRO_6e05eb50.SC4Lot"
+        - "/IHT\\$\\$\\$3_4x5_LEDPRO_6db4ebec.SC4Lot"
+        - "/IHT\\$\\$\\$3_5x4_LEDPRO_8f4662a2.SC4Lot"
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$6_4x4_LEDPRO_676f83a9.SC4Lot"
-        - "/IHT\\$$\\$6_4x5_LEDPRO_96f63dde.SC4Lot"
-        - "/IHT\\$$\\$6_5x4_LEDPRO_16f63cd3.SC4Lot"        
+        - "/IHT\\$\\$\\$6_4x4_LEDPRO_676f83a9.SC4Lot"
+        - "/IHT\\$\\$\\$6_4x5_LEDPRO_96f63dde.SC4Lot"
+        - "/IHT\\$\\$\\$6_5x4_LEDPRO_16f63cd3.SC4Lot"        
         
 ---
 group: tag-one
@@ -193,15 +193,15 @@ variants:
       - assetId: tag-one-industrial-set
         include:
         - "/IHT 5F85F199 Examplars.dat"
-        - "/IHT\\$$\\$3_3x4_5F85F199_Lot_b4c9be6a.SC4Lot"
-        - "/IHT\\$$\\$3_4x4_5F85F199_Lot_c17b690b.SC4Lot"
+        - "/IHT\\$\\$\\$3_3x4_5F85F199_Lot_b4c9be6a.SC4Lot"
+        - "/IHT\\$\\$\\$3_4x4_5F85F199_Lot_c17b690b.SC4Lot"
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
         include:
         - "/IHT EFFEC00E Examplars.dat"
-        - "/IHT\\$$\\$5_3x4_EFFEC00E_Lot_c6e13bfd.SC4Lot"
-        - "/IHT\\$$\\$5_4x4_EFFEC00E_Lot_66e13c07.SC4Lot"     
+        - "/IHT\\$\\$\\$5_3x4_EFFEC00E_Lot_c6e13bfd.SC4Lot"
+        - "/IHT\\$\\$\\$5_4x4_EFFEC00E_Lot_66e13c07.SC4Lot"     
 
 ---
 group: tag-one
@@ -279,12 +279,12 @@ variants:
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$3_4x6_PCB Assembly_97c19355.SC4Lot"
+        - "/IHT\\$\\$\\$3_4x6_PCB Assembly_97c19355.SC4Lot"
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$6_4x6_PCB Assembly_e869d19b.SC4Lot"
+        - "/IHT\\$\\$\\$6_4x6_PCB Assembly_e869d19b.SC4Lot"
 
 ---
 group: tag-one
@@ -321,8 +321,8 @@ variants:
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$5_3x3_PharmaLab_961de078.SC4Lot"
-        - "/IHT\\$$\\$7_2x3_PharmaLab_661de05e.SC4Lot"
+        - "/IHT\\$\\$\\$5_3x3_PharmaLab_961de078.SC4Lot"
+        - "/IHT\\$\\$\\$7_2x3_PharmaLab_661de05e.SC4Lot"
 
 ---
 group: tag-one
@@ -918,7 +918,7 @@ info:
   description: |
     Inktopia is a small company specialized in making cheap ink for all kind of cartridges. Although many large printer companies are fighting against this kind of industry, many people start factories like this. Simply because there is a huge demand for ‘payable’ ink.
   author: Tag One
-  website: 
+  websites: 
     - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
     - https://community.simtropolis.com/files/file/13325-inktopia/
   images:
