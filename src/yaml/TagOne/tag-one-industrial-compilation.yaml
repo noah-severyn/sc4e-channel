@@ -315,8 +315,8 @@ variants:
     assets:
       - assetId: tag-one-industrial-set
         include:
-        - "/IHT\\$$\\$3_2x3_PharmaLab_e031c33b.SC4Lot"
-        - "/IHT\\$$\\$3_3x3_PharmaLab_dffd4fb8.SC4Lot"
+        - "/IHT\\$\\$\\$3_2x3_PharmaLab_e031c33b.SC4Lot"
+        - "/IHT\\$\\$\\$3_3x3_PharmaLab_dffd4fb8.SC4Lot"
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
@@ -1279,7 +1279,7 @@ subfolder: 400-industrial
 info:
   summary:  Small I-m buildings Industrial Lot
   description: |
-    This is a set of 11 Lots with variating lot sizes and stage levels. The 11 lots contains 4 kinds of I-m buildings form my last prop pack. The 4 buildings are:
+    This is a set of 11 Lots with variating lot sizes and stage levels. The 11 lots contains 4 kinds of I-m buildings form last prop pack. The 4 buildings are:
 
      ***Unidek Thermal Insulation***
        Unidek Thermal Insulation is a company specialized in manufacturing and distributing thermal insulation materials for homes, offices and industrial buildings. From the warehouse in your city Unidek will sell insulation materials to local building companies in order to build sustainable and energy efficient buildings.
