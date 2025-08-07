@@ -1,7 +1,7 @@
 group: vortext
 name: vortext-grass-pastures
 version: "2.0"
-subfolder: 400-industrial
+subfolder: 410-agriculture
 #dependencies:
 #- "null-45:allow-more-building-styles"
 info:
