@@ -37,8 +37,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/ID\\$\\$4_4x4_Expagra_v1_39e2a00d.SC4Lot"
 
@@ -76,8 +74,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IM\\$\\$5_4x4_Gardena Garden Tools_e58248ef.SC4Lot"
         - "/IM\\$\\$5_4x5_Gardena Garden Tools_0584b5da.SC4Lot"
@@ -117,8 +113,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IHT\\$$\\$5_4x6_Jack Wild Conductors_e74165f5.SC4Lot"
         
@@ -159,8 +153,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IHT\\$$\\$6_4x4_LEDPRO_676f83a9.SC4Lot"
         - "/IHT\\$$\\$6_4x5_LEDPRO_96f63dde.SC4Lot"
@@ -206,8 +198,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IHT EFFEC00E Examplars.dat"
         - "/IHT\\$$\\$5_3x4_EFFEC00E_Lot_c6e13bfd.SC4Lot"
@@ -253,8 +243,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IM EFFEC00D Examplars.dat"
         - "/IM\\$\\$5_3x4_EFFEC00D_Lot_c6dfda63.SC4Lot"
@@ -295,8 +283,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IHT\\$$\\$6_4x6_PCB Assembly_e869d19b.SC4Lot"
 
@@ -334,8 +320,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IHT\\$$\\$5_3x3_PharmaLab_961de078.SC4Lot"
         - "/IHT\\$$\\$7_2x3_PharmaLab_661de05e.SC4Lot"
@@ -374,8 +358,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IM\\$\\$5_4x6_PolarTech Refrigerated Storage_57415638.SC4Lot"
 
@@ -413,8 +395,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/ID\\$\\$4_3x2_Storage Tanks_16ef9b52.SC4Lot"
 
@@ -452,8 +432,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IM\\$\\$6_5x6_TagFood_096c18e6.SC4Lot"
 
@@ -489,8 +467,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/ID\\$\\$7_6x6_Tage Brickworks_4a3f4f7b.SC4Lot"
 
@@ -527,8 +503,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IM\\$\\$4_4x4_Unidek Thermal Insulation_950009a6.SC4Lot"
 
@@ -566,8 +540,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/ID\\$\\$5_4x4_Vester Acetone_19be2c65.SC4Lot"
 
@@ -605,8 +577,6 @@ variants:
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-industrial-set
-        dependencies:
-        - "cam:colossus-addon-mod"
         include:
         - "/IM\\$\\$4_4x3_Vinytech PVC_2435dbfa.SC4Lot"
         
@@ -623,7 +593,7 @@ info:
     This Plant is a stage 3 growable manufacturing industry with 385 jobs.
     It creates a small amount of water and air pollution.
   author: Tag One
-  website: 
+  websites: 
     - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
     - https://community.simtropolis.com/files/file/12969-ammonia-plant/
   images:
@@ -1035,7 +1005,7 @@ info:
   description: |
     This is a small milk production factory. This factory transforms fresh cowmilk into 'normal' milk by reducing the fat level and putting conservators in the milk. After that the milk will be transported to another factory (no part of this file) where the milk will be putted in milk packs or processed into chocolate milk or something else. 
   author: Tag One
-  website: 
+  websites: 
     -  https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
     -  https://community.simtropolis.com/files/file/13892-the-milk-production-factory/
   images:
@@ -1063,7 +1033,7 @@ info:
   description: |
     This download gives you two oil refineries (one ploppable and one growable), and also a group of ploppable refinery units for your cities so you can design the refineries yourself. Watch out with fire, oil burns very good.
   author: Tag One
-  website: 
+  websites: 
     - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
     - https://community.simtropolis.com/files/file/16981-ploppable-oil-refinery-units/
   images:
@@ -1093,7 +1063,7 @@ info:
   description: |
     This download gives you two oil refineries (one ploppable and one growable), and also a group of ploppable refinery units for your cities so you can design the refineries yourself. Watch out with fire, oil burns very good.
   author: Tag One
-  website: 
+  websites: 
     - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
     - https://community.simtropolis.com/files/file/15925-rnp-small-oil-refinery/
   images:
