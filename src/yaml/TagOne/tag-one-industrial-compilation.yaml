@@ -910,8 +910,8 @@ dependencies:
 
 assets:
 - assetId: tag-one-industrial-set
-    include:
-    - "/IMPEX Clothing Company/"
+  include:
+  - "/IMPEX Clothing Company/"
 
 ---
 group: tag-one
