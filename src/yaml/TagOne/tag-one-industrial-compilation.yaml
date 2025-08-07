@@ -1298,8 +1298,8 @@ dependencies:
 
 assets:
 - assetId: tag-one-industrial-set
-    include:
-    - "/Small I-ht storage buildings/"
+  include:
+  - "/Small I-ht storage buildings/"
     
 ---
 group: tag-one
