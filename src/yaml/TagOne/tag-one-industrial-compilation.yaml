@@ -1206,8 +1206,8 @@ dependencies:
 
 assets:
 - assetId: tag-one-industrial-set
-    include:
-    - "/Rena Electronics/"
+  include:
+  - "/Rena Electronics/"
 
 ---
 group: tag-one
