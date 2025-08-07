@@ -126,7 +126,9 @@ info:
   description: |
     LEDPRO is a large manufacturer of LED lamps. LED lamps are clusters of LEDs grouped together in a special housing. These lamps can be used instead of normal light bulbs. The benefit of these lamps is the low amount of energy they require and there long life time. Although they are more expensive than normal light bulbs they are a great investment.
   author: Tag One
-  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+    - https://community.simtropolis.com/files/file/21891-ledpro/
   images:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
