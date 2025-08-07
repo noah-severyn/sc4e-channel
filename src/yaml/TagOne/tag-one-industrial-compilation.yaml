@@ -1,0 +1,1457 @@
+---
+assetId: tag-one-industrial-set
+version: "1.0.0"
+lastModified: " 2025-04-22T16:05:45-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=367:sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+
+---
+group: tag-one
+name: expagra
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: Expagra Industrial Lot
+  description: |
+    Expagra is a small company that produces expended graphite. Expanded graphite is made by immersing natural flake graphite in a bath of chromic acid, then concentrated sulfuric acid, which forces the crystal lattice planes apart, thus expanding the graphite. The expanded graphite can be used to make graphite foil or used directly as "hot top" compound to insulate molten metal in a ladle or red-hot steel ingots and decrease heat loss, or as firestops fitted around a fire door or in sheet metal collars surrounding plastic pipe (during a fire, the graphite expands and chars to resist fire penetration and spread), or to make high-performance gasket material for high-temperature use.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol08  
+  - eggman121:rrw-reskin-lot-support
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/ID\\$\\$3_4x4_Expagra_v1_76f54fe5.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/ID\\$\\$4_4x4_Expagra_v1_39e2a00d.SC4Lot"
+
+---
+group: tag-one
+name: gardena-garden-tools
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: Gardena Garden Tools Industrial Lot
+  description: |
+    This file contains a building from the German company Gardena. Gardena is the European market leader in manufacturing gardening tools. Its products are widely known in many European countries.
+    The building in this file comes in two stage 5 I-m lots. A 4x4 and a 4x5 lot. None of the buildings is slope friendly
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-jes-vol01
+  - bsc:textures-vol01
+  - eggman121:rrw-reskin-lot-support
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IM\\$\\$3_4x4_Gardena Garden Tools_5060e9c9.SC4Lot"
+        - "/IM\\$\\$3_4x5_Gardena Garden Tools_bda35211.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IM\\$\\$5_4x4_Gardena Garden Tools_e58248ef.SC4Lot"
+        - "/IM\\$\\$5_4x5_Gardena Garden Tools_0584b5da.SC4Lot"
+
+---
+group: tag-one
+name: jack-wild-conductors
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: Jack Wild Conductors Industrial Lot
+  description: |
+    Jack Wild Conductors is a large company researching super conductors. Super conductors are materials which conduct an extreme amount of electricity at extreme low temperatures. Super conductors are used in scientific research and medical equipment.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-gascooker-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IHT\\$$\\$3_4x6_Jack Wild Conductors_35f7ea77.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IHT\\$$\\$5_4x6_Jack Wild Conductors_e74165f5.SC4Lot"
+        
+---
+group: tag-one
+name: led-pro
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: LED Pro Industrial Lot
+  description: |
+    LEDPRO is a large manufacturer of LED lamps. LED lamps are clusters of LEDs grouped together in a special housing. These lamps can be used instead of normal light bulbs. The benefit of these lamps is the low amount of energy they require and there long life time. Although they are more expensive than normal light bulbs they are a great investment.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol01
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IHT\\$$\\$3_4x4_LEDPRO_6e05eb50.SC4Lot"
+        - "/IHT\\$$\\$3_4x5_LEDPRO_6db4ebec.SC4Lot"
+        - "/IHT\\$$\\$3_5x4_LEDPRO_8f4662a2.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IHT\\$$\\$6_4x4_LEDPRO_676f83a9.SC4Lot"
+        - "/IHT\\$$\\$6_4x5_LEDPRO_96f63dde.SC4Lot"
+        - "/IHT\\$$\\$6_5x4_LEDPRO_16f63cd3.SC4Lot"        
+        
+---
+group: tag-one
+name: medium-industrial-buildings-high-tech
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: Medium Industrial Buildings - High-Tech Industrial Lot
+  description: |
+    This file contains six medium sized industrial buildings. Four of them are I-m buildings and 2 of them I-ht. They all grow on dense industrial zones and come with two lot sizes: 3x4 and 4x4.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol04
+  - bsc:mega-props-jes-vol08
+  - bsc:mega-props-gascooker-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IHT 5F85F199 Examplars.dat"
+        - "/IHT\\$$\\$3_3x4_5F85F199_Lot_b4c9be6a.SC4Lot"
+        - "/IHT\\$$\\$3_4x4_5F85F199_Lot_c17b690b.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IHT EFFEC00E Examplars.dat"
+        - "/IHT\\$$\\$5_3x4_EFFEC00E_Lot_c6e13bfd.SC4Lot"
+        - "/IHT\\$$\\$5_4x4_EFFEC00E_Lot_66e13c07.SC4Lot"     
+
+---
+group: tag-one
+name: medium-industrial-buildings-manufacturing-industry
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: Medium Industrial Buildings - Manufacturing Industry Industrial Lot
+  description: |
+    This file contains six medium sized industrial buildings. Four of them are I-m buildings and 2 of them I-ht. They all grow on dense industrial zones and come with two lot sizes: 3x4 and 4x4.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol04
+  - bsc:mega-props-jes-vol08
+  - bsc:mega-props-gascooker-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IM 5F85F19A Examplars.dat"
+        - "/IM\\$\\$3_3x4_5F85F19A Lot_bb2118d4.SC4Lot"
+        - "/IM\\$\\$3_4x4_5F85F19A Lot_4bc82858.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IM EFFEC00D Examplars.dat"
+        - "/IM\\$\\$5_3x4_EFFEC00D_Lot_c6dfda63.SC4Lot"
+        - "/IM\\$\\$5_4x4_EFFEC00D_Lot_26dfda48.SC4Lot"   
+        
+---
+group: tag-one
+name: pcb-assembly
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary: PCB Assembly Industrial Lot
+  description: |
+    There're hardly any products on the market that doesn't contain a printed circuit board inside it. From PC's and microwaves to those modern sound making postcards, they all contain at least one PCB. And all those PCB's are assembled somewhere. PCB Assembly is a factory for the assembly of those printed circuit boards in the Simnation. In this factory electronic compounds such as SMDs, resistors, LEDs and conductive pathways are added to pieces of plastic. As PCB's become smaller and smaller, most work is done by machines. Never the less, a lot of people are required to program and operate those machines. Therefore this factory proved up to 1153 I-ht jobs. The building grows on a 4x6 high density stage 6 lot.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01 
+  - bsc:mega-props-gascooker-vol01
+  - bsc:textures-vol01  
+  - bsc:textures-vol02 
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IHT\\$$\\$3_4x6_PCB Assembly_97c19355.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IHT\\$$\\$6_4x6_PCB Assembly_e869d19b.SC4Lot"
+
+---
+group: tag-one
+name:  pharmalab
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  PharmaLab Industrial Lot
+  description: |
+    PharmaLab is a pharmaceutical company specialized in making and distributing new medicines throughout the Simnation. Apart from medicines PharmaLab also deal in generic and brand medications. This building of PharmaLab houses the research and development section of the company. This is the place where new medicines are discovered and tested on typing monkeys who failed to read a Readme.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:textures-vol01  
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IHT\\$$\\$3_2x3_PharmaLab_e031c33b.SC4Lot"
+        - "/IHT\\$$\\$3_3x3_PharmaLab_dffd4fb8.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IHT\\$$\\$5_3x3_PharmaLab_961de078.SC4Lot"
+        - "/IHT\\$$\\$7_2x3_PharmaLab_661de05e.SC4Lot"
+
+---
+group: tag-one
+name:  polartech-refrigerated-storage
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  PolarTech Refrigerated Storage Industrial Lot
+  description: |
+    PolarTech is a refrigerated warehouse for the storare of food and other products that have to be stored at low temperatures. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol05
+  - bsc:mega-props-gascooker-vol01
+  - bsc:textures-vol01  
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IM\\$\\$3_4x6_PolarTech Refrigerated Storage_82224771.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IM\\$\\$5_4x6_PolarTech Refrigerated Storage_57415638.SC4Lot"
+
+---
+group: tag-one
+name:  storage-tanks
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Storage Tanks Industrial Lot
+  description: |
+    As requested by Ioan, a lot with 2 storage tanks on it. These tanks will grow as I-D 'Mechanical' lots. This means they'll always grow next to other ID industrial buildings. The tanks are CAMeLOTs and provide 82 jobs. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol05
+  - bsc:mega-props-gascooker-vol01
+  - bsc:texturepack-cycledogg-vol01  
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/ID\\$\\$3_3x2_Storage Tanks_8f99f447.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/ID\\$\\$4_3x2_Storage Tanks_16ef9b52.SC4Lot"
+
+---
+group: tag-one
+name:  tagfood
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  TagFood Industrial Lot
+  description: |
+    From peanut butter to jelly and from cookies to cakes, it's all produced in the TagFood factories. TagFood is one of the larger suppliers in the food processing industry and delivers a large variaty of fresh and high quality products. The factory grows on a 5x6 stage 6 lot and provides 1447 I-M jobs.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IM\\$\\$3_5x6_TagFood_a71ae5dc.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IM\\$\\$6_5x6_TagFood_096c18e6.SC4Lot"
+
+---
+group: tag-one
+name:  tage-brickworks
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Tage Brickworks Industrial Lot
+  description: |
+    After years of designing ships and harbors Tage needed something new in his life. With his savings he decided to buy an old factory and start manufacturing bricks. The old factory wasn't designed as a brick factory so Tage had to do a lot of rebuilding. To get the large furnace and cooling equipment in the building he had to make four big temporary holes in the side of the building. The leftovers of the holes are still visible today as the stones are clearly cleaner over there. The building grows as and I-D stage 7 CAMeLOT and provides 1651 jobs.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol03
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/ID\\$\\$3_6x6_Tage Brickworks_aecfb7b8.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/ID\\$\\$7_6x6_Tage Brickworks_4a3f4f7b.SC4Lot"
+
+---
+group: tag-one
+name:  unidek-thermal-insulation
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Unidek Thermal Insulation Industrial Lot
+  description: |
+    Unidek Thermal Insulation is a company specialized in manufacturing and distributing thermal insulation materials for homes, offices and industrial buildings. From the warehouse in your city Unidek will sell insulation materials to local building companies in order to build sustainable and energy efficient buildings.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:textures-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IM\\$\\$3_4x4_Unidek Thermal Insulation_f7f89a12.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IM\\$\\$4_4x4_Unidek Thermal Insulation_950009a6.SC4Lot"
+
+---
+group: tag-one
+name:  vester-acetone
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Vester Acetone Industrial Lot
+  description: |
+    Vester Acetone is a company that specializes in the production of acetone. Although the main focus of Vester Acetone is the production of acetone from benzene and propylene, a small amount of phenol is produced as well. In the reaction vats and distillation columns of the factory the benzene and propylene will first be compressed and heated to 250°C. This will form cumene. After this reaction the cumene will be oxidized and hydrolysed in an acidic medium to form phenol and acetone. The newly formed chemicals are then sold to other companies throughout the SimNation.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/ID\\$\\$3_4x4_Vester Acetone_f2284faf.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/ID\\$\\$5_4x4_Vester Acetone_19be2c65.SC4Lot"
+
+---
+group: tag-one
+name:  vinytech-pvc
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Vinytech PVC Industrial Lot
+  description: |
+    Vinytech PVC is a small factory specialiced in making different types of PVC pipes. from small water pipes to large sewer pipes, they'll make it. And when your city is big enough they'll place one of their factories in your city. This Factory is a stage 4 I-m. You'll need to have the CAM and 1400+ industrial jobs to get it to work
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - csx:mega-props-vol01
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-industrial-set
+        include:
+        - "/IM\\$\\$3_4x3_Vinytech PVC_424bbf9c.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-industrial-set
+        dependencies:
+        - "cam:colossus-addon-mod"
+        include:
+        - "/IM\\$\\$4_4x3_Vinytech PVC_2435dbfa.SC4Lot"
+        
+---
+group: tag-one
+name:  ammonia-plant
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Ammonia Plant Industrial Lot
+  description: |
+    Ammonia (NH3) is a basic substance for artificial manure and other products. It’s manufactured by putting nitrogen (N2) and hydrogen (H2) together in a reactor with a pressure of 200 atmosphere and a temperature of almost 500 degrees Celsius.
+
+    This Plant is a stage 3 growable manufacturing industry with 385 jobs.
+    It creates a small amount of water and air pollution.
+  author: Tag One
+  website: 
+    - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+    - https://community.simtropolis.com/files/file/12969-ammonia-plant/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Ammonia Plant/"
+
+---
+group: tag-one
+name:  aquafilter-inc
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  AquaFilter Inc Industrial Lot
+  description: |
+    AquaFilter Inc is a small laboratory that develops high end filter equipment. The employees of this facility will research high tech membranes made of nano-parts for water purification, engine cleaning, oil and gas refinery and so on. The design of the building is eco-friendly. Thick insulated walls keep the heat in and small windows facing south keep the building cool in the summer. The large curtain wall facing north allows natural daylight to enter the building without heating it up due to direct sunlight. These features reduce the amount of energy required dramatically. The large area of solar panels on the roof produce the remaining energy required for the building to operate. The building is so energy efficient that it does not consume any power in your city.
+
+    As it's a stage 2 building, AquaFilter Inc will probably be one of the first high tech industries that will settle in your city. The building is CAMpatible and provides 58 jobs.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol02
+  - bsc:mega-props-dae-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/AquaFilter Inc/"
+
+---
+group: tag-one
+name:  bolts-screws-inc
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Bolts & Screws Inc Industrial Lot
+  description: |
+    Bolts & Screws Inc is a small factory specialized in making screws, bolts and nails.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Bolts & Screws Inc/"
+
+---
+group: tag-one
+name:  concrete-batching-plant
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Concrete Batching Plant Industrial Lot
+  description: |
+    This is a small concrete batching plant. In this small factory different kinds of aggregate (like gravel and sand) are mixed with water and Portland cement to create concrete. This mixture is then poured in a cement mixer that brings its load to a construction site. The building comes as a small 4x4 ID building with 72 jobs. The building is BTE enabled and CAMpatible. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Concrete Batching Plant/"
+
+---
+group: tag-one
+name:  diyworld
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  DIYworld Industrial Lot
+  description: |
+    DIYworld is a large Do It Yourself chain and building material supplier in the SimNation. From electrical wires to concrete sewer pipes, DIYworld has it all. The building grows on a 5x4 stage 3 lot and provides 230 I-M jobs. The building is CAMpatible and BTE enabled. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol04
+  - bsc:mega-props-jes-vol05
+  - bsc:mega-props-jes-vol06
+  - csx:mega-props-vol01
+  - bsc:texturepack-cycledogg-vol01
+  - eggman121:rrw-reskin-lot-support
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/DIYworld/"
+
+---
+group: tag-one
+name:  dpc-logistics
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  DPC Logistics Industrial Lot
+  description: |
+    DPC Logistics is a small freight handling company. Its daily business is to transport, store and transfer freight that enters or leaves your city.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/DPC Logistics/"
+
+---
+group: tag-one
+name:  gastag-galvanization-ag
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  GasTag Galvanization AG Industrial Lot
+  description: |
+    GasTag Galvanization AG is a fictional company specialized in the galvanization of steel construction materials like pipes and profiles. To prevent and slow down the rusting process of iron. Many steel construction products are galvanized. During this process the product is dipped in a hot zinc bath while being electrocuted. This way a chemical reaction starts which allows the zinc to attach to the steel.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/GasTag Galvanization AG/"
+
+---
+group: tag-one
+name:  halma-automation
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Halma Automation Industrial Lot
+  description: |
+    Halma Automation is a small company specialized in different IT-services for other companies. Halma Automation provides services like webhosting, printing, system administration and other ICT related services. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Halma Automation/"
+
+---
+group: tag-one
+name:  i-m-filler-lots
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  I-m filler lots Industrial Lot
+  description: |
+    This file contains a variety of industrial filler pieces like sheds and storage vats. There are different lotsizes for these filler pieces to create more diversity in your industrial neighborhoods. As soon as the first I-m buildings settled in your city these lots will start growing.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/I-m filler lots/"
+
+---
+group: tag-one
+name:  impex-clothing-company
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  IMPEX Clothing Company Industrial Lot
+  description: |
+    Many clothing and fashion brands don't have their own production facilities. Instead they rely for their production on cheap suppliers in the developing world. Over there mainly woman and children assemble and paint cloths under harsh conditions for a very low wage. Without education and career options they make long shifts and work with dangerous chemicals. Because of the old equipment many workers are exposed to accidents, leaking chemicals and omni present toxic gases in the factories. IMPEX Clothing Company is one of them. It's cheap, it's dirty and provides work for 52 sims
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol03
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/IMPEX Clothing Company/"
+
+---
+group: tag-one
+name:  industrial-furnace
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Industrial Furnace Industrial Lot
+  description: |
+    This is an industrial furnace. By burning oil it heats up liquids for factories. This building is a small dirty industrial which has 20 factory workers.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Industrial Furnace/"
+
+---
+group: tag-one
+name:  inktopia
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Inktopia Industrial Lot
+  description: |
+    Inktopia is a small company specialized in making cheap ink for all kind of cartridges. Although many large printer companies are fighting against this kind of industry, many people start factories like this. Simply because there is a huge demand for ‘payable’ ink.
+  author: Tag One
+  website: 
+    - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+    - https://community.simtropolis.com/files/file/13325-inktopia/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Inktopia#/"
+
+---
+group: tag-one
+name:  ledpro-leds
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  LedPro Leds Industrial Lot
+  description: |
+    After the successes LedPro made in the SimNation, the company decided to expand its business even further. To reduce the production cost of their LED lamps LedPro decided to start producing their own LED's. This is being done in small assembly sheds which will soon spread throughout the SimNation 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-gascooker-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/LedPro Leds/"
+
+---
+group: tag-one
+name:  lgx-chemical-engineering
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  LGX Chemical Engineering Industrial Lot
+  description: |
+    LGX Chemical Engineering is a small company specialized in designing chemical processes. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/LGX Chemical Engineering/"
+
+---
+group: tag-one
+name:  milk-production-factory
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Milk Production Factory Industrial Lot
+  description: |
+    This is a small milk production factory. This factory transforms fresh cowmilk into 'normal' milk by reducing the fat level and putting conservators in the milk. After that the milk will be transported to another factory (no part of this file) where the milk will be putted in milk packs or processed into chocolate milk or something else. 
+  author: Tag One
+  website: 
+    -  https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+    -  https://community.simtropolis.com/files/file/13892-the-milk-production-factory/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-jes-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Milk Production Factory/"
+
+---
+group: tag-one
+name:  oil-refinery-fillers
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Oil Refinery Fillers Industrial Lot
+  description: |
+    This download gives you two oil refineries (one ploppable and one growable), and also a group of ploppable refinery units for your cities so you can design the refineries yourself. Watch out with fire, oil burns very good.
+  author: Tag One
+  website: 
+    - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+    - https://community.simtropolis.com/files/file/16981-ploppable-oil-refinery-units/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-jes-vol01
+  - csx:mega-props-vol04
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Oil Refinery Fillers with Jobs#/"
+
+---
+group: tag-one
+name:  oil-refinery
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Oil Refinery Industrial Lot
+  description: |
+    This download gives you two oil refineries (one ploppable and one growable), and also a group of ploppable refinery units for your cities so you can design the refineries yourself. Watch out with fire, oil burns very good.
+  author: Tag One
+  website: 
+    - https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+    - https://community.simtropolis.com/files/file/15925-rnp-small-oil-refinery/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-jes-vol01
+  - csx:mega-props-vol04
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Oil Refinery#/"
+
+---
+group: tag-one
+name:  pink-cap-music
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Pink Cap Music Industrial Lot
+  description: |
+    Pink Cap Music is a small hi-tech sound studio specialized in recording ringtones for mobile phones. The company is run by a young pink capped girl. Her specialty is either annoying people with her annoying music or hunting down people during her daily game of tag. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Pink Cap Music/"
+
+---
+group: tag-one
+name:  pluimers-insulation
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Pluimers Insulation Industrial Lot
+  description: |
+    Pluimers Insulation is an all-round insulation specialist in the application of seamless insulation using specialised polyurethane technology, where both the spraying technique and filling technique are applied. Pluimers Insulation was launched following the demand for energy efficient buildings.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol08
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Pluimers Insulation/"
+
+---
+group: tag-one
+name:  rena-electronics
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Rena Electronics Industrial Lot
+  description: |
+    Rena Electronics is a company specialized in the production of small electronic devices. The company produces mostly items like: pager, buzzer, navigation tools and a small amount of mobile phones. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol05
+  - bsc:mega-props-jes-vol06
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Rena Electronics/"
+
+---
+group: tag-one
+name:  sap-rebar
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  SAP Rebar Industrial Lot
+  description: |
+    Concrete is an interesting material. It can handle a lot of compression force, but hardly any puling force. In order to build concrete floors, walls and columns steel reinforcing bars need to be added to the concrete to handle the tension. Those steel bars are called rebar. On most construction sites the rebar is added by steel fixer. On some projects however it's cheaper and faster to pre-assemble the rebar cages and nets in a factory. SAP Rebar is such a factory. It grows on a 4x3 ID lot and provides 54 jobs. The building is BTE enabled and CAMpatible.  
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol03
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/SAP Rebar/"
+        
+---
+group: tag-one
+name:  skerwin-paint-products
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Skerwin Paint Products Industrial Lot
+  description: |
+    Skerwin Paint Products is a small paint manufacturer for your cities. While polluting the sky with toxic gases and CO2 this small plant gives your sims the possibility to give their homes and furniture some new colors.  
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol05
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Skerwin Paint Products/"
+        
+---
+group: tag-one
+name:  small-i-ht-storage-buildings
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Small I-ht storage buildings Industrial Lot
+  description: |
+    This file contains 3 small I-ht filler buildings. These buildings will grow between your hight tech factories and laboratories. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Small I-ht storage buildings/"
+    
+---
+group: tag-one
+name:  small-i-m-buildings
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Small I-m buildings Industrial Lot
+  description: |
+    This is a set of 11 Lots with variating lot sizes and stage levels. The 11 lots contains 4 kinds of I-m buildings form my last prop pack. The 4 buildings are:
+
+     ***Unidek Thermal Insulation***
+       Unidek Thermal Insulation is a company specialized in manufacturing and distributing thermal insulation materials for homes, offices and industrial buildings. From the warehouse in your city Unidek will sell insulation materials to local building companies in order to build sustainable and energy efficient buildings.
+
+     ***Fabiton Concrete Blocks***
+        This company is specializes in making concrete blocks for walls and foundations.
+
+     ***Mika's Woodworks***
+        When you need some wooden window frames or furniture you'll go to Mika's. With his special tools he's able to make anything from what ones was a simple tree.
+
+     ***Ruratech Cable Work***
+        Now who is placing all the cables for Electricity and Communication in your Simnation? Right, Ruratech Cable Work. This hard working company works every day in the cold soil to connect the new buildings in the city to the local electricity & communication networks. Whithout them your sims will be sitting in the dark unable to call or use a computer. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Small I-m buildings/"
+
+---
+group: tag-one
+name:  vacuum-distillation-unit
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Vacuum Distillation Unit Industrial Lot
+  description: |
+    This is a vacuum distillation unit. Vacuum distillation is the second step in the refining process of oil. In this step the separation of the gas oil fractions takes place. First the oil is heated up in a furnace than it will be transported to the main distillation column on this lot. The other units are there to make the refined fractions purer.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Vacuum Distillation Unit/"
+    
+---
+group: tag-one
+name:  vuvuzela-injection-molding
+version: "1.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Vuvuzela Injection Molding Industrial Lot
+  description: |
+    This is a vacuum distillation unit. Vacuum distillation is the second step in the refining process of oil. In this step the separation of the gas oil fractions takes place. First the oil is heated up in a furnace than it will be transported to the main distillation column on this lot. The other units are there to make the refined fractions purer.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol04
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol02
+  - bsc:mega-props-jes-vol03
+  - bsc:mega-props-jes-vol07
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-industrial-set
+    include:
+        - "/Vuvuzela Injection Molding/"
+        
+---
+group: tag-one
+name: tag-one-industrial-collection
+version: "1.2"
+subfolder: 200-residential
+info:
+  summary: Industrial Collection Pack
+  description: A collection of 41 Industrial Lot by Tag One
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/367-sc4d-lex-legacy-bsc-tag-one-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/JWC_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Tage_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Oil%20Refinery_day.JPG
+
+dependencies:
+  - tag-one:expagra
+  - tag-one:gardena-garden-tools
+  - tag-one:jack-wild-conductors
+  - tag-one:led-pro
+  - tag-one:medium-industrial-buildings-high-tech
+  - tag-one:medium-industrial-buildings-manufacturing-industry
+  - tag-one:pcb-assembly
+  - tag-one:pharmalab
+  - tag-one:polartech-refrigerated-storage
+  - tag-one:storage-tanks
+  - tag-one:tagfood
+  - tag-one:tage-brickworks
+  - tag-one:unidek-thermal-insulation
+  - tag-one:vester-acetone
+  - tag-one:vinytech-pvc
+  - tag-one:ammonia-plant
+  - tag-one:aquafilter-inc
+  - tag-one:bolts-screws-inc
+  - tag-one:concrete-batching-plant
+  - tag-one:diyworld
+  - tag-one:dpc-logistics
+  - tag-one:gastag-galvanization-ag
+  - tag-one:halma-automation
+  - tag-one:i-m-filler-lots
+  - tag-one:impex-clothing-company
+  - tag-one:industrial-furnace
+  - tag-one:inktopia
+  - tag-one:ledpro-leds
+  - tag-one:lgx-chemical-engineering
+  - tag-one:milk-production-factory
+  - tag-one:oil-refinery-fillers
+  - tag-one:oil-refinery
+  - tag-one:pink-cap-music
+  - tag-one:pluimers-insulation
+  - tag-one:rena-electronics
+  - tag-one:sap-rebar
+  - tag-one:skerwin-paint-products
+  - tag-one:small-i-ht-storage-buildings
+  - tag-one:small-i-m-buildings
+  - tag-one:vacuum-distillation-unit
+  - tag-one:vuvuzela-injection-molding
