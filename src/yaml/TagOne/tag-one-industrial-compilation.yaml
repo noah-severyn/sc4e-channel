@@ -1372,7 +1372,7 @@ assets:
 group: tag-one
 name: tag-one-industrial-collection
 version: "1.2"
-subfolder: 200-residential
+subfolder: 400-industrial
 info:
   summary: Industrial Collection Pack
   description: A collection of 41 Industrial Lot by Tag One
