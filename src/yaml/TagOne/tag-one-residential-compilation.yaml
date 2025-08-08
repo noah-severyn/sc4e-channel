@@ -68,13 +68,13 @@ variants:
       - assetId: tag-one-residential-set
         include:
         - "/R\\$\\$8_1x2_Little Asia Condo's_2cb8614f.SC4Lot"
-        - "/R\\$\\$8_1x2_Little Asia Condo's_2cb8614f.SC4Lot"        
+        - "/R\\$\\$8_1x3_Little Asia Condo's_71841474.SC4Lot"        
   - variant: { CAM: "yes" }
     assets:
       - assetId: tag-one-residential-set
         include:
         - "/R\\$\\$11_1x3_Little Asia Condo's_274aafc2.SC4Lot"
-        - "/R\\$\\$11_1x3_Little Asia Condo's_274aafc2.SC4Lot"
+        - "/R\\$\\$13_1x2_Little Asia Condo's_774aa466.SC4Lot"
         
 ---
 group: tag-one
@@ -518,7 +518,7 @@ subfolder: 200-residential
 info:
   summary: JENX Re-lotted Residential Lot
   description: |
-    This is the first pack of the JENX relotted series. In the past JENX made some very nice buildings, unfortunately his lots got outdated. and were poorly modded to today's standards. Therefore I've decided to relot his work and give the buildings new stats. This pack contains 25 lots with a selection of his German timber frame houses. All lot's are campatible and BTE enabled. The buildings range from stage 1 to stage 7 and are mostly R$$, however there also some R$ and R$$$ buildings.  Some of these lots are W2W. Have fun and I'll hope you like them.    
+    This is the first pack of the JENX relotted series. In the past JENX made some very nice buildings, unfortunately his lots got outdated. and were poorly modded to today's standards. Therefore I've decided to relot his work and give the buildings new stats. This pack contains 25 lots with a selection of his German timber frame houses. All lot's are campatible and BTE enabled. The buildings range from stage 1 to stage 7 and are mostly R$$, however there also some R$ and R$$$ buildings.  Some of these lots are W2W.
   author: Tag One
   websites: 
     - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
@@ -580,7 +580,7 @@ subfolder: 200-residential
 info:
   summary: Small Rural House Residential Lot
   description: |
-    While making a new texture I became bored and made a small house. When it was finnished I liked the rural look of it and thought that some of you may like it too.         
+    A small rural house that you can use in rural landscapes  
   author: Tag One
   websites: 
     - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
