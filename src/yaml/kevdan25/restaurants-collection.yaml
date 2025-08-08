@@ -22,7 +22,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/BK_sn.jpg
 
 dependencies:
-   - bsc:essentials"
+   - bsc:essentials
    - bsc:mega-props-kevdan25-vol01
    - bsc:mega-props-mikeseith-vol01
    - csx:mega-props-vol03
