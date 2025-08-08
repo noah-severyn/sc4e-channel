@@ -1,0 +1,30 @@
+---
+assetId: kevdan25-restaurants-set
+version: "2.0.0"
+lastModified: "2024-01-20T04:57:28-08:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=54:bsc-kevdan25-restaurants
+
+---
+group: kevdan25
+name:  restaurants-pack
+version: "2.0.0"
+subfolder: 300-commercial
+info:
+  summary:  Restaurants Pack 
+  description: |
+    A set of chain restaurants BATs by the BSC's kevdan25, on predominantly growable Lots.  Originally Lotted and Modded by BarbyW and jplumbley, and repackaged by Tyberius06 and Tarkus.  All Lots are either CS$ or CS$$, ranging from Stage 1 up to Stage 5, and are compatible with both Maxis and CAM gameplay.
+  author: Kevdan25
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/54-bsc-kevdan25-restaurants
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kevdanlotspack.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/BK_s.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/BK_sn.jpg
+
+dependencies:
+   - bsc:essentials"
+   - bsc:mega-props-kevdan25-vol01
+   - bsc:mega-props-mikeseith-vol01
+   - csx:mega-props-vol03
+   - maxis:day-of-peace
+
