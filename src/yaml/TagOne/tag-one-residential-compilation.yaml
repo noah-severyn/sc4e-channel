@@ -1,0 +1,764 @@
+---
+assetId: tag-one-residential-set
+version: "1.0.0"
+lastModified: "2025-04-22T16:06:59-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=366:sc4d-lex-legacy-bsc-tag-one-residential-compilation
+
+---
+group: tag-one
+name: block-tower
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Block Tower Residential Lot
+  description: |
+    The Block Tower is a 36 stories tall residential building for your city's most wealthy sims. With its unique high tech architecture it will stand out between the other buildings. During the night the building is covered in a soft purple light which will create a unique atmosphere for its residents. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$\\$8_2x2_Block Tower_79107a25.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$\\$9_2x2_Block Tower_767b9a61.SC4Lot"
+
+---
+group: tag-one
+name: little-asia-condo
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Little Asia Condo Residential Lot
+  description: |
+    The Little Asia Condo's building is a small highrise in far Eastern architecture. The building contains small, but well furnished condo's for 1072 R$$ sims. It only grows on small 1x2 and 1x3 lots in your downtown.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+    - https://community.simtropolis.com/files/file/21655-little-asia-condos/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-cp-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$8_1x2_Little Asia Condo's_2cb8614f.SC4Lot"
+        - "/R\\$\\$8_1x2_Little Asia Condo's_2cb8614f.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$11_1x3_Little Asia Condo's_274aafc2.SC4Lot"
+        - "/R\\$\\$11_1x3_Little Asia Condo's_274aafc2.SC4Lot"
+        
+---
+group: tag-one
+name: mas-tower
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: MAS Tower Residential Lot
+  description: |
+   The MAS Tower is a small 1x1 so called pensil tower. Pensil towers can be found particullary in Hong Kong. They are build on very small plots with high ground values. These towers are sometimes so slender that they contain only one appartment per floor. However those towers can be 40 floors high.
+
+   The MAS Tower is a 22 story high building. It has only 300 R$$ residents and grows on a 1x1 plot. The building is designed to be slope friendly for soft, medium and even steep slopes (5 meter per tile)  
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$8_1x1_MAS Tower_e5532817.SC4Lot" 
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$11_1x1_MAS Tower_85272292.SC4Lot"
+
+---
+group: tag-one
+name: the-maxx
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: The Maxx Residential Lot
+  description: |
+   The Maxx is based on a Dutch student housing project in the city of Utrecht. The tower mainly contains studios and 1 bedroom apartments. There are several community spaces situated in the building. These can be found every few stories. The Maxx counts 26 stories in total. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$8_3x3_The Maxx_5e88702b.SC4Lot" 
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$10_3x3_The Maxx_0732f235.SC4Lot"
+
+---
+group: tag-one
+name: paloma-tower 
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Paloma Tower Residential Lot
+  description: |
+   This is the Paloma Tower, 37 stories high and ready to be occupied by your medium wealthy sims, at least if you have the CAM installed. Why? Because this file gives you a stage 10 and a stage 12 growable building. These highrises grow on 2x3 and 2x2 sized lots. As bonus I've included a 4x4 CS$$$ plobable lot. Also, all the buildings are slope friendly for soft slopes.  
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+    - https://community.simtropolis.com/files/file/21457-paloma-tower/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-swi21-vol01  
+  - bsc:textures-vol01
+  - bsc:textures-vol02 
+  
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$8_2x2_Paloma Tower_3754c192.SC4Lot" 
+        - "/R\\$\\$8_2x2_Paloma Tower_af82e602.SC4Lot"
+        - "/R\\$\\$8_2x3_Paloma Tower_b5f4497d.SC4Lot"    
+        - "/PLOP_4x4_Paloma Tower Hotel_d3fa754a.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$10_2x3_Paloma Tower_23f9ae87.SC4Lot"
+        - "/R\\$\\$12_2x2_Paloma Tower_53fa7263.SC4Lot"
+        - "/PLOP_4x4_Paloma Tower Hotel_d3fa754a.SC4Lot"      
+
+---
+group: tag-one
+name: trident-tower
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Trident Tower Residential Lot
+  description: |
+   This is the Trident Tower I, a 57 story high skyscraper for your mid wealthy sims. But before you'll get it to grow, you'll need to have a huge city. This building is namely a stage 15 building, the highest stage you can reach with the CAM. Apart from a stage 15 building, this building also is slope friendly for soft and medium slopes.   
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-sg-vol01 
+  - bsc:textures-vol01
+  
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$8_2x2_Trident Tower I_fa369dfa.SC4Lot"       
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-residential-set
+        include:
+        - "/R\\$\\$15_2x2_Trident Tower I_c4007699.SC4Lot"     
+
+---
+group: tag-one
+name:  austria-homes 
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Austria Homes Residential Lot
+  description: |
+    Thanks for reading. These buildings are based on real ones in Tirol, Austria. please be sure you've dowloaded all the dependencies, otherwise you'll have brow boxes growing everywhere.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol03
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Austria Homes/"        
+  
+---
+group: tag-one
+name:  catullus-tower 
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Catullus Tower Residential Lot
+  description: |
+    The Catullus Tower, offer a choice of one and two bedrooms. Offering uncomprising high standards, the ultra modern apartments offer state-of-the-art finishings and technology and are strategically positioned to allow majority of the apartments have uninterrupted views on your city. Catullus Tower community living offers the of your city - downtown lifestyle mixed with greenery of gardens and parks.
+
+    Catullus Tower apartments have maximum utilisation of interior spaces designer suite finishes, stone countertops with breakfast bars and style cabinetry. The appliance collection includes hob, hood, oven, refrigerator, dishwasher and washer/dryer. They also include all the standard facilities offered in Dubai Marina homes.
+
+    The community boasts numerous landscaped areas, small flower parks, plentiful parking, squash courts, a health club, gymnasium, games room, business centre and four guest bedrooms. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Catullus Tower#/"      
+
+---
+group: tag-one
+name:  dutch-farmers-house 
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Dutch Farmer's House Residential Lot
+  description: |
+    These small residentials are typical Dutch Farmer houses. They can be found in most rural area's in the Dutch polders. The file contains a variaty of lots with different lotsizes.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Dutch Farmer Houses/"          
+  
+---
+group: tag-one
+name:  emirates-gardens  
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Emirates Gardens Residential Lot
+  description: |
+    This building is based on a project planned in Dubai. Now your richest sims can enjoy the luxury and beauty of this apartment building. The building contains 1, 2 and 3 bedroom apartments. On top of the building is a large 3 bedroom penthouse. The building is designed to be used on soft slopes upto 5 meter.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Emirates Gardens#/"      
+  
+---
+group: tag-one
+name:  feldstrasse   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Feldstrasse Residential Lot
+  description: |
+    This is another Austria styled building. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Feld Strasse/"   
+  
+---
+group: tag-one
+name:  ghetto-pack   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Ghetto Pack Residential Lot
+  description: |
+    This is a pack which contains 4 ghetto styled buildings. The buildings are based on real life buildings in the Bronx, New York. The buildings are six stories tall and have a small shop on street level. Behind the building there are two small gardens or some bare land.
+    
+    As building codes improved these buildings became slowly outdated and less popular. After the second World War white flight to the new suburbs and the construction of large and considerably cheaper public housing projects led to mass abandonedness in the Bronx. As owners saw their tenants and their income disappear they had no option but burning the building down to get some insurance money. In the 70th and 80th the Bronx looked more like a war zone than a residential neighborhood. Today urban renewal and renovation of these apartments has put back life in the bronx. Most of these buildings are now occupied by immigrants. 
+    
+    These kind of buildings can be found in many cities along the east cost of the USA. Some of the lots have 2 structures on it, while others have only 1 structure and some vacant space on it. All lots are CAMpatible, BTE enabled and slope friendly. 
+    
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-cp-vol02
+  - bsc:mega-props-jes-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+  - peg:mtp-super-pack
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Ghetto Pack#/"   
+  
+---
+group: tag-one
+name:  hagestede-apartments   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Hagestede Apartments Residential Lot
+  description: |
+    This is a set of five low wealth apartment buildings. These kinds of buildings can be found in Dutch low wealth areas commonly. All five buildings are merged into a single building family and grow on a single stage 5 lot. Each building provides homes for up to 206 sims.
+
+    This file is an updated version of the one I uploaded in July 2006 on Simtropolis. If you still have the old version there no need to delete it. Simply overwrite the old files with this one and you'll be fine. Keep in mind that this version has about two times as much residents. If you have a lot of these buildings from the older version in your city you will notice a increase of residents.
+    
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+    - https://community.simtropolis.com/files/file/16300-hagestede-apartments-set/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jrj-vol04
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Hagestede Apartents set/"   
+
+---
+group: tag-one
+name:  hamilton-houses   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary:  Hamilton Houses Residential Lot
+  description: |
+    The Hamilton Houses are small 2 story public housing projects. Each building grows on a 1x2 stage 5 lot and provides a home for 70 R$ sims. The building is CAMpatible, BTE enabled and Slope Friendly up to medium slopes.   
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Hamilton Houses/"  
+
+---
+group: tag-one
+name:  jeffs-house   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Jeff's House Residential Lot
+  description: |
+    This is Jeff's house. During the credit crunch Jeff lost his job as a shop owner. For days he sat on the couch thinking how to make money during these financial difficult times. On his way to the local pub he heard a story of people getting rich with short selling. As a true American he saw the possibilities in it. After a few google searches he thought: 'let's give it a try'. Jeff opened an account at one of the hedge funds and started speculating on an economical crisis. In the begin he didn't earned much money, but after Jeff became more successful he started to take some bigger risks. It didn't take long before Jeff earned hundreds of dollars a day. With all the money he earned he decided to build the house of his dreams.
+
+    Jeff's house grows on a 3x4 stage 1 lot and has a capacity of 15 R$$$ sims. The building is BTE enabled and is CAMpatible.    
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-d66-vol01
+  - bsc:mega-props-d66-vol02
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Jeff's House/"   
+  
+---
+group: tag-one
+name:  jenx-re-lotted   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: JENX Re-lotted Residential Lot
+  description: |
+    This is the first pack of the JENX relotted series. In the past JENX made some very nice buildings, unfortunately his lots got outdated. and were poorly modded to today's standards. Therefore I've decided to relot his work and give the buildings new stats. This pack contains 25 lots with a selection of his German timber frame houses. All lot's are campatible and BTE enabled. The buildings range from stage 1 to stage 7 and are mostly R$$, however there also some R$ and R$$$ buildings.  Some of these lots are W2W. Have fun and I'll hope you like them.    
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-jenx-vol04
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-dae-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+  - peg:mtp-super-pack
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/JENX Re-lotted/"   
+
+---
+group: tag-one
+name:  skillman-avenue   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Skillman Avenue Residential Lot
+  description: |
+    Skillman Avenue is a low wealth building based on a true apartment building near the junction of Skillman Ave and 51st in Queens, NYC. The building houses in SimCity over 1200 R$ residents and grows on a 3x3 stage 7 lot. The building is CAMpatible, BTE enabled and Slope Friendly up to medium slopes    
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Skillman Avenue#/"  
+
+---
+group: tag-one
+name:  small-rural-house    
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Small Rural House Residential Lot
+  description: |
+    While making a new texture I became bored and made a small house. When it was finnished I liked the rural look of it and thought that some of you may like it too.         
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+    - https://community.simtropolis.com/files/file/16543-rnp-small-rural-house/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Small Rural House/"  
+  
+---
+group: tag-one
+name:  small-timber-frame-houses    
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Small Timber Frame Houses Residential Lot
+  description: |
+    This is a set of 8 small R$ timber frame houses. This building style is very common in Northern Europe. They are built in rural area's as well as big cities during the middle ages. This building style is generally found in areas with lots of woodlands and a large supply of timber. The main part of the construction is the wooden skeleton. This skeleton carries the loads of the building. The spaces between the wooden beams and columns are filled with plaster, brick, or stone.         
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Small timber frame houses/"  
+  
+---
+group: tag-one
+name:  the-residence    
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: The Residence Residential Lot
+  description: |
+    The residence is a luxurious apartment building for the rich sims in your city. Apart from the excellent fit out, the building has a large lobby, a nice garden and a great roof terrace with a swimming pool.          
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/The Residence#/"  
+
+---
+group: tag-one
+name:  villa-aiser     
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Villa Aiser Residential Lot
+  description: |
+    Villa Aiser is a nice Austria styled R$$$ villa. But there is something special with it. This is a so called Energy Neutral Building. Due to its solar panels and its fire-wood it won't use electricity.             
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+    - https://community.simtropolis.com/files/file/16535-rnp-villa-aiser/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jrj-vol05
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Villa Aiser/"  
+
+---
+group: tag-one
+name:  yonker-building     
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Yonker Building Residential Lot
+  description: |
+    The Yonker Building is a medium sized apartment building for the R$ sims in your city. The building is based on a low wealth building in Yonker.
+    
+    The Yonker Building represents one of the many low wealth apartment buildings in the New York City area. These buildings where originally build to accommodate the large amount of immigrants in the US. Although these buildings were considered luxurious in their early days, they became outdated quickly by the improving building codes. Nowadays many of them can be found in ghetto's or outskirts of US East Cost cities and are occupied by poor people.              
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-residential-set
+  include:
+  - "/Yonker Building#/"  
+  
+---
+group: tag-one
+name:  tag-one-residential-collection    
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Residential Collection Pack
+  description: A collection of 24 Residential Lots by Tag One        
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/366-sc4d-lex-legacy-bsc-tag-one-residential-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - tag-one:block-tower
+  - tag-one:little-asia-condo
+  - tag-one:mas-tower
+  - tag-one:the-maxx
+  - tag-one:paloma-tower  
+  - tag-one:trident-tower 
+  - tag-one:austria-homes  
+  - tag-one:catullus-tower  
+  - tag-one:dutch-farmers-house   
+  - tag-one:emirates-gardens  
+  - tag-one:feldstrasse
+  - tag-one:ghetto-pack
+  - tag-one:hagestede-apartments
+  - tag-one:hamilton-houses
+  - tag-one:jeffs-house 
+  - tag-one:jenx-re-lotted
+  - tag-one:skillman-avenue  
+  - tag-one:small-rural-house 
+  - tag-one:small-timber-frame-houses
+  - tag-one:the-residence
+  - tag-one:villa-aiser 
+  - tag-one:yonker-building
+  
