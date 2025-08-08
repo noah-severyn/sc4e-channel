@@ -27,4 +27,5 @@ dependencies:
    - bsc:mega-props-mikeseith-vol01
    - csx:mega-props-vol03
    - maxis:day-of-peace
-
+assets:
+- assetId: kevdan25-restaurants-set
