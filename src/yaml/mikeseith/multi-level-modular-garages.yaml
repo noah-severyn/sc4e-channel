@@ -1,0 +1,56 @@
+group: mikeseith
+name: multi-level-modular-garages
+version: "2.0"
+subfolder: 700-transit
+info:
+  summary: Contains a modular set of 2-level and 8-level parking garages.
+  description: |-
+    The **SC4D LEX Legacy - Mikeseith Multi-level Modular Garages** contains the popular 2-level and 8-level Modular Parking Garages by MikeSeith, including the Airport Shuttle automatas. The 2-level garages have 8 modular pieces, including entrances (in prop family), several wall pieces and ramp piece. The 8-level garages have 18 modular pieces, including an entrance, two different types of ramps, several wall pieces, overhanging bride pieces over other networks, a police kiosk/parking security, but stop and an airport shuttle spawner bus stop. The original lots were created by MikeSeith, however they underwent some necessary revision and updates mostly performed by rsc204/mgb204. Most of the changes that he made are detailed in this post. A final revision and update was made by Tyberius06 for this legacy compilation.
+
+    # The highlights:
+
+    - Only the **Entrance lot(s)** and the **Airport Shuttle Busstop** have TE (transit enabled) parking garage function.
+    - All the lots (except the former Police Kiosk, now Parking Security which can be found in the Civic - Police menu) have been moved to the Misc Transportation menu from the Park menu.
+    - The former Police Kiosk is now called **Parking Security** and after some tweaks it sits somewhere between the Maxis Kiosk and Small Police Station in terms of it's effectiveness, with a larger radius to keep it in line with the intended function around Airports. **!!! VERY IMPORTANT !!!** - As with the Police Station Fix above, you can NOT use this override, until all prior instances of the original Police Station from this pack are removed from your cities. But given the overall modifications here, that's a good idea more generally too if using this update.
+    - The **Bus Stop** now conforms to more modern TE standards.
+    - The **Airport Shuttle** now acts as a BusStop with parking function and optionally spawning airport shuttle automatas if the airport shuttles.dat is installed.
+    - *Optionally*, both the Bus Stop and the Airport Shuttle lot recevied RTMT replacement versions, which alternately use the Bus Shelter and Bus Sign Props from your RTMT setup, (v3.6 or later compatible), instead of the default prop.
+    - Some pieces, like the entrance and the corner pieces are offering commercial service jobs.
+    - This legacy compilation meant to replace any previous versions of these parking garages. The formerly available *BSC MEGA Props Mikeseith vol02* (which exclusively contains models and props only for these sets and which was formerly released as an individual upload on the SC4D LEX file exchange, then released as part of the SC4D LEX Legacy - BSC Common Dependencies V6 and prior) has been included with this compilation (you will find it in the BSC/BSCProps folder) and will be removed with later updates from the BSC Common Dependencies (from version 7). So LOTters using these models and props need to reference this upload (SC4D LEX Legacy - Mikeseith Multi-level Modular Garages), instead of the former SC4Devotion LEX link or the BSC Common Dependencies compilation. 
+  author: mikeseith
+  websites: 
+    - https://community.simtropolis.com/files/file/27907-mikeseith-8-level-modular-garages/
+    - https://community.simtropolis.com/files/file/24568-mikeseith-2-level-modular-garages/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MikeSeiths%202%20garages%20front.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/mikeseith%208%20level%20garages1.JPG
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MikeSeith%20-%20airport%20shuttle.jpg
+    - https://www.simtropolis.com/objects/screens/monthly_08_2012/b39b8d535dca8ffcd1cfcbc59e098e0a-8lvl-city-night.jpg
+    - https://www.simtropolis.com/objects/screens/monthly_08_2012/93c369f1f99ad28b9795be7fb0b21cd8-8lvl-pieces.jpg
+variants:
+  - variant: { mikeseith:multi-level-modular-garages:bus-station-type: "default" }
+    assets:
+      - assetId: mikeseith-8-level-modular-garages
+        exclude:
+          - "/.*_RTMT/"
+          - "/Airport Shuttles All-in-One/"
+  - variant: { mikeseith:multi-level-modular-garages:bus-station-type: "rtmt" }
+    assets:
+      - assetId: mikeseith-8-level-modular-garages
+        exclude:
+          - "/Airport Shuttles All-in-One/"
+variantInfo:
+- variantId: "mikeseith:multi-level-modular-garages:bus-station-type"
+  description: Customize the props used for the Bus Stop and Airport Shuttle lots.
+  values:
+  - value: "default"
+    description: Uses MikeSeith's original props.
+    default: true
+  - value: "rtmt"
+    description: Replaces the bus shelter and bus sign props with Road Top Mass Transit (RTMT) props.
+
+---
+assetId: mikeseith-8-level-modular-garages
+version: "Version 3"
+lastModified: "2023-12-06T02:26:15-08:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=204:sc4d-lex-legacy-mikeseith-multi-level-modular-garages&catid=19
