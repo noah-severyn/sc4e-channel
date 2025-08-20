@@ -154,7 +154,7 @@ variants:
   - assetId: "bsc-rubik-wtc-complex"
     exclude:
     - "Two World Trade with Jobs.dat"
-    - "One World Trade with Jobs.dat\""
+    - "One World Trade with Jobs.dat"
 info:
   summary: "BSC Rubik One and Two Trade Center by Rubik3"
   description: |
