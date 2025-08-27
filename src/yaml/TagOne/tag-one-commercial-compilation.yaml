@@ -1,0 +1,773 @@
+---
+assetId: tag-one-commercial-set
+version: "1.0.0"
+lastModified: "2025-04-22T16:08:14-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=365:sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+
+---
+group: tag-one
+name: arvis-insurance
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Arvis Insurance Commercial Lot
+  description: |
+    Arvis insurance is situated in a midrise office building. The building is 16 stories tall and is build in the international style. The complete building is covered by a curtain wall. In order to prevent over heating in the summer some large air-conditioning units are placed on the roof.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-t1-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$8_2x3_Arvis Insurances_1f703a53.SC4Lot"
+        - "/CO\\$\\$8_3x3_Arvis Insurances_e820199d.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$9_2x3_Arvis Insurances_38201756.SC4Lot"
+
+---
+group: tag-one
+name: comtech-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: ComTech Tower Commercial Lot
+  description: |
+    ComTech is a new and fast growing company in the SimNation. The company is specialized in the design and production of various communication equipments like phones, GPS devices, radios etc. As ComTech outsources the production of those items, they need some office space to coordinate the logistic challenge that comes with outsourcing. ComTech is situated in a small 2x1 pencil tower. 
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$\\$8_2x1_ComTech Tower_3a295bfa.SC4Lot"       
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$\\$10_2x1_ComTech Tower_8968a291.SC4Lot"
+
+---
+group: tag-one
+name: hilton-hotel
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Hilton Hotel Commercial Lot
+  description: |
+    Located in one of your town's historical buildings the Hilton hotel is the place to be for famous VIPs and rich business people who want to visit your region.  
+  author: Tag One
+  websites:
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/21858-hilton-hotel/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CS\\$\\$\\$8_2x2_Hilton Hotel_5fb751cc.SC4Lot"       
+        - "/CS\\$\\$\\$8_2x3_Hilton Hotel_785633fd.SC4Lot"  
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CS\\$\\$\\$9_2x3_Hilton Hotel_9724554b.SC4Lot"
+        - "/CS\\$\\$\\$10_2x2_Hilton Hotel_b79d9b82.SC4Lot"
+
+---
+group: tag-one
+name: hotel-little-asia
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Hotel Little Asia Commercial Lot
+  description: |
+    This is the Hotel Little Asia. It's a small midrise building with a typical Asian architecture. The building fits on a small 1x2 tile.
+  author: Tag One
+  websites:
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/21653-hotel-little-asia/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CS\\$\\$8_1x2_Hotel Little Asia_9b2f2374.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CS\\$\\$11_1x2_Hotel Little Asia_c74ad647.SC4Lot"
+
+---
+group: tag-one
+name: mall-of-justa
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Mall of Justa Asia Commercial Lot
+  description: |
+    The Mall of Justa is 9 stories tall shopping mall. In the mall you can find different luxurious clothing and lifestyle shops for the upscale sims in your city.
+  author: Tag One
+  websites:
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/21652-mall-of-justa/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CS\\$\\$\\$8_3x3_Mall of Justa_07bc16d8.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CS\\$\\$\\$9_3x3_Mall of Justa_0742c54c.SC4Lot"
+
+---
+group: tag-one
+name: rnp-properties
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: RNP Properties Commercial Lot
+  description: |
+    For quite some time RNP Properties, part of RN Productions, was looking for a tower to expend their services in the Simnation property and real estate market. After a long search they've found a nice building for their business.
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$8_2x3_RNP Properties_3ee701de.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$9_2x3_RNP Properties_05860e3c.SC4Lot"
+
+---
+group: tag-one
+name: tauner-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Tauner Tower Commercial Lot
+  description: |
+    The Tauner Tower is a highrise office building.
+  author: Tag One
+  websites:
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/21654-tauner-tower/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol02
+  - bsc:mega-props-cp-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$8_3x3_Tauner Tower_1c40c8d9.SC4Lot"        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: tag-one-commercial-set
+        include:
+        - "/CO\\$\\$11_3x3_Tauner Tower_37382a4e.SC4Lot"
+
+---
+group: tag-one
+name:  boutique-anna-bella 
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Boutique Anna Bella Commercial Lot
+  description: |
+    Anna Bella is a high class fashion designer. Hailing from Brisbane, Anna studied fashion design at Gateway TAFE in Brisbane and later went on to study fashion design in London. Anna worked as a hand sewer for various companies before starting her own label. In 2011 she started her own label. Anna then opened a store called Boutique Anna Bella. Her collection consists of long, silky, feminine dresses. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/GhettoPack2_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/MAStower1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/STF_1.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Boutique Anna Bella/"   
+  
+---
+group: tag-one
+name:  brown-eye-real-estate  
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Brown Eye Real Estate Commercial Lot
+  description: |
+    Welcome in the world of real estate. Real estate are valuable things that can't be transported, like the houses and shops you build in your city. Brown Eye Real Estate will manage the financial business around these buildings like insurance and other things for your simresidents.
+    The Brown Eye Real Estate office building is based on a real building in Nieuwegein, The Netherlands. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/16276-brown-eye-real-estate/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Brown Eye Real Estate/"   
+  
+---
+group: tag-one
+name:  bte-retail-traders-association  
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: BTE Retail Traders Association Commercial Lot
+  description: |
+    The BTE Retail Traders Association is a workers union for the employees of your city's commercial sector. As soon as there are 2500 sims working in this sector the BTE Retail Traders Association will be delivered as a reward for your town. The building can only be build once in each town and helps you to improve the commercial climate in your city. As bonus the query of this building displays the number of BTE enabled lots in your town.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:mega-props-swi21-vol02
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/BTE Retail Traders Association/"   
+  
+---
+group: tag-one
+name:  commercial-mega-lot  
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Commercial Mega Lot
+  description: |
+    This lot contains a group of commercial buildings:
+    * RNP Dance Club
+    * Club Fantasy
+    * The Bison Hotel
+    * TagFood Restaurant
+    * Café IxDee
+    all of these buildings are connected with the underground parking area (no entrance for commuters)
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/15370-rnp-commercial-mega-lot/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Commercial Mega Lot/"   
+  
+---
+group: tag-one
+name:  comsec-security   
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Comsec Security Commercial Lot
+  description: |
+    Comsec Security is one of the biggest anti-spyware and PC security companies in your Simnation. They will keep your sims computers free of irritating pop-ups, spyware and spam of products you'll only use when you're a very old man :P
+    They're settled in a hightech office building. The building is made of a concrete skull covered with granite and marble plates. The windows are made of special red glass to make it a quite unique building in your cities. Hopefully you'll like this architecture.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/17133-rnp-comsec-security/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Comsec Security/"   
+  
+---
+group: tag-one
+name:  de-bijenkorf   
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: De Bijenkorf Commercial Lot
+  description: |
+    De Bijenkorf is a chain of upmarket department stores in the Netherlands. De Bijenkorf offers many prestigious brands in womenswear, menswear, accessories, beauty, food, and home. This building is inspired by a real Bijenkorf Store in the city of Utrecht, The Netherlands.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-d66-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/De Bijenkorf/"   
+  
+---
+group: tag-one
+name:  disco-the-shed   
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Disco The Shed Commercial Lot
+  description: |
+    After Jim was tired of growing tomatoes he got an idea. He rented an empty shed and bought some boxes, disco lights and lots of beer. With those ingredients he started an successful business in a once boring village.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:mega-props-jes-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Disco The Shed/"   
+  
+---
+group: tag-one
+name:  hercules-building   
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Hercules Building Commercial Lot
+  description: |
+    The Hercules Building part of the Hercules Financial Group. This institution will provide financial advice for your Sims about matters such as investing, insurance, borrowing, saving and retirement planning. Professionally, the advice is given only after the financial situation of the client is unveiled through a thorough fact-finding and analysis exercise. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-jes-vol01
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Hercules Building/"   
+
+---
+group: tag-one
+name:  hookup-urban-fashion   
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: HookUp Urban Fashion Commercial Lot
+  description: |
+    HookUp Urban Fashion is a clothing shop specialized in fashion for teenagers. The shop is situated in a well maintained German timber frame building. During a recent renovation some solar panels where placed on the roof of the building to reduce the electricity consumption. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/HookUp Urban Fashion/"   
+
+---
+group: tag-one
+name:  jenx-re-lotted-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: JENX Re-lotted Commercial Lot
+  description: |
+    This is the second pack of the JENX relotted series. In the past JENX made some very nice buildings, unfortunately his lots got outdated and were poorly modded to today's standards. This pack contains several bars, hotels and offices
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-jenx-vol04
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:mega-props-mjb-vol01
+  - csx:mega-props-vol03
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/JENX Re-lotted/"   
+
+---
+group: tag-one
+name:  leurink-architects
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Leurink Architects Commercial Lot
+  description: |
+    Leurink Architects is an architectural office specialised in designing high quality buildings for your cities. With this company in your city, you can be pretty sure that your sims will get a good home to live in. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/17692-bsc-leurink-architects/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Leurink Architects/"   
+  
+---
+group: tag-one
+name:  shoppingcenter
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Shoppingcenter Commercial Lot
+  description: |
+    Here you have some nice looking low wealth shoppingcenters. In SC4 is a real lack of nice looking low wealth shops with some high capacity.
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/14532-rnp-shoppingcenter/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Shoppingcenter/"   
+  
+---
+group: tag-one
+name:  sitadel-bv
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Sitadel BV Commercial Lot
+  description: |
+    Sitadel BV is a small company specialized in financial services for other companies. They will deal with the pressure of the lack of good accountants in your cities. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/17126-rnp-sitadel-bv/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Sitadel BV/"   
+  
+---
+group: tag-one
+name:  small-timber-frame-shops
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Small timber frame shops Commercial Lot
+  description: |
+    This is a set of 10 small CS$ timber frame shops. Timber frame buildings are very common in Northern Europe. They were built in rural areas as well as big cities during the Middle Ages. This building style is generally found in areas with lots of woodlands and a large supply of timber. The main part of the construction is the wooden skeleton. This skeleton carries the loads of the building. The spaces between the wooden beams and columns are filled with plaster, brick, or stone. 
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:textures-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Small Timber Frame Shops/"   
+  
+---
+group: tag-one
+name:  sun-bank 
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Sun Bank Commercial Lot
+  description: |
+    The Sun Bank is one of the fastes growning bankchains in the SimNation. This building of the Sun Bank is a simple service building for your sims.  
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+    - https://community.simtropolis.com/files/file/16549-rnp-sun-bank/
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/Sun Bank/"   
+  
+---
+group: tag-one
+name:  the-green-river-bar 
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Green River Bar Commercial Lot
+  description: |
+    The Green River Bar is a small bar in an old timber frame building. The building was originally built in 1497, but was burned down in 1604 by angry citizens. The story goes that an old man brought prop pox to their city. As the city slowly disappeared the citizens became scared and angry. On a cold August night they surrounded the building and burned it to ashes, with the poor old man inside. In 1640 the building was reconstructed in its old style. Ever since it houses the Green River Bar, although no one understands where its name came from.  
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-t1-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: tag-one-commercial-set
+  include:
+  - "/The Green River Bar/"   
+  
+---
+group: tag-one
+name:  tag-one-commercial-collection    
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Commercial Collection Pack
+  description: A collection of 23 Commercial Lots by Tag One        
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/365-sc4d-lex-legacy-bsc-tag-one-commercial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/ARV_1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Leurink%20Architects-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Small-shops.jpg
+
+dependencies:
+  - tag-one:arvis-insurance
+  - tag-one:comtech-tower
+  - tag-one:hilton-hotel
+  - tag-one:hotel-little-asia
+  - tag-one:mall-of-justa  
+  - tag-one:rnp-properties 
+  - tag-one:tauner-tower  
+  - tag-one:boutique-anna-bella  
+  - tag-one:brown-eye-real-estate   
+  - tag-one:bte-retail-traders-association
+  - tag-one:commercial-mega-lot
+  - tag-one:comsec-security
+  - tag-one:de-bijenkorf
+  - tag-one:disco-the-shed
+  - tag-one:hercules-building 
+  - tag-one:hookup-urban-fashion
+  - tag-one:jenx-re-lotted-commercial  
+  - tag-one:leurink-architects 
+  - tag-one:shoppingcenter
+  - tag-one:sitadel-bv
+  - tag-one:small-timber-frame-shops
+  - tag-one:sun-bank
+  - tag-one:the-green-river-bar
