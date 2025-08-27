@@ -1,0 +1,25 @@
+group: "somy"
+name: "modern-japanese-house-set"
+version: "1.0"
+subfolder: "200-residential"
+dependencies:
+- "somy:mega-props-vol07"
+
+assets:
+- assetId: "somy-modern-japanese-house-set"
+info:
+  summary: "Modern Japanese House Set by SOMY"
+  description: |-
+    A set of 10 houses by SOMY that have been updated using the X_Tool and also have had the dummy building replaced by a building model. The capacity now varies according to the number and size of houses on the lot. All except one are stage 3 R$$ and the lotting is unchanged from the originals.
+    
+  author: "SOMY"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/11-residential/245-somy-modern-japanese-house-set"
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/somy-jpn-house1x4.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/simtop3.jpg
+    
+---
+assetId: "somy-modern-japanese-house-set"
+version: "1.0"
+lastModified: "2024-01-27T17:33:57-08:00"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=245:somy-modern-japanese-house-set"
