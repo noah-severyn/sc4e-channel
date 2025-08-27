@@ -1,0 +1,75 @@
+---
+assetId: somy-danchi-apartments-set
+version: "1.0.0"
+lastModified: "2024-01-27T17:34:38-08:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=244:somy-danchi-apartments
+
+---
+group: somy
+name:  danchi-apartments
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Danchi Apartments Residential Set
+  description: |
+    A set of apartments from SOMY. There are four different styles of low wealth residential buildings.
+  author: SOMY
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/244-somy-danchi-apartments
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SOMYDanchi_s.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SOMYDanchi_sn.jpg
+
+dependencies:
+  - somy:mega-props-vol05
+
+assets:
+- assetId: somy-danchi-apartments-set
+  include:
+  - "/R\\$5_SOMY Danchi03.dat"
+  - "/R\\$5_SOMY Danchi04.dat"
+  - "/R\\$5_SOMY Danchi05.dat"
+  - "/R\\$5_SOMY Danchi06.dat"
+
+---
+group: somy
+name:  danchi-water-tower
+version: "1.0.0"
+subfolder: 500-utilities
+info:
+  summary: Danchi Apartments Water Tower
+  description: |
+    A water tower built by SOMY that is part of the Danchi Apartments Set.
+  author: SOMY
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/244-somy-danchi-apartments
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SOMYDanchi_s.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SOMYDanchi_sn.jpg
+
+dependencies:
+  - somy:mega-props-vol05
+
+assets:
+- assetId: somy-danchi-apartments-set
+  include:
+  - "/PLOP_1x1_SOMY Danchi Water Tower_391bacae.SC4Lot"
+  
+---
+group: somy
+name:  somy-danchi-apartments-set    
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Danchi Apartments Collection Pack
+  description: The complete set of SOMY Danchi Apartments, which includes a water tower and a set of apartments.      
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/244-somy-danchi-apartments
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SOMYDanchi_s.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SOMYDanchi_sn.jpg
+
+dependencies:
+  - somy:danchi-apartments
+  - somy:danchi-water-tower
