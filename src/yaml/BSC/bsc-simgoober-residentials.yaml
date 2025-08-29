@@ -340,7 +340,9 @@ variants:
     assets:
       - assetId: bsc-simgoober-residentials-set
         include:
-        - "/Pencil Towers/"
+        - "/Atlas/"
+        - "/Cumberland/"
+        - "/Musgrave/"
         - "/PLOP_3x3_SG_ApartmentTower-Musgrave_d795f70a.SC4Lot"
         
 ---
