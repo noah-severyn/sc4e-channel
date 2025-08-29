@@ -1,0 +1,479 @@
+---
+assetId: bsc-simgoober-residentials-set
+version: "1.0.0"
+lastModified: "2024-05-01T07:54:12-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=274:sc4d-lex-legacy-bsc-simgoober-residentials
+
+---
+group: simgoober
+name:  sg-residentials-vol01-small-homes-and-cottages   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Residentials Vol01 - Small Homes and Cottages, by simgoober
+  description: |
+    All of SimGoober's residentials (previously released on STEX, PLEX or Simcity Plaza/Simicitykurier before 2007) have been updated and packaged into dats. This set contains small homes and cottages   
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    - https://community.simtropolis.com/files/file/11122-rls-homes-the-ashton/
+    - https://community.simtropolis.com/files/file/12716-rls-homes-the-berwick/
+    - https://community.simtropolis.com/files/file/11238-rls-homes-the-birka/
+    - https://community.simtropolis.com/files/file/11180-rls-homes-the-claridge/
+    - https://community.simtropolis.com/files/file/11503-rls-cottages/
+    - https://community.simtropolis.com/files/file/15987-country-homes/
+    - https://community.simtropolis.com/files/file/11123-rls-homes-the-legacy/
+    - https://community.simtropolis.com/files/file/12717-rls-homes-suburban-collection/
+    - https://community.simtropolis.com/files/file/11239-rls-small-homes/
+    - https://community.simtropolis.com/files/file/11444-rls-homes-swedish-villa-siljac/
+    - https://community.simtropolis.com/files/file/11443-rls-homes-swedish-modern/
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol01-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-d66-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - peg:mtp-super-pack
+  - t-wrecks:maxis-prop-names-and-query-fix
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Residential LOT Collection Vol01/"  
+  
+---
+group: simgoober
+name:  sg-residentials-vol02-condos-and-rowhomes   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Residentials Vol02 - Condos and Rowhomes, by simgoober
+  description: |
+    All of SimGoober's residentials (previously released on STEX, PLEX or Simcity Plaza/Simicitykurier before 2007) have been updated and packaged into dats. This set contains condos and rowhomes 
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    - https://community.simtropolis.com/files/file/4241-brownstone-apartments
+    - https://community.simtropolis.com/files/file/4200-bsc-evening-town-homes/
+    - https://community.simtropolis.com/files/file/14108-sardina-row-homes/
+    - https://community.simtropolis.com/files/file/14167-scuttlebutt-row-homes/
+    - https://community.simtropolis.com/files/file/11124-rls-suburban-condos/
+    - https://community.simtropolis.com/files/file/11125-rls-suburban-townhomes/
+    - https://community.simtropolis.com/files/file/4240-baltimore-sweel-front-town-homes
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol02-models
+  - bsc:mega-props-sg-vol01
+  - csx:mega-props-vol01
+  - bsc:textures-vol01
+  - t-wrecks:maxis-prop-names-and-query-fix
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Residential LOT Collection Vol02/"  
+  
+---
+group: simgoober
+name:  sg-residentials-vol03-luxory-homes-and-mansions   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Residentials Vol03 - Luxory Homes and Mansions, by simgoober
+  description: |
+    All of SimGoober's residentials (previously released on STEX, PLEX or Simcity Plaza/Simicitykurier before 2007) have been updated and packaged into dats. This set contains luxury homes and mansions
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    - https://community.simtropolis.com/files/file/12718-rls-home-the-cheriton/
+    - https://community.simtropolis.com/files/file/13769-rls-home-the-hagerman/
+    - https://community.simtropolis.com/files/file/11925-rls-homes-the-highgrove/
+    - https://community.simtropolis.com/files/file/11391-rls-homes-the-colonial/
+    - https://community.simtropolis.com/files/file/12326-sugar-cane-farms/
+    - https://community.simtropolis.com/files/file/14189-mathew-keenan-townhome
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol03-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-d66-vol01
+  - bsc:mega-props-dae-vol01
+  - bsc:mega-props-misc-vol01
+  - csx:mega-props-vol03
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Residential LOT Collection Vol03/"  
+
+---
+group: simgoober
+name:  sg-residentials-vol04-high-rise-blocks   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Residentials Vol04 - High-rise Blocks, by simgoober
+  description: |
+    All of SimGoober's residentials (previously released on STEX, PLEX or Simcity Plaza/Simicitykurier before 2007) have been updated and packaged into dats. This set contains mid and hi rise blocks
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    - https://community.simtropolis.com/files/file/12961-astoria-pointe-apartments/
+    - https://community.simtropolis.com/files/file/12956-walldoff-apartments/
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol04-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-gascooker-vol01
+  - csx:mega-props-vol03
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - peg:mtp-super-pack
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: bsc-simgoober-residentials-set
+        include:
+        - "/Residential LOT Collection Vol04/"
+        - "/SG_5x4_AstoriaPointe_Plop.dat"
+        - "/SG_3x3_WallDoff Hotel_Plop.dat"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: bsc-simgoober-residentials-set
+        include:
+        - "/Residential LOT Collection Vol04/"
+        - "/SG_PrincessTower_CAM_GROW.dat"
+        - "/SG_SmithBlock_CAM_GROW.dat"
+        - "/SG_5x4_AstoriaPointe_Plop.dat"
+        - "/SG_3x3_WallDoff Hotel_Plop.dat"
+        
+---
+group: simgoober
+name:  mobile-homes
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Mobile Homes,  by simgoober
+  description: |
+    This is a series of lots designed to improve the selection of in game mobile homes. These are designed as smaller, and older mobile homes, typically found in lower income areas.
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    - https://community.simtropolis.com/files/file/11518-rls-mobile-homes/
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol01-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+  - t-wrecks:maxis-prop-names-and-query-fix
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Mobile Homes/"  
+  
+---
+group: simgoober
+name:  apartment-blocks
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Apartment Blocks,  by simgoober
+  description: |
+    A set of low-income buildings that are very similar to Maxis buildings.
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol04-models
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Apartment Blocks/"  
+  
+---
+group: simgoober
+name:  elwood-apartments
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Elwood Apartments,  by simgoober
+  description: |
+    Elwood McNurny has decided to build an apartment tower on a small lot he won in a poker game. He has decided to maximize the number of residents, but put in a minimal amount of money. He didn't win any money after all, only the lot. So we give you the Elwood Tower; a low wealth apartment tower
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol04-models
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: bsc-simgoober-residentials-set
+        include:
+        - "/R\\$8_2x3_SG_ApartmentBlockElwood_0807688b.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: bsc-simgoober-residentials-set
+        include:
+        - "/R\\$9_2x2_SG_ApartmentBlockElwood_d807687a.SC4Lot"
+        
+---
+group: simgoober
+name:  mary-sue-home
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Mary Sue Home,  by simgoober
+  description: |
+    A small single family home with a wrap round veranda that was inspired by one seen on a Christmas card
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol03-models
+  - bsc:mega-props-sg-vol01
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Mary Sue Home/"  
+
+---
+group: simgoober
+name:  pencil-towers
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Pencil Towers,  by simgoober
+  description: |
+    Three pencil towers, actually inspired by Bixel works. There are three versions of this tower, all with names of different pencil manufacturers. Each tower is a different height, by a few floors. All the towers have the same number of occupants, so they will grow randomly.
+
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol04-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-misc-vol02
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: bsc-simgoober-residentials-set
+        include:
+        - "/Pencil Towers/"
+        - "/PLOP_3x3_SG_ApartmentTower-Musgrave_d795f70a.SC4Lot"
+        
+---
+group: simgoober
+name:  mathew-keegen-offices   
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: SG Mathew Keegen Offices, by simgoober
+  description: |
+    Matthew Keenan was a successful businessman and politician in Milwaukee, and eventually became an officer of the Northwestern Mutual Life Insurance Co. The building is pressed Cream City brick, and was designed by Edward Townsend Mix.
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    - https://community.simtropolis.com/files/file/14189-mathew-keenan-townhome
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol03-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-swi21-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:mega-props-d66-vol01
+  - bsc:mega-props-dae-vol01
+  - bsc:mega-props-misc-vol01
+  - csx:mega-props-vol03
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/Mathew Keegen Offices/"  
+
+---
+group: simgoober
+name:  schmucker-house   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Schmucker House, by simgoober
+  description: |
+    This was a special PEG-MTP-CW offering from SimGoober. The upload was available on PLEX (simpeg.com) under the Civil War Project. This upload has been restored and rehosted as a legacy content., since it was unavailable  due the demisie of the simpeg site. This file has been uploaded on behalf of Simgoober. Now it contains a 2x3 museum lot created by Tyberius06
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol03-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-mjb-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/R\\$\\$\\$4_4x3_SG_SchmuckerHouse_72c9ca68.SC4Lot"  
+  - "/SG_3x3_SchmuckerHouse_32c9cad7.SC4Lot"
+  - "/SG SchmuckerHouse Museum_9f64ad09.SC4Lot"
+
+---
+group: simgoober
+name:  susan-b-anthony-building   
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: SG Susan B Anthony Building, by simgoober
+  description: |
+    Susan Brownell Anthony (February 15, 1820 - March 13, 1906) was a prominent, independent and well-educated American civil rights leader who played a pivotal role in the 19th century women's rights movement to secure women's suffrage in the United States. She travelled the United States and Europe, and gave 75 to 100 speeches per year on women's rights for some 45 years.
+    This building is based on the house that she lived in with a set of 3 colour variations for the growable lots. 
+  author: SimGoober (SG)
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:sg-mega-residentials-vol03-models
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-cp-vol01
+  - bsc:mega-props-d66-vol02
+  - bsc:mega-props-d66-vol03
+  - bsc:texturepack-cycledogg-vol01
+
+assets:
+- assetId: bsc-simgoober-residentials-set
+  include:
+  - "/SG_House_SusanBAnthony_GROW.dat"  
+  - "/SG_1x2_Susan B Anthony Museum_65188d8c.SC4Lot"
+
+  
+---
+group: simgoober
+name:  simgoober-residential-collection    
+version: "1.0.0"
+subfolder: 200-residential
+info:
+  summary: Residential Collection Pack
+  description: A collection of 36 Residential Lots by SimGoober (SG)       
+  author: Tag One
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/11-residential/274-sc4d-lex-legacy-bsc-simgoober-residentials
+    
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_RLS_Ashton_Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG%20Schmucker-d.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/SG_WallDoffApartments_Day.jpg
+
+dependencies:
+  - simgoober:sg-residentials-vol01-small-homes-and-cottages
+  - simgoober:sg-residentials-vol02-condos-and-rowhomes
+  - simgoober:sg-residentials-vol03-luxory-homes-and-mansions
+  - simgoober:sg-residentials-vol04-high-rise-blocks
+  - simgoober:mobile-homes
+  - simgoober:apartment-blocks
+  - simgoober:elwood-apartments
+  - simgoober:mary-sue-home
+  - simgoober:pencil-towers  
+  - simgoober:schmucker-house
+  - simgoober:susan-b-anthony-building  
