@@ -12,7 +12,7 @@ dependencies:
 - "bsc:mega-props-misc-vol02"
 - "bsc:mega-props-mikeseith-vol03"
 - "bsc:textures-vol02"
-version: "1.0"
+version: "2.0"
 subfolder: "400-industrial"
 variants:
   - variant: { CAM: "no"}
@@ -36,80 +36,6 @@ info:
     The Carlswerk has a rich history encapsulating the rise and fall of Western industry. Founded in 1874 by Franz Carl Guilleaume and incorporated as Felten & Guilleaume (F&G) soon after, the Carlswerk factory produced, among other things, wire, electric lines, and telephone and telegraph cable (the first transatlantic cable, laid in 1904, was manufactured there). Over time more production and storage buildings were added until, by the 1960s, some 23,000 people worked at the sprawling complex. In decline since the '70s, F&G changed ownership several times until it was eventually acquired by the Danish company NKT Cables. In 2007 NKT closed the Carlswerk and sold the property. The complex is currently being renovated as an upscale office park and apartment-loft complex and the CC building will doubtless be razed.
 
     To grow this lot, create a single 10x6 tile high-density IND lot by pressing the 'Ctrl' key when dragging your zone. Unless your city has a high unsatisfied IM demand, a large, stage 5 CAMeLot such as this will normally appear after several intermediate-stage lots have grown, and for the impatient among you, the aforementioned non-CAM Landmark plop will be available. Please note that sufficient IM demand must exist in your cities both to grow the lot and avoid abandonment of either version. 
-
-    **INSTALLATION**
-
-    Copy/Extract the GTG and/or CAM parent folders into your Plugins. If you've extracted the ~Documents folder you may remove it from the Plugins, but keep it in a safe location.
-    *Bear in mind, that with the Project ZIP efforts the CAM (Colossus Addon Mod) related LOTs are having a dedicated folder for now on (see file paths below). If you don't want to use the non-CAM and/or PLOP versions of the lot, you can remove them from the GTG/Cologne Cable folder, but you must keep the GTG/Props folder as that contains the essential model files for all the LOTs.*
-    
-    To un-install the files, simply bulldoze every lot from this download in your cities and delete the files from the plugins folder afterwards.
-
-    To avoid conflicts, please, it is highly recommended to use any of the third party cleanitol tools and remove any previous versions from your plugins. In the ~Documents folder in the main ZIP you can find a Cleanitol_GTG_Cologne_Cable.txt file and by using either the newer nos.17's SC4 Cleanitol or the older BSC Cleanitol tool you can search and remove old and outdated versions of these files.
-
-    **DEPENDENCY**
-    To ensure proper functionality, be sure the files listed below are installed in the plugins folder.
-
-    *     GTG Cable Props (included in this package)
-    *     SC4D LEX Legacy - BSC Common Dependencies Pack v9b (and above)
-    *         BSC Essentials
-    *         BSC MEGA Props SG Vol01 v4
-    *         BSC MEGA Props JES Vol01 v2
-    *         BSC MEGA Props JES Vol02 v2
-    *         BSC MEGA Props JES Vol03 v2
-    *         BSC MEGA Props JES Vol08 v2
-    *         BSC MEGA Props JES Vol09 v2
-    *         BSC MEGA Props Misc Vol02 v4
-    *         BSC MEGA Props Mikeseith Vol03
-    *         BSC Textures Vol02
-    *     PEG Security Fence RESOURCE 100
-    *     Colossus Addon Mod
-
-    **Lot Details**
-
-    ***Growable Versions (CAM)***
-    * Lot size 	10 x 6 tiles
-    * Building Style 	IM§§ Anchor
-    * Growth Stage 	5 (CAM)
-    * Occupancy 	1685 IM jobs
-    * Building Value 	§ 7004
-    * Bulldoze Cost/Worth 	§ 350
-    * Flammability 	70, stage 4
-    * Power Consumption 	56 MWh/month
-    * Water Consumption 	826 gallons/month
-    * Air Pollution 	55 over 9 tiles
-    * Water Pollution 	36 over 13 tiles
-    * Garbage Pollution 	9 tons/month
-
-    ***Growable Versions (Regular non-CAM)***
-    * Lot size 	10 x 6 tiles
-    * Building Style 	IM§§ Anchor
-    * Growth Stage 	3
-    * Occupancy 	1012 IM jobs
-    * Building Value 	§ 5424
-    * Bulldoze Cost/Worth 	§ 350
-    * Flammability 	70, stage 4
-    * Power Consumption 	43 MWh/month
-    * Water Consumption 	639 gallons/month
-    * Air Pollution 	42 over 9 tiles
-    * Water Pollution 	28 over 13 tiles
-    * Garbage Pollution 	7 tons/month
-
-    ***Ploppable Version***
-    * Lot size 10 x 6 tiles
-    * Menu Position Landmarks
-    * Custom Features 	Menu Icon, Query
-    * Reward Requirements 	None
-    * Jobs 	843 IM
-    * Plop Cost 	§ 5340
-    * Bulldoze Cost/Worth 	§ 350
-    * Transit Enabled 	No
-    * Power Consumption 	39 MWh/month
-    * Water Consumption 	584 gallons/month
-    * Air Pollution 	38 over 9 tiles
-    * Water Pollution 	25 over 13 tiles
-    * Garbage Pollution 	6 tons/month
-    * Park, Landmark & Mayor-rating Effects 	None
-    * Demand Cap Relief 	None
   
   author: "gottago(GTG)"
   website: "https://www.sc4evermore.com/index.php/downloads/download/13-industrial/406-gtg-cologne-cable"
@@ -120,6 +46,6 @@ info:
     
 ---
 assetId: "cologne-cable"
-version: "1.0"
-lastModified: "2025-06-17T05:32:00-07:00"
+version: "2.0"
+lastModified: "2025-08-30T18:00:22-07:00"
 url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=406:gtg-cologne-cable"
