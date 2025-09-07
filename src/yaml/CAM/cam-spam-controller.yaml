@@ -9,11 +9,10 @@ name: "colossus-addon-mod-spam-controller"
 version: "3.0.0"
 subfolder: "050-load-first"
 dependencies:
-  - "cam:colossus-addon-mod-ordinances"
+  - "cam:ordinances"
   - "cam:colossus-addon-mod-core"
   - "heinbloed4711:hi-tech-missing-high-wealth-jobs"
 conflicting:
-  - "peg:spam-legacy-version"
   - "peg:spam"
   - "cam:colossus-addon-mod"
   - "invisichem:colossus-addon-mod-legacy"
