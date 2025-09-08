@@ -1,0 +1,396 @@
+---
+assetId: gascooker-industrial-set
+version: "2.0.0"
+lastModified: "2025-08-30T01:59:34-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=351:sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+
+---
+group: gascooker
+name:  breadline-bakery
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Breadline Bakery Industrial Lot
+  description: |
+    The Breadline Bakery is a 1x2 dense industrial factory providing 25 and 54 (CAM) manufacturing jobs and acceptable levels of pollution. This bakery is the primary supplier of "value" branded bread to the supermarkets of Simnation. They say, their belief that a little bit of sawdust goes a long way in the roughage stakes, has been clinically proven in hospital admissions.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m3_1x2_breadlinebakery_efa72b2f.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m5_1x2_breadlinebakery_b6b02231.SC4Lot"
+
+---
+group: gascooker
+name:  crankys-shafts
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Cranky's Shafts Industrial Lot
+  description: |
+    Cranky's Shaft Sharpening Factory is a 2x2 dense industrial workshop providing 29 and 67 (CAM) manufacturing jobs with acceptable levels of pollution and water consumption. Their slogan "If you need a shaft then get it from Cranky's has become a byword for what the Navy considers the best tool in the business. With two patented shaft-kilns Cranky's can shaft three times as fast as its nearest competitors.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m2_2x2_crankyshaft_efa70b5b.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m4_2x2_crankyshaft_18ba2ff1.SC4Lot"
+        
+---
+group: gascooker
+name:  flour-power-bakery
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Flour Power Bakery Industrial Lot
+  description: |
+    The Flower Power Bakery is a 2x2 dense industrial factory providing 39 and 196 (CAM) manufacturing jobs and acceptable levels of pollution. The Flour Power Bakery is a much more respectable affair than its competitor The Breadline Bakery. Their premium Loaf is called the Morning Glory, named for its light fluffy texture and golden crust, perfect every time for Sandwiches and morning Toast.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m2_2x2_flourpower_efa71c20.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m7_2x2_flourpower_a76ec42d.SC4Lot"
+
+---
+group: gascooker
+name:  gasometers
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Gasometers Industrial Lot
+  description: |
+    These are dirty industrial buildings that grow at stage 3 and 4, depending on the lot. 
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-jes-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-d3_2x2_GC_gasometer_0fed87d9.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-d4_1x1_GC_gasometer_efed5147.SC4Lot"
+
+---
+group: gascooker
+name:  jet-flush-sanitaryware
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Jet Flush Sanitaryware Industrial Lot
+  description: |
+    The Jet Flush Sanitaryware Plant is a 2x2 dense industrial factory providing 61 and 183 (CAM) manufacturing jobs with almost acceptable levels of pollution and water consumption.The factory's special patented lav-kiln has been producing the finest white porcelain conveniences for over a century. Their recent expansion into the commercial urinal market has generated a massive increase in demand for new premises across Simnation.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m3_2x2_jetflush_ef84487d.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m6_2x2_jetflush_853ac631.SC4Lot"
+        
+---
+group: gascooker
+name:  kelvin-de-klein-fridgarium
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Kelvin De Klein Fridgarium Industrial Lot
+  description: |
+    The Kelvin De Klein Frigdarium is a state of the art 5x5 High tech coldstore and cryogenics warehouse facility. It hosts a total of 486 and 1164 (CAM) high tech industrial jobs and produces a minimum amount of water and air polltuion. The plant boasts the tallest garage doors in Simnation and the coldest deep-freeze vaults in the world. As well as its liquid-nitrogen celluar research laboratories, the facility also operates as a standard frozen food distribution centre for sim farmers and various supermarket chains across the region.
+    The Kelvin De Klein Fridgarium is CFC-free, made of 85 per cent organic recycleables, is 92 per cent sustainable and totally carbon-neutral. The Fridgarium's policy on corporate social responsibility restricts Friesian Foods from storing any of its frozen ready-meals at any Kelvin facility.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-sg-vol01
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+  - bsc:textures-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-ht3_5x5_KelvinKoldstore_30cc29a1.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-ht6_5x5_KelvinKoldstore_9efffd08.SC4Lot"
+
+---
+group: gascooker
+name:  friesian-foods-meat-packing-plant
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Friesian Foods Meat Packing Plant Industrial Lot
+  description: |
+    The Friesian Foods Meat Packing Plant is a 4x3 dense industrial factory providing 358 I-D jobs with medium to high levels of air and water pollution. The plant is not just a mere abattoir but a self-contained "cow to packaged-ready-meal" production facility, which takes the MRM (mechanically recovered meat) process to a whole new level of efficiency. In fact, its patented hoof and eyelid extraction machines are so efficent that the cost of kebabs and ready-meal lasagnes have halved across Simnation.
+    Friesian Foods has only ever experienced two reported outbreaks of Mad Cow Disease, and only one incident of the sim form: CJD (City Journal Diarrhoea syndrome). Its entirely safe to use but may affect nearby property price.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+  - bsc:textures-vol01
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-d3_4x3_meatpacker_30cbfe77.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-d6_4x3_meatpacker_4fc9f0fa.SC4Lot"
+        
+---
+group: gascooker
+name:  noxious-nylon
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Noxious Nylon Industrial Lot
+  description: |
+    The Noxious Nylon Plant is a 4x4 totally unregulated dense industrial factory providing 377 and 808 (CAM) manufacturing jobs with high levels of air and water pollution. Its patented al fresco dye tanks are said to make the most vibrant coloured fabrics in Simnation and rumours of local airbourne staining are completely unfounded. The plant comes with a host of other facilities including a secure Pantsdowne bleach store, its own packing shed and a small research laboratory.
+    Noxious Nylon is completely machine washable and is one of the main suppliers to Simgoober's Flopper Stoppers Inc.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m3_4x4_GC_noxiousnylon_1075f9e7.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m7_4x4_GC_noxiousnylon_f63cce85.SC4Lot"
+        
+---
+group: gascooker
+name:  pantsdowne-peroxide-plant
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Pantsdowne Peroxide Plant Industrial Lot
+  description: |
+    The Pantsdowne Peroxide Plant is a 4x4 dense art deco industrial factory providing 381 and 773 (CAM) manufacturing jobs with high levels of air and water pollution.The plant has been producing solutions to all those itchy problems under the enlightened ownership of the Jaxie Family for three generations. From toilet cleaner to contact lens solution, Pantsdowne Peroxide makes them all, and it's very rare that the bottles get mixed up. Their old advertising slogan, "See Marilyn Monroe with her Pantsdowne", sold more hair lightening product to men than anyone ever expected.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m3_4x4_gc_peroxideplant_90418bc1.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m7_4x4_gc_peroxideplant_fb7f8cb8.SC4Lot"
+
+---
+group: gascooker
+name:  porkies-pies-factory
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Porkies Pies Factory Industrial Lot
+  description: |
+    The Porkies Pie Bakery is a 3x3 dense industrial factory providing 177 and 378 (CAM) manufacturing jobs and reasonable levels of pollution and water consumption. Made in the traditional way from only the finest MRM, it's the offal that we reject that make Porkies Pies the best. The state of the art production facility, built by the company founder back in 1837 has seen a lot of grease pass down its drains over the years and never once has a blockage been allowed to stop production.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol01
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m3_3x3_porkiespies_efa70cb3.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m6_3x3_porkiespies_f3930d65.SC4Lot"
+        
+---
+group: gascooker
+name:  great-universal-organ-factory
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary:  Great Universal Organ Factory Industrial Lot
+  description: |
+    The Great Universal Organ Factory is a 2x2 dense industrial workshop providing 50 and 140 (CAM) skilled manufacturing jobs with acceptable levels of pollution and water consumption. Great Universal Organs provide large bespoke organs to the Nobility and the Church, as well as host of smaller generalised mechanical panpipes to the public. Their best seller is the Jumbo, which has a deep rich sound that can stir the soul - it is said that a good performance by a priest on a jumbo organ swells the collection plate.
+  author: Gascooker (GC)
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - bsc:essentials
+  - bsc:mega-props-gascooker-vol02
+
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m3_2x2_organfactory_efa75827.SC4Lot"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: gascooker-industrial-set
+        include:
+        - "/I-m5_2x2_organfactory_601873ab.SC4Lot"
+        
+---
+group: gascooker
+name: gascooker-industrial-collection
+version: "2.0.0"
+subfolder: 400-industrial
+info:
+  summary: Industrial Collection Pack
+  description: A collection of 11 Industrial Lots by Gascooker (GC)
+  author: Tag One
+  website: https://www.sc4evermore.com/index.php/downloads/download/13-industrial/351-sc4d-lex-legacy-bsc-gascooker-industrial-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/kelvin01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/uni_organs01.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/nylon01.jpg
+
+dependencies:
+  - gascooker:breadline-bakery
+  - gascooker:crankys-shafts
+  - gascooker:flour-power-bakery
+  - gascooker:gasometers
+  - gascooker:jet-flush-sanitaryware
+  - gascooker:kelvin-de-klein-fridgarium
+  - gascooker:friesian-foods-meat-packing-plant
+  - gascooker:noxious-nylon
+  - gascooker:pantsdowne-peroxide-plant
+  - gascooker:porkies-pies-factory
+  - gascooker:great-universal-organ-factory
