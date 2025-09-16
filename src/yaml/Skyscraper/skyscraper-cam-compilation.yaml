@@ -1,0 +1,591 @@
+---
+assetId: skyscraper-commercial-set
+version: "1.0.0"
+lastModified: "2025-09-15T16:42:58-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=419:skyscraper-cam-compilation
+
+---
+group: skyscraper
+name: new-world-trade-center-7
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: New World Trade Center 7 Commercial Lot
+  description: |
+    Another skyscraper CAMification, this time a building from NY: New World Trade Center 7 The tower is 231 meters tall and has 49 floors. It is located in Lower Manhattan and was build in 2006. It is now a Stage 9 CO§§§.
+    
+    ***We will never forget 9/11, the victims and the heroes of this day***
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/7 World Trade Center/"
+
+---
+group: skyscraper
+name: 888-7th-avenue
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: 888 7th Avenue Commercial Lot
+  description: |
+    This is skyscraper's 888 7th Avenue. It is a 191 meter (46 floors) high recreation of a New York office and holds 2497 workers (CS§§ Stage 12 CAMeLot).
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/888 7th Avenue NY/"
+        
+---
+group: skyscraper
+name: the-bay-gate
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary:  The Bay Gate Commercial Lot
+  description: |
+    Another one in the series of skyscraper remodded buildings: The Bay Gate. The highrise is 85 meters tall and has 20 floors.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+assets:
+- assetId: skyscraper-commercial-set
+  include:
+  - "/Bay Gate/"   
+
+---
+group: skyscraper
+name: broad-financial-center
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary:  Broad Financial Center Commercial Lot
+  description: |
+    This is skyscraper's Broad Financial Center. It comes as a Stage 8 CO$$, so it doesn't require the CAM to grow. The highrise is 130 meters tall and was built in New York.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+assets:
+- assetId: skyscraper-commercial-set
+  include:
+  - "/Broad Financial Center/"   
+
+---
+group: skyscraper
+name: business-trade-center
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Business Trade Center Commercial Lot
+  description: |
+    This is skyscraper's Business Trade Center. It is 250 meters high and comes as a Stage 15 CS§§ on a 6x4 lot, offering approximately 7100 medium-wealth jobs.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Business Trade Center/"
+
+---
+group: skyscraper
+name: commerce-bank-complex
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary:  Commerce Bank Complex Commercial Lot
+  description: |
+    This is skyscraper's Commerce Bank Complex. It sits on a 13x4 lot and offers 3854 jobs, thus becoming a Stage 7 CAMpatible CO§§, and is 140 meters tall.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol01
+
+assets:
+- assetId: skyscraper-commercial-set
+  include:
+  - "/Commerce Bank Complex/"   
+
+---
+group: skyscraper
+name: concord-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Concord Tower Commercial Lot
+  description: |
+    This is skyscraper's Concord Tower. It is a 248 meter high tower that supplies 4095 CS-§§ jobs on a 4x4 lot, becoming a Stage 14 CAMeLot.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Concord Tower/"
+
+---
+group: skyscraper
+name: first-union-center
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: First Union Center Commercial Lot
+  description: |
+    This is skyscraper's First Union Center. It is 200 meter high fantasy building. It comes as a Stage 15 CS-§§§.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol03
+  - bsc:mega-props-sg-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/First Union Center/"
+
+---
+group: skyscraper
+name: global-office-center
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Global Office Center Commercial Lot
+  description: |
+    Here is new BAT: Global Office Center. The skyscraper is 251 meters tall and has 60 stories.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Global Office Center/"
+        
+---
+group: skyscraper
+name: jing-guang-center
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Jing Guang Center Commercial Lot
+  description: |
+    This is skyscraper's Jing Guang Center, a real building in Beijing. The tower is 208 meters high, and was the tallest tower in Beijing. It is now a Stage 13 CS§§§ CAMeLot
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Jing Guang Center/"
+        
+---
+group: skyscraper
+name: jp-stevens-company
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: JP Stevens Company Commercial Lot
+  description: |
+    This is skyscraper's JP Stevens Company Tower. It is 177 meters tall and has 40 floors. The tower is located in Midtown Manhattan and was build in 1971. It is now a CO-§§ Stage 12 CAMeLot.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/JP Stevens Company/"
+
+---
+group: skyscraper
+name: lake-shore-views
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Lake Shore Views Commercial Lot
+  description: |
+    This one is a residential skyscraper CAMification: Lake Shore Views. The tower is 210 meters tall. It comes as a Stage 9 R-§§§.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Lake Shore Views/"
+
+---
+group: skyscraper
+name: marble-tower-set
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Marble Tower Commercial & Residential Lots
+  description: |
+    This is skyscraper's Marble Tower. It comes in two versions, a CS$$$ (Stage 14 - xxx jobs) and a R$$$ (Stage 10 - 1341 residents) and is 229 meters tall.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Marble Tower#/"
+
+---
+group: skyscraper
+name: the-palm-building
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Palm Building Commercial Lot
+  description: |
+    This is skyscraper's Palm Building. It comes as a Stage 10 R§§ that grows in the Houston and Euro tilesets.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+  - bsc:mega-props-sg-vol01
+  - t-wrecks:maxis-prop-names-and-query-fix
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Palm Building/"
+        
+---
+group: skyscraper
+name: park-avenue-plaza
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Park Avenue Plaza Commercial Lot
+  description: |
+    Another wonderful BAT by skyscraper that has now been CAMified: Park Avenue Plaza Building
+    
+    The Tower is 175 meters tall and has 45 Floors. It is located in Midtown-Manhattan and was built in 1981.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Park Avenue/"
+
+---
+group: skyscraper
+name: the-exchange
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Exchange Commercial Lot
+  description: |
+    This is skyscraper's The Exchange. It is a Stage 10 5x3 CAMeLot offering 4932 CO-§§ jobs. The building is 240 meters high.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/The Exchange/"
+        
+---
+group: skyscraper
+name: tower-49
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Tower 49 Commercial Lot
+  description: |
+    This is skyscraper's Tower 49. It is a 187 meter high recreation of a New York office and holds 2041 workers (CO§§ Stage 10 CAMeLot).
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Tower 49 NY/"
+
+---
+group: skyscraper
+name: ubora-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Ubora Tower Commercial Lot
+  description: |
+    This is skyscraper's Ubora Tower. It comes as a Stage 11 CO§§, offering 4119 jobs and is 300 meters high.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/Ubora Tower/"
+
+---
+group: skyscraper
+name: west-nitron-center
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: West Nitron Center Commercial Lot
+  description: |
+    Another one for the skyscraper CAM series: West Nitron Center. It now comes as a Stage 11 CO-§§.
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - bsc:essentials
+  - skyscraper:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: skyscraper-commercial-set
+        include:
+        - "/West Nitron Center/"
+
+---
+group: skyscraper
+name:  skyscraper-commercial-collection    
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Commercial Collection Pack
+  description: A collection of 19 Commercial Lots by Skyscraper       
+  author: Skyscraper
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - skyscraper:new-world-trade-center-7
+  - skyscraper:888-7th-avenue
+  - skyscraper:the-bay-gate
+  - skyscraper:broad-financial-center
+  - skyscraper:business-trade-center
+  - skyscraper:commerce-bank-complex
+  - skyscraper:concord-tower
+  - skyscraper:first-union-center
+  - skyscraper:global-office-center
+  - skyscraper:jing-guang-center
+  - skyscraper:jp-stevens-company
+  - skyscraper:lake-shore-views
+  - skyscraper:marble-tower-set
+  - skyscraper:the-palm-building
+  - skyscraper:park-avenue-plaza
+  - skyscraper:the-exchange
+  - skyscraper:tower-49
+  - skyscraper:ubora-tower
+  - skyscraper:west-nitron-center
