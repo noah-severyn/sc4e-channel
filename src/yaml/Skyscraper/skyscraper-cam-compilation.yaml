@@ -1,13 +1,13 @@
 ---
 assetId: skyscraper-commercial-set
-version: "1.0.0"
-lastModified: "2025-09-15T16:42:58-07:00"
+version: "2.0.0"
+lastModified: "2025-09-16T14:53:01-07:00"
 url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=419:skyscraper-cam-compilation
 
 ---
 group: skyscraper
 name: new-world-trade-center-7
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: New World Trade Center 7 Commercial Lot
@@ -38,7 +38,7 @@ variants:
 ---
 group: skyscraper
 name: 888-7th-avenue
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: 888 7th Avenue Commercial Lot
@@ -67,7 +67,7 @@ variants:
 ---
 group: skyscraper
 name: the-bay-gate
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary:  The Bay Gate Commercial Lot
@@ -93,7 +93,7 @@ assets:
 ---
 group: skyscraper
 name: broad-financial-center
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary:  Broad Financial Center Commercial Lot
@@ -119,7 +119,7 @@ assets:
 ---
 group: skyscraper
 name: business-trade-center
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Business Trade Center Commercial Lot
@@ -148,7 +148,7 @@ variants:
 ---
 group: skyscraper
 name: commerce-bank-complex
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary:  Commerce Bank Complex Commercial Lot
@@ -174,7 +174,7 @@ assets:
 ---
 group: skyscraper
 name: concord-tower
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Concord Tower Commercial Lot
@@ -203,7 +203,7 @@ variants:
 ---
 group: skyscraper
 name: first-union-center
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: First Union Center Commercial Lot
@@ -233,7 +233,7 @@ variants:
 ---
 group: skyscraper
 name: global-office-center
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Global Office Center Commercial Lot
@@ -262,7 +262,7 @@ variants:
 ---
 group: skyscraper
 name: jing-guang-center
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Jing Guang Center Commercial Lot
@@ -291,7 +291,7 @@ variants:
 ---
 group: skyscraper
 name: jp-stevens-company
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: JP Stevens Company Commercial Lot
@@ -320,7 +320,7 @@ variants:
 ---
 group: skyscraper
 name: lake-shore-views
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Lake Shore Views Commercial Lot
@@ -349,7 +349,7 @@ variants:
 ---
 group: skyscraper
 name: marble-tower-set
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Marble Tower Commercial & Residential Lots
@@ -378,7 +378,7 @@ variants:
 ---
 group: skyscraper
 name: the-palm-building
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: The Palm Building Commercial Lot
@@ -409,7 +409,7 @@ variants:
 ---
 group: skyscraper
 name: park-avenue-plaza
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Park Avenue Plaza Commercial Lot
@@ -440,7 +440,7 @@ variants:
 ---
 group: skyscraper
 name: the-exchange
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: The Exchange Commercial Lot
@@ -469,7 +469,7 @@ variants:
 ---
 group: skyscraper
 name: tower-49
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Tower 49 Commercial Lot
@@ -498,7 +498,7 @@ variants:
 ---
 group: skyscraper
 name: ubora-tower
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Ubora Tower Commercial Lot
@@ -527,7 +527,7 @@ variants:
 ---
 group: skyscraper
 name: west-nitron-center
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: West Nitron Center Commercial Lot
@@ -556,7 +556,7 @@ variants:
 ---
 group: skyscraper
 name:  skyscraper-commercial-collection    
-version: "1.0.0"
+version: "2.0.0"
 subfolder: 300-commercial
 info:
   summary: Commercial Collection Pack

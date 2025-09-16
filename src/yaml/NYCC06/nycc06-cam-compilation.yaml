@@ -1,0 +1,518 @@
+---
+assetId: nycc06-commercial-set
+version: "1.0.0"
+lastModified: " 2025-09-16T14:46:45-07:00"
+url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=420:sc4d-lex-legacy-nycc06-cam-compilation
+
+---
+group: nycc06
+name: alexander-building
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Alexander Building Commercial Lot
+  description: |
+    The Alexander Building serves as Austin's HSBC headquarters
+    and stands on the edge of the new Marina District.
+    The tower was completed in 2002 and stands at 250 m.
+
+    It is a stage 11 CAMeLot sized 4×3, with 4,800 CO§§§ jobs.
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Alexander Building/"
+
+---
+group: nycc06
+name: amethyst-hotel-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Amethyst Hotel Tower Commercial Lot
+  description: |
+    The tower is 322 meters high and serves as a CS§§§ commercial building.
+    It is a stage 13 righthanded corner CAMeLot sized 6×5, with 3,170 CS§§§ jobs
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Amethyst Hotel Tower/"
+
+---
+group: nycc06
+name: austin-city-bank-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Austin City Bank Tower Commercial Lot
+  description: |
+    The Austin City Bank Tower is a fictitious building that is the headquarters for the Austin Banking Corporation.
+    The tower itself is one of 9 towers on the Austin Waterfront development and stands at 301m.
+
+    It is a stage 12 CAMeLot sized 4×4, with 7,500 CO§§§ jobs.
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol01
+  - bsc:textures-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Austin City Bank Tower/"
+
+---
+group: nycc06
+name: castle-reach-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Castle Reach Tower Commercial Lot
+  description: |
+    This new building is a 237 m high commercial tower built 2009 in the Austin Marina district.
+    Hope you all like this latest release and the first of many new projects for this summer.
+
+    In the game it will grow both as an office and as a hotel:
+    Castle Reach Tower, a stage 8 CAMpatible Lot sized 4×4, with 2,600 CO§§§ jobs
+    Castle Reach Hotel, a stage 10 CAMeLot sized 4×4, with 840 CS§§§ jobs
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }   
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/CO\\$\\$\\$8_4x4_Castle Reach Tower_3979deee.SC4Lot"    
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/CS\\$\\$\\$10_4x4_Castle Reach Hotel_3979e359.SC4Lot"
+        - "/CO\\$\\$\\$8_4x4_Castle Reach Tower_3979deee.SC4Lot"  
+        
+---
+group: nycc06
+name: eclipse-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Eclipse Tower Commercial Lot
+  description: |
+    The Eclipse Tower is a 325 m mixed use hotel and office tower.
+
+    The idea came from inspiration on the planned Ocean One tower due for construction in Thailand.
+
+    In the game it will grow both as an office and as a hotel:
+    Eclipse Tower, a stage 9 CAMeLot sized 6×2, with 3,050 CO§§§ jobs
+    Hotel Eclipse, a stage 12 CAMeLot sized 6×2, with 980 CS§§§ jobs
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol01
+  - bsc:textures-vol01
+  - bsc:texturepack-cycledogg-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Eclipse Tower/"
+
+---
+group: nycc06
+name: freedom-tower-new-world-trade-center-1
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Freedom Tower (New World Trade Center 1) Commercial Lot
+  description: |
+    One World Trade Center, aka the Freedom Tower is 541 m tall and occupies a lot size of 7×5 tiles. It provides 22,750 CO§§§ jobs.
+
+    ***We will never forget 9/11, the victims and the heroes of this day***
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol02
+  - bsc:textures-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Freedom Tower/"
+
+---
+group: nycc06
+name: goldman-sachs-nwhq
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Goldman Sachs NWHQ Commercial Lot
+  description: |
+    The Goldman Sachs New World HQ (NWTC6). The tower is currently under construction in lower Manhattan and will be due for opening later this year. The tower stands at 228.3 m.
+
+    In the game it will grow both as a medium-wealth and as a high-wealth office:
+    Goldman Sachs NWHQ, a stage 10 CAMeLot sized 5×3, with 5,850 CO§§ jobs
+    Goldman Sachs New World HQ, a stage 10 CAMeLot sized 5×3, with 4,450 CO§§§ jobs
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Goldman Sachs NWHQ/"
+
+---
+group: nycc06
+name: hammond-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Hammond Tower Commercial Lot
+  description: |
+    The tower is 242 meters high and serves as a CO§§§ commercial building.
+    It is a stage 11 CAMeLot sized 5×3, with 4,950 CO§§§ jobs.
+    
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Hammond Tower/"
+        
+---
+group: nycc06
+name: jackson-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Jackson Tower Commercial Lot
+  description: |
+    This project has been in production for about a week now and was based similarly on another Dubai tower around the Dubai Mall. 
+    This tower when completed in 2009 will be another addition to the new Marina development complex in the city of New Austin. 
+    The tower itself serves as a luxury 5-star hotel resort overlooking the marina and surrounding bay area.
+
+    It is a stage 10 CAMeLot sized 5×4, with 985 CS§§§ jobs.
+
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Jackson Tower/"
+
+---
+group: nycc06
+name: lincoln-heights-tower-set
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Lincoln Heights Tower Commercial & Residential Lot
+  description: |
+    The bat was inspired by the Girasole building, proposed for construction in New York City.
+
+    In the game it will grow both as an office and as residential towers (R§§§ and R§§):
+
+    Lincoln Heights Tower, a stage 12 CAMeLot sized 3×3, with 4,020 CO§§§ jobs
+    Lincoln Heights Condos, a stage 12 CAMeLot sized 3×3, with 2,600 R§§§ residents
+    Lincoln Heights Apartments, a stage 14 CAMeLot sized 3×3, with 5,755 R§§ residents
+
+    Note that all lots are corner lots, with roads required in front and on the left side of the entrance.
+
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Lincoln Heights Tower#/"
+
+---
+group: nycc06
+name: oceana-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Oceana Tower Commercial
+  description: |
+    This is the 330 m tall Oceana Tower.
+    The tower was completed in 2007 and serves as the world headquarters for the Oceana Air Travel company.
+
+    It is a stage 13 CAMeLot sized 3×3, with 5,350 CO§§§ jobs.
+
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Oceana Tower/"
+
+---
+group: nycc06
+name: pearl-coast-hotel-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Pearl Coast Hotel Tower Commercial Lot
+  description: |
+    The tower serves as a 5 star hotel in Austin City Central.
+    The tower is 47 stories high and stands at 155 meters high.
+
+    It is a stage 9 CAMeLot sized 4×4, with 600 CS§§§ jobs.
+
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol03
+  - bsc:textures-vol01
+  - bsc:textures-vol02
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Pearl Coast Hotel Tower/"
+
+---
+group: nycc06
+name: poseidon-tower-set
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Poseidon Tower Commercial & Residential Lot
+  description: |
+    In the game it will grow both as an office and as an apartment tower:
+    Poseidon Tower, a stage 13 CAMeLot sized 5×5, with 10,325 CO§§§ jobs
+    Poseidon Apartments, a stage 12 CAMeLot sized 5×5, with 6,520 R§§§ residents
+
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol03
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Poseidon Tower#/"
+
+---
+group: nycc06
+name: shilito-tower
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Shilito Tower Commercial Lot
+  description: |
+    The tower was completed in 1998 on the Shilito Avenue in the city as the centre piece
+    for the new redevelopment project of the city's commercial district. The tower stands at 249 m.
+
+    It is a stage 9 CAMeLot sized 4×4, with 3,900 CO§§§ jobs.
+
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/420-sc4d-lex-legacy-nycc06-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_NYCC06%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Freedom%20Tower%20Day.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/Poseidon%20Tower%20Night.JPG
+
+dependencies:
+  - bsc:essentials
+  - nycc06:models-pack-vol03
+  - bsc:textures-vol01
+
+variants:
+  - variant: { CAM: "no" }        
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: nycc06-commercial-set
+        include:
+        - "/Shilito Tower/"
+
+---
+group: nycc06
+name:  nycc06-commercial-collection    
+version: "2.0.0"
+subfolder: 300-commercial
+info:
+  summary: Commercial Collection Pack
+  description: A collection of 14 Commercial Lots by NYCC06      
+  author: NYCC06
+  websites: 
+    - https://www.sc4evermore.com/index.php/downloads/download/12-commercial/419-skyscraper-cam-compilation
+  images:
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/sidebar_Skyscraper%20LOT%20Compilation.png
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/7WTC_img1.jpg
+    - https://www.sc4evermore.com/images/jdownloads/screenshots/LakeShoreViews_img2.jpg
+
+dependencies:
+  - nycc06:alexander-building
+  - nycc06:amethyst-hotel-tower
+  - nycc06:austin-city-bank-tower
+  - nycc06:castle-reach-tower
+  - nycc06:eclipse-tower
+  - nycc06:freedom-tower-new-world-trade-center-1
+  - nycc06:goldman-sachs-nwhq
+  - nycc06:hammond-tower
+  - nycc06:jackson-tower
+  - nycc06:lincoln-heights-tower-set
+  - nycc06:oceana-tower
+  - nycc06:pearl-coast-hotel-tower
+  - nycc06:poseidon-tower-set
+  - nycc06:shilito-tower
