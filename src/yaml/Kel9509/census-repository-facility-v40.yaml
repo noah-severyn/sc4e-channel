@@ -6,142 +6,11 @@ url: https://www.sc4evermore.com/index.php/downloads?task=download.send&id=331:k
 
 ---
 group: kel9509
-name: census-repository-facility
-version: "4.0.0-1"
-subfolder: 640-government
-info:
-  summary: Census Repository Facility Traffic Management
-  description: |
-    Component of the Census Repository Facility that processes traffic data
-  author: Kel9509, BSC Team, CAM Team, NAM Team
-  websites: 
-    - https://www.sc4evermore.com/index.php/downloads/download/21-other/331-kel9509-census-repository-facility
-    - https://community.simtropolis.com/files/file/36245-census-repository-facility-v40/
-  images:
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/678337ce59b12_CensusRepositoryQueryExpanded.jpg.b1e911fae625b6f5f3ef163f93fae304.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/678337ceae9ce_CensusRepositoryQueryNormal.jpg.2f7790c40011d9b8ed661100165d8d4f.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a3f20f47_CensusRepositoryFacilityDay.jpg.586c3bbf285b51bb2211389ac4ee6537.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a412d27c_CensusRepositoryFacilityNight.jpg.d19c65b73a1576978deae3716c39fecc.jpg
-
-dependencies:
-  - bsc:essentials
-  - bsc:mega-props-misc-vol01
-  - memo:i-r-fix
-  - nam:traffic-simulator
-  - null-45:more-demand-info-dll
-  - kel9509:census-repository-facility-query
-
-variants:
-  - variant: { nam:traffic-simulator:capacity: "classic" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/RW_3x1_Census Repository Facility_Z_CLASSIC.SC4Lot"
-  - variant: { nam:traffic-simulator:capacity: "low" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/RW_3x1_Census Repository Facility_ZP_LOW.SC4Lot"
-  - variant: { nam:traffic-simulator:capacity: "medium" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/RW_3x1_Census Repository Facility_ZP_MEDIUM.SC4Lot"
-  - variant: { nam:traffic-simulator:capacity: "high" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/RW_3x1_Census Repository Facility_ZP_HIGH.SC4Lot"
-  - variant: { nam:traffic-simulator:capacity: "ultra" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/RW_3x1_Census Repository Facility_ZP_ULTRA.SC4Lot"
-        
----
-group: kel9509
-name: census-repository-facility-query
-version: "4.0.0-1"
-subfolder: 640-government
-info:
-  summary: Census Repository Facility Query
-  description: |
-    Component of the Census Repository Facility for Query support
-  author: Kel9509, BSC Team, CAM Team, NAM Team
-  websites: 
-    - https://www.sc4evermore.com/index.php/downloads/download/21-other/331-kel9509-census-repository-facility
-    - https://community.simtropolis.com/files/file/36245-census-repository-facility-v40/
-  images:
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/678337ce59b12_CensusRepositoryQueryExpanded.jpg.b1e911fae625b6f5f3ef163f93fae304.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/678337ceae9ce_CensusRepositoryQueryNormal.jpg.2f7790c40011d9b8ed661100165d8d4f.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a3f20f47_CensusRepositoryFacilityDay.jpg.586c3bbf285b51bb2211389ac4ee6537.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a412d27c_CensusRepositoryFacilityNight.jpg.d19c65b73a1576978deae3716c39fecc.jpg
-
-dependencies:
-  - bsc:essentials
-  - bsc:mega-props-misc-vol01
-  - memo:i-r-fix
-  - null-45:more-demand-info-dll
-
-variants:
-  - variant: { kel9509:census-repository-facility-query:size: "regular-size" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/Census_Repository_Query_and_Essentials_v4.0-Regular_Size.dat"
-  - variant: { kel9509:census-repository-facility-query:size: "expanded-size" }
-    assets:
-      - assetId: kel9509-census-repository-facility
-        include:
-        - "/Census_Repository_Query_and_Essentials_v4.0-Expanded_Size.dat"
-
-variantInfo:
-  - variantId: kel9509:census-repository-facility-query:size
-    description: Due to the particular nature of modding, there are two versions of the building resolution.
-    values:
-      - value: regular-size
-        description: Install the regular query without the City Budget Overview panel.
-      - value: expanded-size
-        description: Install the expanded query with the City Budget Overview panel
-
----
-group: kel9509
-name: census-repository-facility-vault
-version: "4.0.0-1"
-subfolder: 640-government
-info:
-  summary: Census Repository Facility Vault
-  description: |
-    The Census Repository Vault is available for all cities, but is meant for rural towns and other locations where you want to encourage agricultural growth. It is cheaper to plop and cheaper to run, and employs only 5 over working clerks.
-  author: Kel9509, BSC Team, CAM Team, NAM Team
-  websites: 
-    - https://www.sc4evermore.com/index.php/downloads/download/21-other/331-kel9509-census-repository-facility
-    - https://community.simtropolis.com/files/file/36245-census-repository-facility-v40/
-  images:
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/678337ce59b12_CensusRepositoryQueryExpanded.jpg.b1e911fae625b6f5f3ef163f93fae304.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/678337ceae9ce_CensusRepositoryQueryNormal.jpg.2f7790c40011d9b8ed661100165d8d4f.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a3f20f47_CensusRepositoryFacilityDay.jpg.586c3bbf285b51bb2211389ac4ee6537.jpg
-    - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a412d27c_CensusRepositoryFacilityNight.jpg.d19c65b73a1576978deae3716c39fecc.jpg
-
-dependencies:
-  - bsc:essentials
-  - bsc:mega-props-misc-vol01
-  - memo:i-r-fix
-  - null-45:more-demand-info-dll
-  - kel9509:census-repository-facility-query
-
-assets:
-- assetId: kel9509-census-repository-facility
-  include:
-  - "/RW_2x2_Census Repository Vault.SC4Lot"
-
----
-group: kel9509
 name: census-repository
-version: "4.0.0-1"
+version: "4.0.0-2"
 subfolder: 640-government
 info:
-  summary: Census Repository Facility 
+  summary: Census Repository Facility
   description: |
     The Census Repository's query provides detailed information about the city's residential, commercial and industrial supply, demand and CAPs. Additional information shown includes vacant houses, unemployment, commuters, taxes and educational quotient, all important factors when analysing a city's growth. By hovering above any piece of information in the query, you will get more explanations than given in this readme.
 
@@ -151,7 +20,7 @@ info:
 
     Also do note that the bureaucrats do not take any responsibility for people getting run over while lining up at the entrance, or for cars crashing into the entrance, which foul mouths claim is appearing out of nowhere. And if your name is Harry Potter, go knock the door of some other phone booth.
   author: Kel9509, BSC Team, CAM Team, NAM Team
-  websites: 
+  websites:
     - https://www.sc4evermore.com/index.php/downloads/download/21-other/331-kel9509-census-repository-facility
     - https://community.simtropolis.com/files/file/36245-census-repository-facility-v40/
   images:
@@ -161,7 +30,46 @@ info:
     - https://www.simtropolis.com/objects/screens/monthly_2025_01/67833a412d27c_CensusRepositoryFacilityNight.jpg.d19c65b73a1576978deae3716c39fecc.jpg
 
 dependencies:
-  - kel9509:census-repository-facility
-  - kel9509:census-repository-facility-query
-  - kel9509:census-repository-facility-vault
-  
+  - bsc:essentials
+  - bsc:mega-props-misc-vol03
+  - memo:i-r-fix
+  - nam:traffic-simulator
+  - null-45:more-demand-info-dll
+
+assets:
+  - assetId: kel9509-census-repository-facility
+    include:
+    - "/RW_2x2_Census Repository Vault.SC4Lot"
+    withConditions:
+        # ---capacity---
+      - ifVariant: { nam:traffic-simulator:capacity: "classic" }
+        include:
+          - "/RW_3x1_Census Repository Facility_Z_CLASSIC.SC4Lot"
+      - ifVariant: { nam:traffic-simulator:capacity: "low" }
+        include:
+          - "/RW_3x1_Census Repository Facility_ZP_LOW.SC4Lot"
+      - ifVariant: { nam:traffic-simulator:capacity: "medium" }
+        include:
+          - "/RW_3x1_Census Repository Facility_ZP_MEDIUM.SC4Lot"
+      - ifVariant: { nam:traffic-simulator:capacity: "high" }
+        include:
+          - "/RW_3x1_Census Repository Facility_ZP_HIGH.SC4Lot"
+      - ifVariant: { nam:traffic-simulator:capacity: "ultra" }
+        include:
+          - "/RW_3x1_Census Repository Facility_ZP_ULTRA.SC4Lot"
+        # ---size---
+      - ifVariant: { kel9509:census-repository:size: "regular" }
+        include:
+          - "/Census_Repository_Query_and_Essentials_v4.0-Regular_Size.dat"
+      - ifVariant: { kel9509:census-repository:size: "expanded" }
+        include:
+          - "/Census_Repository_Query_and_Essentials_v4.0-Expanded_Size.dat"
+
+variantInfo:
+  - variantId: kel9509:census-repository:size
+    description: Due to the particular nature of modding, there are two size options for the query window.
+    values:
+      - value: regular
+        description: Install the regular-size query without the City Budget Overview panel.
+      - value: expanded
+        description: Install the expanded-size query with the City Budget Overview panel
