@@ -1,0 +1,69 @@
+group: "orange"
+name: "pyrenean-terrain-mod"
+version: "1.0"
+subfolder: "170-terrain"
+info:
+  summary: "An HD terrain mod based on the Pyranees region of France"
+  warning: "Requires usage of hardware rendering in game. Using software rendering will cause CTDs."
+  conflicts: "Cannot be used with any other terrain mod"
+  description: |
+    A terrain mod based on the Pyranees region of France. There are seven versions distinguished by the presence of snow and/or beach.
+  author: "Orange_O"
+  images:
+    - "https://www.toutsimcities.com/img/downloads/image_1641.jpg"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/37-terrain-mods-and-tree-controllers/429-pyrenean-terrain-mod"
+dependencies:
+  - lowkee33:seasonal-flora-patch-maxis
+assets:
+- assetId: "orange-pyrenean-terrain-mod"
+  include:
+    - /TSC_Or_TextureTM01.dat
+    - /TSC_Or_TextureTM02.dat
+    - /TSC_Or_TextureTM03.dat
+  withConditions:
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "full" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainModFullSnow.dat
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "high" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainHightSnow.dat
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "high-with-beach" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainHightSnowBeach.dat
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "average" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainAverageSnow.dat
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "average-with-beach" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainAverageSnowBeach.dat
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "low" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainLowSnow.dat
+    - ifVariant: { orange:pyrenean-terrain-mod:snow-height: "low-with-beach" }
+      include:
+        - /zzz_TSC_Orange_PyreneanTerrainLowSnowBeach.dat
+variantInfo:
+- variantId: "orange:pyrenean-terrain-mod:snow-height"
+  description: Choose terrain versions distinguished by the presence of snow and/or beach
+  values:
+    - value: "full"
+      description: Characterized by the presence of permanent snow at all terrain levels.
+    - value: "high"
+      description: Characterized by the presence of snow at 650m above sea level (900m height) and a small beach.
+    - value: "high-with-beach"
+      description: Characterized by the presence of snow at 650m above sea level (900m height) and a great beach. Caution on maps whose max height does not exceed 30m above sea level (280m height) - the beach texture will cover the whole map.
+    - value: "average"
+      description: Characterized by the presence of snow at 700m above sea level (450m height) and a small beach.
+      default: true
+    - value: "average-with-beach"
+      description: Characterized by the presence of snow at 700m above sea level (450m height) and a great beach. Caution on maps whose max height does not exceed 30m above sea level (280m height) - the beach texture will cover the whole map.
+    - value: "low"
+      description: Characterized by the presence of snow at 250m above sea level (500m height) and a small beach.
+    - value: "low-with-beach"
+      description: Characterized by the presence of snow at 250m above sea level (500m height) and a great beach. Caution on maps whose max height does not exceed 30m above sea level (280m height) - the beach texture will cover the whole map.
+
+---
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=429:pyrenean-terrain-mod"
+assetId: "orange-pyrenean-terrain-mod"
+version: "1.0"
+lastModified: "2026-03-03T16:46:02-08:00"
