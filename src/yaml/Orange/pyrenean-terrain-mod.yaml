@@ -12,8 +12,6 @@ info:
   images:
     - "https://www.toutsimcities.com/img/downloads/image_1641.jpg"
   website: "https://www.sc4evermore.com/index.php/downloads/download/37-terrain-mods-and-tree-controllers/429-pyrenean-terrain-mod"
-dependencies:
-  - lowkee33:seasonal-flora-patch-maxis
 assets:
 - assetId: "orange-pyrenean-terrain-mod"
   include:
