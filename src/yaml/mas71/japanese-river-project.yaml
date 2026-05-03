@@ -93,6 +93,16 @@ dependencies:
   - mas71:mega-props-vol02
   - bsc:mega-props-sg-vol01
   - bsc:textures-vol01
+# Need an ordinary variants block because different dependencies is not supported in the `withConditions` syntax.
+variants:
+  - variant: { mas71:suburban-canal-set:tree-type: maxis }
+  - variant: { mas71:suburban-canal-set:tree-type: porkissimo }
+    dependencies:
+      - porkissimo:jenx-porkie-expanded-porkie-props
+  - variant: { mas71:suburban-canal-set:tree-type: simfox }
+    dependencies:
+      - simfox:treepack-vol02
+  - variant: { mas71:suburban-canal-set:tree-type: cherry }
 assets:
   - assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
     include:
@@ -115,38 +125,26 @@ assets:
         include:
           - "/@5!Lot Set - PORKISSIMO tree/"
           - "/=White/"
-        dependencies:
-          - porkissimo:jenx-porkie-expanded-porkie-props
       - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:suburban-canal-set:fence-color: black }
         include:
           - "/@5!Lot Set - PORKISSIMO tree/"
           - "/-Black/"
-        dependencies:
-          - porkissimo:jenx-porkie-expanded-porkie-props
       - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:suburban-canal-set:fence-color: green }
         include:
           - "/@5!Lot Set - PORKISSIMO tree/"
           - "/-Green/"
-        dependencies:
-          - porkissimo:jenx-porkie-expanded-porkie-props
       - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:suburban-canal-set:fence-color: white }
         include:
           - "/@6!Lot Set - SIMFOX tree/"
           - "/=White/"
-        dependencies:
-          - simfox:treepack-vol02
       - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:suburban-canal-set:fence-color: black }
         include:
           - "/@6!Lot Set - SIMFOX tree/"
           - "/-Black/"
-        dependencies:
-          - simfox:treepack-vol02
       - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:suburban-canal-set:fence-color: green }
         include:
           - "/@6!Lot Set - SIMFOX tree/"
           - "/-Green/"
-        dependencies:
-          - simfox:treepack-vol02
       - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:suburban-canal-set:fence-color: white }
         include:
           - "/@7!Lot Set - CHERRY tree/"
