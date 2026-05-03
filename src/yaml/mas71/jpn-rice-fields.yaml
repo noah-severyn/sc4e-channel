@@ -121,6 +121,25 @@ assets:
   - ifVariant: { mas71:jpn-rice-fields:texture-type: "bsc", mas71:jpn-rice-fields:menu-type: "none" }
     include:
     - /MAS71 JPN Rice Fields Lots by BSC.dat
+variantInfo:
+- variantKey: "mas71:jpn-rice-fields:texture-type"
+  description: "Choose texture type used to assist when initially placing fields"
+  values:
+  - value: "original"
+    description: "Use original textures"
+    default: true
+  - value: "bsc"
+    description: "Use BSC path textures"
+- variantKey: "mas71:jpn-rice-fields:menu-type"
+  description: "Choose how these lots show in your menu"
+  values:
+  - value: "submenu"
+    description: "Select if you use the Submenus DLL."
+    default: true
+  - value: "mml"
+    description: "Select if you do not use the Submenus DLL and prefer the lots nested inside a Menu Management Lot."
+  - value: "none"
+    description: "Select to place all the lots straight in the Parks menu."
 
 ---
 assetId: "mas71-jpn-rice-fields"

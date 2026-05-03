@@ -159,6 +159,29 @@ assets:
         include:
           - "/@7!Lot Set - CHERRY tree/"
           - "/-Green/"
+variantInfo:
+- variantKey: "mas71:suburban-canal-set:tree-type"
+  description: "Choose a tree type for these lots"
+  values:
+  - value: "maxis"
+    description: "Maxis default trees"
+  - value: "porkissimo"
+    description: "Seasonal trees from Porkie's prop pack."
+  - value: "simfox"
+    description: "Nonseasonal trees from Simfox's tree pack."
+  - value: "cherry"
+    description: "Seasonal Sakura cherry trees"
+    default: true
+- variantKey: "mas71:suburban-canal-set:fence-color"
+  description: "Choose a fence color"
+  values:
+  - value: "white"
+    description: "White fences"
+    default: true
+  - value: "black"
+    description: "Black fences"
+  - value: "green"
+    description: "Green fences"
 
 ---
 group: "mas71"

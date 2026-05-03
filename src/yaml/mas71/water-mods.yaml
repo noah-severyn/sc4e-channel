@@ -41,3 +41,18 @@ variants:
   - assetId: "mas71-water-mods"
     include:
     - "Mas71_Waters_500.dat"
+variantInfo:
+- variantKey: "mas71:water-mods:type"
+  description: "Customize the water appearance"
+  values:
+  - value: "100"
+    description: "Option 1 (see package screenshot)"
+    default: true
+  - value: "200"
+    description: "Option 2 (see package screenshot)"
+  - value: "300"
+    description: "Option 3 (see package screenshot)"
+  - value: "400"
+    description: "Option 4 (see package screenshot)"
+  - value: "500"
+    description: "Option 5 (see package screenshot)"
