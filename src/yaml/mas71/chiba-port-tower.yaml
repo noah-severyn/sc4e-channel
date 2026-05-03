@@ -1,7 +1,7 @@
 group: "mas71"
 name: "chiba-port-tower"
 version: "1"
-subfolder: "300-landmarks"
+subfolder: "360-landmark"
 info:
   summary: "Chiba Port Tower"
   author: "Mas'71"
