@@ -1,5 +1,5 @@
 group: "mas71"
-name: "jpn-diagonal-seasonal-parks"
+name: "diagonal-seasonal-parks"
 version: "1"
 subfolder: "660-parks"
 dependencies:
@@ -63,8 +63,7 @@ info:
   images:
   - https://www.sc4evermore.com/images/jdownloads/screenshots/JPN_Diagonal_Parks_01.jpg
   - https://www.sc4evermore.com/images/jdownloads/screenshots/JPN_Diagonal_Parks_02.jpg
-  website:
-  - https://www.sc4evermore.com/index.php/downloads/download/14-park/437-jpn-diagonal-seasonal-parks
+  website: https://www.sc4evermore.com/index.php/downloads/download/14-park/437-jpn-diagonal-seasonal-parks
 dependencies:
 - mas71:mega-props-vol01
 - peg:mtp-seasonal-woods

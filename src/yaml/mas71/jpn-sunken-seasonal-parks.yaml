@@ -1,5 +1,5 @@
 group: "mas71"
-name: "jpn-sunken-seasonal-parks"
+name: "sunken-seasonal-parks"
 version: "1"
 subfolder: "660-parks"
 dependencies:
@@ -36,7 +36,7 @@ info:
     Demand Satisfied : $-9000, $$-9000, $$$-9000  
     Landmark Effect : 50/10R  
     Park Effect : 20/60R  
-    Air Polution : -14/8R
+    Air Pollution : -14/8R
 
     and
 
@@ -89,8 +89,7 @@ info:
   - "https://www.sc4evermore.com/images/jdownloads/screenshots/JSP_Spring.jpg"
   - "https://www.sc4evermore.com/images/jdownloads/screenshots/JSP_Winter.jpg"
   - "https://www.sc4evermore.com/images/jdownloads/screenshots/Sakura.jpg"
-  website:
-  - "[\"https://www.sc4evermore.com/index.php/downloads/download/14-park/439-jpn-sunken-seasonal-parks\"]"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/14-park/439-jpn-sunken-seasonal-parks"
 assets:
 - assetId: "mas71-jpn-sunken-seasonal-parks"
 

@@ -38,8 +38,7 @@ info:
   images:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/jrp_013.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/jrp_alp2_11.jpg
-  website:
-    - https://www.sc4evermore.com/index.php/downloads/download/14-park/152-sc4d-lex-legacy-mas71-japanese-river-project-jrp
+  website: https://www.sc4evermore.com/index.php/downloads/download/14-park/152-sc4d-lex-legacy-mas71-japanese-river-project-jrp
 dependencies:
   - mas71:mega-props-vol02
   - bsc:mega-props-sg-vol01
@@ -47,8 +46,8 @@ dependencies:
 assets:
   - assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
     exclude:
-      - "/@4Suburban Canal/"
-      - "/@1^Props Pack#/"
+      - /@4Suburban Canal/
+      - /@1\^Props Pack#/
 
 ---
 group: mas71
@@ -88,8 +87,7 @@ info:
     And last but not least, a thanks for the Maxis individuals too, for the [paid] work that they did. ;-)
   images:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/Suburban%20Canal%20Addon1_01.jpg
-  website:
-    - https://www.sc4evermore.com/index.php/downloads/download/14-park/152-sc4d-lex-legacy-mas71-japanese-river-project-jrp
+  website: https://www.sc4evermore.com/index.php/downloads/download/14-park/152-sc4d-lex-legacy-mas71-japanese-river-project-jrp
 dependencies:
   - mas71:mega-props-vol01
   - mas71:mega-props-vol02
@@ -98,8 +96,8 @@ dependencies:
 assets:
   - assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
     exclude:
-      - "/@4Suburban Canal/"
-      - "/@1^Props Pack#/"
+      - /@4Suburban Canal/
+      - /@1\^Props Pack#/
 
 ---
 group: "mas71"
@@ -113,8 +111,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/jrp_013.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/jrp_alp2_11.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/Suburban%20Canal%20Addon1_01.jpg
-  website:
-    - https://www.sc4evermore.com/index.php/downloads/download/14-park/152-sc4d-lex-legacy-mas71-japanese-river-project-jrp
+  website: https://www.sc4evermore.com/index.php/downloads/download/14-park/152-sc4d-lex-legacy-mas71-japanese-river-project-jrp
 assets:
   - assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
     include:

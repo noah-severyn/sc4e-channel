@@ -1,5 +1,5 @@
 group: "mas71"
-name: "jpn-rice-fields"
+name: "rice-fields"
 version: "1"
 subfolder: "660-parks"
 dependencies:
@@ -93,8 +93,7 @@ info:
   images:
   - "https://www.sc4evermore.com/images/jdownloads/screenshots/mas71_JPN-RiceFields_SC4D.jpg"
   - "https://www.sc4evermore.com/images/jdownloads/screenshots/mas71_JPN-RiceFields_02_SC4D.jpg"
-  website:
-  - "https://www.sc4evermore.com/index.php/downloads/download/43-agriculture/438-jpn-rice-fields"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/43-agriculture/438-jpn-rice-fields"
 assets:
 - assetId: "mas71-jpn-rice-fields"
   include:

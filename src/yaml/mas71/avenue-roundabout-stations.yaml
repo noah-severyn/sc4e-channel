@@ -49,8 +49,7 @@ info:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/thumbnails/mas71_Ave-Roundabout_SUBandBUS_Station_01.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/thumbnails/mas71_Ave-Roundabout_SUBandBUS_Station_02.jpg
     - https://www.sc4evermore.com/images/jdownloads/screenshots/thumbnails/mas71_Ave-Roundabout_SubwayStation_01.jpg
-  website:
-    - https://www.sc4evermore.com/index.php/downloads/download/19-transportation/435-avenue-roundabout-subway-and-bus-stations
+  website: https://www.sc4evermore.com/index.php/downloads/download/19-transportation/435-avenue-roundabout-subway-and-bus-stations
 dependencies:
   - mas71:mega-props-vol01
 variants:
@@ -58,12 +57,12 @@ variants:
     assets:
       - assetId: "mas71-avenue-roundabout-subway-and-bus-stations"
         include:
-          - /Left Hand Version (JPN)/
+          - /Left Hand Version \(JPN\)/
   - variant: { driveside: right }
     assets:
       - assetId: "mas71-avenue-roundabout-subway-and-bus-stations"
         include:
-          - /Right Hand Version (International)/
+          - /Right Hand Version \(International\)/
 
 ---
 assetId: "mas71-avenue-roundabout-subway-and-bus-stations"

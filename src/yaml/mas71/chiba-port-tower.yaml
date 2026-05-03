@@ -35,8 +35,7 @@ info:
     - Mas'71 from Japan.
   images:
     - https://www.sc4evermore.com/images/jdownloads/screenshots/PortTpwer_mas71_v200_2.jpg
-  website:
-    - https://www.sc4evermore.com/index.php/downloads/download/20-ploppable/436-chiba-port-tower
+  website: https://www.sc4evermore.com/index.php/downloads/download/20-ploppable/436-chiba-port-tower
 dependencies:
   - bsc:textures-vol01
   - bsc:mega-props-sg-vol01

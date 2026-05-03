@@ -9,9 +9,8 @@ name: "water-mods"
 version: "1"
 subfolder: "170-terrain"
 info:
-  summary: "Brings a  change a design of water for your city"
-  website:
-  - "https://www.sc4evermore.com/index.php/downloads/download/37-terrain-mods-and-tree-controllers/442-mas71-water-mods"
+  summary: "Brings a change of design for water in your city"
+  website: "https://www.sc4evermore.com/index.php/downloads/download/37-terrain-mods-and-tree-controllers/442-mas71-water-mods"
   author: "Mas'71"
   images:
   - "https://www.sc4evermore.com/images/jdownloads/screenshots/thumbnails/Mas71%20Water%20MODs.jpg"
