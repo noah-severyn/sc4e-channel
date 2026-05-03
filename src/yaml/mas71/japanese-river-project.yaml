@@ -160,7 +160,7 @@ assets:
           - "/@7!Lot Set - CHERRY tree/"
           - "/-Green/"
 variantInfo:
-- variantKey: "mas71:suburban-canal-set:tree-type"
+- variantId: "mas71:suburban-canal-set:tree-type"
   description: "Choose a tree type for these lots"
   values:
   - value: "maxis"
@@ -172,7 +172,7 @@ variantInfo:
   - value: "cherry"
     description: "Seasonal Sakura cherry trees"
     default: true
-- variantKey: "mas71:suburban-canal-set:fence-color"
+- variantId: "mas71:suburban-canal-set:fence-color"
   description: "Choose a fence color"
   values:
   - value: "white"
@@ -205,4 +205,4 @@ assets:
 assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
 version: "2"
 lastModified: "2024-08-10T07:44:55-07:00"
-url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=152:sc4d-lex-legacy-mas71-japanese-river-project-jrp&catid=14"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=152:sc4d-lex-legacy-mas71-japanese-river-project-jrp"

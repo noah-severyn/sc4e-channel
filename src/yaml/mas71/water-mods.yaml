@@ -42,7 +42,7 @@ variants:
     include:
     - "Mas71_Waters_500.dat"
 variantInfo:
-- variantKey: "mas71:water-mods:type"
+- variantId: "mas71:water-mods:type"
   description: "Customize the water appearance"
   values:
   - value: "100"

@@ -122,7 +122,7 @@ assets:
     include:
     - /MAS71 JPN Rice Fields Lots by BSC.dat
 variantInfo:
-- variantKey: "mas71:jpn-rice-fields:texture-type"
+- variantId: "mas71:jpn-rice-fields:texture-type"
   description: "Choose texture type used to assist when initially placing fields"
   values:
   - value: "original"
@@ -130,7 +130,7 @@ variantInfo:
     default: true
   - value: "bsc"
     description: "Use BSC path textures"
-- variantKey: "mas71:jpn-rice-fields:menu-type"
+- variantId: "mas71:jpn-rice-fields:menu-type"
   description: "Choose how these lots show in your menu"
   values:
   - value: "submenu"
