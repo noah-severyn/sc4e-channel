@@ -95,9 +95,70 @@ dependencies:
   - bsc:textures-vol01
 assets:
   - assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
-    exclude:
-      - /@4Suburban Canal/
-      - /@1\^Props Pack#/
+    include:
+      - "/03_JRPSC prop_Option Gurdrail 01.dat"
+      - /@101_Essential \(canal props\)/
+    withConditions:
+      - ifVariant: { mas71:suburban-canal-set:tree-type: maxis, mas71:suburban-canal-set:fence-color: white }
+        include:
+          - "/@4Lot Set - MAXIS tree/"
+          - "/=White/"
+      - ifVariant: { mas71:suburban-canal-set:tree-type: maxis, mas71:suburban-canal-set:fence-color: black }
+        include:
+          - "/@4Lot Set - MAXIS tree/"
+          - "/-Black/"
+      - ifVariant: { mas71:suburban-canal-set:tree-type: maxis, mas71:suburban-canal-set:fence-color: green }
+        include:
+          - "/@4Lot Set - MAXIS tree/"
+          - "/-Green/"
+      - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:suburban-canal-set:fence-color: white }
+        include:
+          - "/@5!Lot Set - PORKISSIMO tree/"
+          - "/=White/"
+        dependencies:
+          - porkissimo:jenx-porkie-expanded-porkie-props
+      - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:suburban-canal-set:fence-color: black }
+        include:
+          - "/@5!Lot Set - PORKISSIMO tree/"
+          - "/-Black/"
+        dependencies:
+          - porkissimo:jenx-porkie-expanded-porkie-props
+      - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:suburban-canal-set:fence-color: green }
+        include:
+          - "/@5!Lot Set - PORKISSIMO tree/"
+          - "/-Green/"
+        dependencies:
+          - porkissimo:jenx-porkie-expanded-porkie-props
+      - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:suburban-canal-set:fence-color: white }
+        include:
+          - "/@6!Lot Set - SIMFOX tree/"
+          - "/=White/"
+        dependencies:
+          - simfox:treepack-vol02
+      - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:suburban-canal-set:fence-color: black }
+        include:
+          - "/@6!Lot Set - SIMFOX tree/"
+          - "/-Black/"
+        dependencies:
+          - simfox:treepack-vol02
+      - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:suburban-canal-set:fence-color: green }
+        include:
+          - "/@6!Lot Set - SIMFOX tree/"
+          - "/-Green/"
+        dependencies:
+          - simfox:treepack-vol02
+      - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:suburban-canal-set:fence-color: white }
+        include:
+          - "/@7!Lot Set - CHERRY tree/"
+          - "/=White/"
+      - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:suburban-canal-set:fence-color: black }
+        include:
+          - "/@7!Lot Set - CHERRY tree/"
+          - "/-Black/"
+      - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:suburban-canal-set:fence-color: green }
+        include:
+          - "/@7!Lot Set - CHERRY tree/"
+          - "/-Green/"
 
 ---
 group: "mas71"
@@ -115,68 +176,7 @@ info:
 assets:
   - assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
     include:
-      - "/03_JRPSC prop_Option Gurdrail 01.dat"
-    withConditions:
-      - ifVariant: { mas71:suburban-canal-set:tree-type: maxis, mas71:japanese-river-project:fence-color: white }
-        include:
-          - "/@4Lot Set - MAXIS tree/"
-          - "/=White/"
-      - ifVariant: { mas71:suburban-canal-set:tree-type: maxis, mas71:japanese-river-project:fence-color: black }
-        include:
-          - "/@4Lot Set - MAXIS tree/"
-          - "/-Black/"
-      - ifVariant: { mas71:suburban-canal-set:tree-type: maxis, mas71:japanese-river-project:fence-color: green }
-        include:
-          - "/@4Lot Set - MAXIS tree/"
-          - "/-Green/"
-      - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:japanese-river-project:fence-color: white }
-        include:
-          - "/@5!Lot Set - PORKISSIMO tree/"
-          - "/=White/"
-        dependencies:
-          - porkissimo:jenx-porkie-expanded-porkie-props
-      - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:japanese-river-project:fence-color: black }
-        include:
-          - "/@5!Lot Set - PORKISSIMO tree/"
-          - "/-Black/"
-        dependencies:
-          - porkissimo:jenx-porkie-expanded-porkie-props
-      - ifVariant: { mas71:suburban-canal-set:tree-type: porkissimo, mas71:japanese-river-project:fence-color: green }
-        include:
-          - "/@5!Lot Set - PORKISSIMO tree/"
-          - "/-Green/"
-        dependencies:
-          - porkissimo:jenx-porkie-expanded-porkie-props
-      - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:japanese-river-project:fence-color: white }
-        include:
-          - "/@6!Lot Set - SIMFOX tree/"
-          - "/=White/"
-        dependencies:
-          - simfox:treepack-vol02
-      - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:japanese-river-project:fence-color: black }
-        include:
-          - "/@6!Lot Set - SIMFOX tree/"
-          - "/-Black/"
-        dependencies:
-          - simfox:treepack-vol02
-      - ifVariant: { mas71:suburban-canal-set:tree-type: simfox, mas71:japanese-river-project:fence-color: green }
-        include:
-          - "/@6!Lot Set - SIMFOX tree/"
-          - "/-Green/"
-        dependencies:
-          - simfox:treepack-vol02
-      - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:japanese-river-project:fence-color: white }
-        include:
-          - "/@7!Lot Set - CHERRY tree/"
-          - "/=White/"
-      - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:japanese-river-project:fence-color: black }
-        include:
-          - "/@7!Lot Set - CHERRY tree/"
-          - "/-Black/"
-      - ifVariant: { mas71:suburban-canal-set:tree-type: cherry, mas71:japanese-river-project:fence-color: green }
-        include:
-          - "/@7!Lot Set - CHERRY tree/"
-          - "/-Green/"
+      - /@1\^Props Pack#/
 
 ---
 assetId: "sc4d-lex-legacy-mas71-japanese-river-project-jrp"
