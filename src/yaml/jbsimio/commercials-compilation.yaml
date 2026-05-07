@@ -48,7 +48,6 @@ assets:
    - "/Brooks Building#/"
 
 ---
----
 group: "jbsimio"
 name: bruder-building-commercial
 version: "1.0.0"
@@ -66,20 +65,20 @@ info:
 
     # Lot Details & Information
 
-    |     | CO$$ Version | R$$ Version |
-    | --- | --- | --- |
-    | Lot size: | 3 x 3 tiles (corner) | 3 x 3 tiles (corner) |
-    | Growth stage: | 7   | 7   |
-    | Occupants: | CO-$$ : 1492 | R-$ : 2701, R-$$ : 1492 |
-    | Bulldoze cost: | § 823 | § 823 |
-    | Worth: | § 10429 | § 38975 |
-    | Construction Time: | 82 days | 82 days |
-    | Max. Fire Stage: | 40  | 40  |
-    | Power consumption: | 30 MWh/month | 21 MWh/month |
-    | Water consumption: | 308 Gallons/month | 56 Gallons/month |
-    | Air pollution: | 5 over 5 tiles | 12 over 5 tiles |
-    | Water pollution: | 5 over 6 tiles | 6 over 6 tiles |
-    | Garbage pollution: | 4 over 0 tiles | 6 over 0 tiles |
+    |     | CO$$ Version |
+    | --- | --- |
+    | Lot size: | 3 x 3 tiles (corner) |
+    | Growth stage: | 7   |
+    | Occupants: | CO-$$ : 1492 |
+    | Bulldoze cost: | § 823 |
+    | Worth: | § 10429 |
+    | Construction Time: | 82 days |
+    | Max. Fire Stage: | 40  |
+    | Power consumption: | 30 MWh/month |
+    | Water consumption: | 308 Gallons/month |
+    | Air pollution: | 5 over 5 tiles |
+    | Water pollution: | 5 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
 
     Building style(s): Building: Commercial ,Building: CO$$, Style: Chicago, Style: New York, BTE : Comm. or Res. W2W, BTE : Res. Medium Wealth, BTE : JBSimio Creation, BTE : SHUR Project
   author: JBSimio
@@ -112,20 +111,20 @@ info:
 
     # Lot Details & Information
 
-    |     | CO$$$ Version | R$$ Version |
-    | --- | --- | --- |
-    | Lot size: | 3 x 3 tiles | 3 x 3 tiles |
-    | Growth stage: | 7   | 8   |
-    | Occupants: | CO-$$ : 1257, CO-$$$ : 880 | R-$ : 2276, R-$$ : 1257 |
-    | Bulldoze cost: | § 1086 | § 1052 |
-    | Worth: | § 9829 | § 32842 |
-    | Construction Time: | 108 days | 105 days |
-    | Max. Fire Stage: | 35  | 40  |
-    | Power consumption: | 36 MWh/month | 18 MWh/month |
-    | Water consumption: | 392 Gallons/month | 47 Gallons/month |
-    | Air pollution: | 5 over 6 tiles | 10 over 5 tiles |
-    | Water pollution: | 5 over 7 tiles | 5 over 6 tiles |
-    | Garbage pollution: | 4 over 0 tiles | 5 over 0 tiles |
+    |     | CO$$$ Version |
+    | --- | --- |
+    | Lot size: | 3 x 3 tiles |
+    | Growth stage: | 7   |
+    | Occupants: | CO-$$ : 1257, CO-$$$ : 880 |
+    | Bulldoze cost: | § 1086 |
+    | Worth: | § 9829 |
+    | Construction Time: | 108 days |
+    | Max. Fire Stage: | 35  |
+    | Power consumption: | 36 MWh/month |
+    | Water consumption: | 392 Gallons/month |
+    | Air pollution: | 5 over 6 tiles |
+    | Water pollution: | 5 over 7 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
 
     Building style(s): Building: Commercial, Building: CO$$$ or R$$ ,Style: Chicago ,Style: New York, BTE : Comm. W2W or Res Medium Income, BTE : JBSimio Creation, BTE : SHUR Project
   author: JBSimio
@@ -300,20 +299,20 @@ info:
 
     # Lot Details & Information
 
-    |     | CS$ Version | CO$$ Versions | R$ Version | R$$ Version |
-    | --- | --- | --- | --- | --- |
-    | Lot size: | 3 x 3 tiles | 3 x 3 tiles, 4 x 4 tiles | 3 x 3 tiles | 4 x 4 tiles |
-    | Growth stage: | 12 (CAM) | 6 or 7 | 8   | 7   |
-    | Occupants: | CS-$ : 2804 | CO-$$ : 1248 | R-$ : 2258 | R-$ : 2258, R-$$ : 1248 |
-    | Bulldoze cost: | § 670 | § 691 | § 670 | § 691 |
-    | Worth: | § 21478 | § 8723 | § 30686 | § 32582 |
-    | Construction Time: | 67 days | 69 days | 67 days | 69 days |
-    | Max. Fire Stage: | 45  | 40  | 45  | 40  |
-    | Power consumption: | 57 MWh/month | 25 MWh/month | 10 MWh/month | 17 MWh/month |
-    | Water consumption: | 562 Gallons/month | 259 Gallons/month | 23 Gallons/month | 47 Gallons/month |
-    | Air pollution: | 28 over 5 tiles | 4 over 5 tiles | 11 over 5 tiles | 10 over 5 tiles |
-    | Water pollution: | 14 over 5 tiles | 4 over 6 tiles | 4 over 5 tiles | 5 over 6 tiles |
-    | Garbage pollution: | 84 over 0 tiles | 4 over 0 tiles | 6 over 0 tiles | 5 over 0 tiles |
+    |     | CS$ Version | CO$$ Versions |
+    | --- | --- | --- |
+    | Lot size: | 3 x 3 tiles | 3 x 3 tiles, 4 x 4 tiles |
+    | Growth stage: | 12 (CAM) | 6 or 7 |
+    | Occupants: | CS-$ : 2804 | CO-$$ : 1248 |
+    | Bulldoze cost: | § 670 | § 691 |
+    | Worth: | § 21478 | § 8723 |
+    | Construction Time: | 67 days | 69 days |
+    | Max. Fire Stage: | 45  | 40  |
+    | Power consumption: | 57 MWh/month | 25 MWh/month |
+    | Water consumption: | 562 Gallons/month | 259 Gallons/month |
+    | Air pollution: | 28 over 5 tiles | 4 over 5 tiles |
+    | Water pollution: | 14 over 5 tiles | 4 over 6 tiles |
+    | Garbage pollution: | 84 over 0 tiles | 4 over 0 tiles |
     
     Building style(s): Building: Commercial, Building: CS$ or CO$$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE : SHUR Project | Building: Residential, Building: CS$ or CO$$$, Style: Chicago, Style: New York, BTE : Res Low or Medium Wealth, BTE : JBSimio Creation, BTE : SHUR Project
   website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
@@ -351,20 +350,20 @@ info:
 
     # Lot Details & Information
 
-    |     | CO$$ Grow/Plop Version | R$$ Version |
-    | --- | --- | --- |
-    | Lot size: | 2 x 2 tiles | 2 x 2 tiles |
-    | Growth stage: | 7   | 7   |
-    | Occupants: | CO-$$ : 458 | R-$ : 827, R-$$ : 458 |
-    | Bulldoze cost: | § 516 | § 516 |
-    | Worth: | § 3201 | § 11933 |
-    | Construction Time: | 51 days | 51 days |
-    | Max. Fire Stage: | 40  | 40  |
-    | Power consumption: | 10 MWh/month | 7 MWh/month |
-    | Water consumption: | 101 Gallons/month | 18 Gallons/month |
-    | Air pollution: | 1 over 5 tiles | 3 over 5 tiles |
-    | Water pollution: | 1 over 6 tiles | 1 over 6 tiles |
-    | Garbage pollution: | 4 over 0 tiles | 4 over 0 tiles |
+    |     | CO$$ Grow/Plop Version |
+    | --- | --- |
+    | Lot size: | 2 x 2 tiles |
+    | Growth stage: | 7   |
+    | Occupants: | CO-$$ : 458 |
+    | Bulldoze cost: | § 516 |
+    | Worth: | § 3201 |
+    | Construction Time: | 51 days |
+    | Max. Fire Stage: | 40  |
+    | Power consumption: | 10 MWh/month |
+    | Water consumption: | 101 Gallons/month |
+    | Air pollution: | 1 over 5 tiles |
+    | Water pollution: | 1 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
     
     Building style(s): Building: Commercial, Building: CO$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE: SHUR Project,  BTE : Comm. W2W or Res - Med Income
   website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
@@ -393,20 +392,20 @@ info:
 
     # Lot Details & Information
 
-    |     | CO$$ Version | CS$$ Version | R$$ Version |
-    | --- | --- | --- | --- |
-    | Lot size: | 3 x 2 tiles | 3 x 2 tiles | 3 x 2 tiles |
-    | Growth stage: | 6   | 8   | 7   |
-    | Occupants: | CO-$$ : 670 | CS-$ : 1503CS-$$ : 378 | R-$ : 1211R-$$ : 670 |
-    | Bulldoze cost: | § 513 | § 513 | § 513 |
-    | Building Value: | § 4683 | § 12895 | § 17474 |
-    | Construction Time: | 51 days | 51 days | 51 days |
-    | Max. Fire Stage: | 4   | 4   | 4   |
-    | Power consumption: | 14 MWh/month | 31 MWh/month | 10 MWh/month |
-    | Water consumption: | 144 Gallons/month | 364 Gallons/month | 26 Gallons/month |
-    | Air pollution: | 2 over 4 tiles | 14 over 5 tiles | 5 over 5 tiles |
-    | Water pollution: | 2 over 5 tiles | 9 over 5 tiles | 2 over 6 tiles |
-    | Garbage pollution: | 4 over 0 tiles | 18 over 0 tiles | 4 over 0 tiles |
+    |     | CO$$ Version | CS$$ Version |
+    | --- | --- | --- |
+    | Lot size: | 3 x 2 tiles | 3 x 2 tiles |
+    | Growth stage: | 6   | 8   |
+    | Occupants: | CO-$$ : 670 | CS-$ : 1503CS-$$ : 378 |
+    | Bulldoze cost: | § 513 | § 513 |
+    | Building Value: | § 4683 | § 12895 |
+    | Construction Time: | 51 days | 51 days |
+    | Max. Fire Stage: | 4   | 4   |
+    | Power consumption: | 14 MWh/month | 31 MWh/month |
+    | Water consumption: | 144 Gallons/month | 364 Gallons/month |
+    | Air pollution: | 2 over 4 tiles | 14 over 5 tiles |
+    | Water pollution: | 2 over 5 tiles | 9 over 5 tiles |
+    | Garbage pollution: | 4 over 0 tiles | 18 over 0 tiles |
 
     Building style(s): Building: Commercial, W2W, BTE: JBSimio | Style: Chicago, Style:Creation, BTE:SHUR | New York, BTE: Comm. Project
   author: JBSimio
@@ -435,10 +434,8 @@ info:
 
     # Included Lots
 
-    - **Wisner Apartments**: 2 x 2 tiles, R$ grow ; 2 x 3 tiles, R$$ grow, CO$$ grow and plop
-    - **Worthington Arms**: 2 x 2 tiles, R$ grow ; 2 x 3 tiles, R$$ grow
-    - **Chalfonte Apartments**: 2 x 2 tiles, R$ grow ; 2 x 3 tiles, 4 x 2 tiles, 4 x 3 tiles, R$$ grow
-    - **Hammond Building**: 3 x 3 tiles, CO$$ grow and plop, CS$$ grow and plop, R$$ grow
+    - **Wisner Apartments**: 2 x 2 tiles, CO$$ grow and plop
+    - **Hammond Building**: 3 x 3 tiles, CO$$ grow and plop, CS$$ grow and plop
   author: JBSimio
   websites: 
     - "https://www.sc4evermore.com/index.php/downloads/download/11-residential/434-sc4d-lex-legacy-bsc-jbsimio-residentials-compilation"
