@@ -1,0 +1,457 @@
+assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+url: "https://www.sc4evermore.com/index.php/downloads?task=download.send&id=433:sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+version: "1"
+lastModified: "2026-03-24T02:01:19Z"
+
+---
+group: jbsimio
+name: brooks-building
+version: "1"
+subfolder: 300-commercial
+info:
+  summary: "The Brooks Building, a SHUR Project release"
+  description: |-
+    This is the eleventh release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project [here](http://www.simtropolis.com/forum/messageview.cfm?catid=37&threadid=76703&STARTPAGE=14). When completed in 1913, the Brooks Building was the tallest building in town at 12 stories. Its title was short lived, but still significant as it spurred a friendly (and at times not so friendly) competition resulting in a construction boom for the city's downtown core. Brooks Department Store was well established in the area when the need for more office space became a necessity. Albert Brooks was very specific in his demands for good lighting in both the retail and office areas. The result was a long slender tower with three levels of shopping space topped by plenty of sunlit offices above. The Brooks Building fell out of use and into disrepair as shopping centers drew the customers further and further from the city.
+
+    Citing the one time title of "Midland's Tallest Building," the Skipjack Historical Society purchased the condemned building in 1997 and set about to restore it. The utility block on the roof had been so weather beaten and vandalized that it ultimately had to be replaced, but the rest of the building's exterior character was carefully brought back over the next two years. With the city's recent rebirth, the Brooks Building once again became a desirable office building and is well on the road to making a full recovery.
+
+    This release contains two lot versions. There is a 1x3 stage seven growable with CO$$ jobs and also a functioning ploppable version with a plop cost of $7300. All the other statistics are the same as the growable. Enjoy!
+
+    |     | Growable Version |
+    | --- | --- |
+    | Lot size: | 1 x 3 tiles |
+    | Growth stage: | 7   |
+    | Occupants: | CO-$$ : 612 |
+    | Bulldoze cost: | § 734 |
+    | Worth: | § 4277 |
+    | Construction Time: | 73 days |
+    | Max. Fire Stage/Flamability: | 4/40 |
+    | Power consumption: | 13 MWh/month |
+    | Water consumption: | 132 Gallons/month |
+    | Air pollution: | 2 over 5 tiles |
+    | Water pollution: | 2 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
+
+    
+    Building style(s): Building: Commercial, Building: CO$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE : SHUR Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Brooks_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Brooks_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Brooks Building#/"
+
+---
+---
+group: "jbsimio"
+name: bruder-building-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Buder Building, a SHUR Project release
+  description: |-
+    This is the twelveth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project [here](http://www.simtropolis.com/forum/messageview.cfm?catid=37&threadid=76703&STARTPAGE=14)'.
+    
+    The Buder Building was designed in 1901 by William Albert Swasey whose work significantly influenced building design in St. Louis. The construction of the Buder Building, originally named the Missouri Pacific Building, was regarded as a pivotal event marking the completion of the 1890's development plan for the west side of Seventh Street and also heralding a new vision for the revitalization of Market Street and cost approximately $600,000 to construct. 
+    
+    This building was unfortunately torn down in 1984 along with several other buildings which occupied the same block. A number of personal liberties were taken with this version and while it is by no means an exact recreation, care was taken to keep the same spirit and borrowed as many of the character details as possible.
+
+    This release contains three lot versions. A 3x3 stage seven growable with CO$$ jobs and also a functioning ploppable version with a plop cost of $8200 are included. All the other statistics are the same as the growable. There is also a 3x3 stage seven R$$ version as well. All three versions are designed to fit a wall to wall corner setting. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
+
+    # Lot Details & Information
+
+    |     | CO$$ Version | R$$ Version |
+    | --- | --- | --- |
+    | Lot size: | 3 x 3 tiles (corner) | 3 x 3 tiles (corner) |
+    | Growth stage: | 7   | 7   |
+    | Occupants: | CO-$$ : 1492 | R-$ : 2701, R-$$ : 1492 |
+    | Bulldoze cost: | § 823 | § 823 |
+    | Worth: | § 10429 | § 38975 |
+    | Construction Time: | 82 days | 82 days |
+    | Max. Fire Stage: | 40  | 40  |
+    | Power consumption: | 30 MWh/month | 21 MWh/month |
+    | Water consumption: | 308 Gallons/month | 56 Gallons/month |
+    | Air pollution: | 5 over 5 tiles | 12 over 5 tiles |
+    | Water pollution: | 5 over 6 tiles | 6 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles | 6 over 0 tiles |
+
+    Building style(s): Building: Commercial ,Building: CO$$, Style: Chicago, Style: New York, BTE : Comm. or Res. W2W, BTE : Res. Medium Wealth, BTE : JBSimio Creation, BTE : SHUR Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Buder_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Buder_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Buder Building#/"
+
+
+---
+group: "jbsimio"
+name: citizen-building-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Citizen Building, a SHUR Project release
+  description: |-
+    This is the thirteenth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project [here](http://www.simtropolis.com/forum/messageview.cfm?catid=37&threadid=76703&STARTPAGE=14). 
+    
+    This building was inspired by one in Sacramento, California. It was originally known as the Cal Western Life Building. It is currently being renovated for use as a hotel which will be called the Citizen Hotel. A number of personal liberties were taken with this version and while it is by no means an exact recreation, care was taken to keep the same spirit and borrowed as many of the character details as possible.
+
+    This release contains three lot versions. A 3x3 stage seven growable with CO$$$ jobs and also a functioning ploppable version with a plop cost of $10860 are included. All the other statistics are the same as the growable. There is also a 3x3 stage seven R$$ version as well. All three versions are designed to fit a wall to wall corner setting. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
+
+    # Lot Details & Information
+
+    |     | CO$$$ Version | R$$ Version |
+    | --- | --- | --- |
+    | Lot size: | 3 x 3 tiles | 3 x 3 tiles |
+    | Growth stage: | 7   | 8   |
+    | Occupants: | CO-$$ : 1257, CO-$$$ : 880 | R-$ : 2276, R-$$ : 1257 |
+    | Bulldoze cost: | § 1086 | § 1052 |
+    | Worth: | § 9829 | § 32842 |
+    | Construction Time: | 108 days | 105 days |
+    | Max. Fire Stage: | 35  | 40  |
+    | Power consumption: | 36 MWh/month | 18 MWh/month |
+    | Water consumption: | 392 Gallons/month | 47 Gallons/month |
+    | Air pollution: | 5 over 6 tiles | 10 over 5 tiles |
+    | Water pollution: | 5 over 7 tiles | 5 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles | 5 over 0 tiles |
+
+    Building style(s): Building: Commercial, Building: CO$$$ or R$$ ,Style: Chicago ,Style: New York, BTE : Comm. W2W or Res Medium Income, BTE : JBSimio Creation, BTE : SHUR Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Citizen_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Citizen_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Citizen Building#/"
+
+---
+group: "jbsimio"
+name: hunter-dulin-building
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Hunter-Dulin Building, a SHUR Project release
+  description: |-
+    This is the fifteenth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.
+
+    The Hunter-Dulin Building was completed and opened for occupancy in 1927. It would serve as the West Coast headquarters for the National Broadcasting Company for the next fifteen years. At 24 stories (94.0 m), this was one of the city's tallest buildings upon its completion. It is set apart from other San Francisco skyscrapers by its steep mansard roof with gabled dormers and terra cotta roof tiles.  The Los Angeles investment firm of Hunter, Dulin & Company bought the site in 1925 for a price estimated to have been well in excess of $1 million and hired the New York firm of Schultze and Weaver to design an office building for them. Leonard Schultze was chief of design for New York's Grand Central Terminal, and with his partner, Spencer Fullerton Weaver, designed a number of the most extravagant hotels built during the 1920s, including the Pierre, the Sherry Netherlands, and the Waldorf Astoria in New York along with the Breakers in Palm Beach.
+
+    The Hunter-Dulin Building is a tripartite French Renaissance Revival structure clad with sand-coloured Granitex on its primary façades and brick on the others. The shaft rises to an elaborate gabled mansard roof of terra-cotta tile with copper-coated cresting. The ornamentation is particularly elaborate, with flower and bird designs, medallions representing the four seasons, and the heads of men facing each other in some of the window alcoves. The building's most famous tenant was Dashiell Hammett's fictitious detective, Sam Spade.
+
+    The three part vertical composition was detailed in what, by 1926 standards was considered a rather backward looking stylistic mix of Romanesque and French Chateau ornamentation. Nevertheless, it is an extremely fine version and the city's only example of this style. The base and main office shaft, clad in a particularly fine Granitex, is designed in a rather attenuated version of the Romanesque. Above this is a set-back continuation of the shaft crowned by a high, red, dormered mansard roof with copper cresting. It is this roof which is one of the richest features on the city's skyline. The giant ground level entrance arch leads into a richly detailed elevator lobby.
+
+    This release contains two lot versions.  First is a 6x4 stage seven growable with CO$$$ jobs.  There is also a funtional plop version of the same with a plop cost of $23,000.  Both lots are designed for a very urban setting and will look best when taking up an entire city block.  As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file.  Enjoy!
+
+    |     | CO$$$ Version |
+    | --- | --- |
+    | Lot size: | 4 x 6 tiles |
+    | Growth stage: | 7   |
+    | Occupants: | CO-$$ : 4418, CO-$$$ : 3091 |
+    | Bulldoze cost: | § 1476 |
+    | Worth: | § 34578 |
+    | Construction Time: | 147 days |
+    | Max. Fire Stage/Flamability: | 4/35 |
+    | Power consumption: | 124 MWh/month |
+    | Water consumption: | 1340 Gallons/month |
+    | Air pollution: | 18 over 6 tiles |
+    | Water pollution: | 18 over 7 tiles |
+    | Garbage pollution: | 7 over 0 tiles |
+
+    Building style(s): Building: Commercial, Building: CO$$$, Style: Chicago, Style: New York, BTE : Commercial Offices, BTE : JBSimio Creation, BTE : SHUR Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/HunterDulin_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/HunterDulin_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Hunter-Dulin Building#/"
+
+---
+group: "jbsimio"
+name: hurst-building
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Jurst Building, a SHUR Project release
+  description: |-
+    This is the tenth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.  The Hurst Building was commissioned by Dr. Jeffrey Hurst and constructed in 1913.  Dr. Hurst had a fairly sizable practice at the time which occupied the lower three floors of the building.  (He had actually made several business deals with the Weatherwax Pharmacy, but that's an entirely different story.)  The remaining floors were leased as office space to other companies and professionals.  Sadly, while paying so much attention to the health of his patients, Dr. Hurst ignored his own and fell quite ill with a host of medical problems.  The inability of other doctors in his offices to help cure him destroyed the reputation of the practice and the vacancies within the building began.
+  
+    The Hurst Building became part of the SHUR Project  during the Society's efforts to save the Stearns Building from becoming a parking garage.   Although the Stearns Building needed little restoration, the Hurst Building had become an eyesore and was slowly becoming structurally unsound.  Local developers felt the Hurst Building was beyond saving and that the Stearns Building was just in the way.  Underestimating the Skipjack Historical Society, the city made a deal stating that if the group could make the necessary repairs within the allotted time, both buildings could be purchased together as a package deal and the parking garage would be relocated.   Jessica Maloney, the daughter of Swan Hotel Group founder Herbert Maloney, took a personal interest in the issue.  The Swan Group made sizable financial contributions, and with their influence, the necessary repairs and updates were completed months ahead of schedule.  Don't you just love a happy ending?  Especially one that sticks it to the man at the same time?
+
+    This release contains two lot versions. There is a 2x3 stage six growable with CO$$ jobs and also a functioning ploppable version. The second has a plop cost of $8974. Enjoy!
+
+    |     | Growable Version |
+    | --- | --- |
+    | Lot size: | 2 x 3 tiles |
+    | Building style(s): | Building: Commercial, Building: CO$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE: SHUR Project |
+    | Growth stage: | 6   |
+    | Occupants: | CO-$$ : 616 |
+    | Bulldoze cost: | § 642 |
+    | Worth: | § 4305 |
+    | Construction Time: | 64 days |
+    | Max. Fire Stage/Flamability: | 3/40 |
+    | Power consumption: | 13 MWh/month |
+    | Water consumption: | 133 Gallons/month |
+    | Air pollution: | 2 over 5 tiles |
+    | Water pollution: | 2 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
+    
+    Building style(s): Building: Commercial, Building: CO$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE: SHUR Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Hurst_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Hurst_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Hurst Building#/"
+
+---
+group: "jbsimio"
+name: swan-majestic
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Swan Majestic, a SHUR Project release
+  description: |-
+    This is the nineth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.  The Swan Majectic hotel has catered to countless prestigious or just rich plain guests over the years.  Looming over Skipjack Park, the fourteenth floor penthouse suites provide some gorgeous views from its balconies.  The front lobby and both hotel restaraunts are considered to be some of the most lavish in the area.  The hotel itself has been so popular since its founding, that the Swan brandname has expanded into a local chain of hotels.
+
+    This is one of the few SHUR Projects that was never a project.  The building never needed to be rescued from decay or the wrecking ball.  The family owners of the hotel have held their own sense of history for generations, and members of the current generation played key roles in founding the Skipjack Historical Society and continue to be active in the preservation projects throughout the city.  Because of this involvement, the Swan Majestic hotel is listed in the SHUR portfolio as a token of appreciation.
+
+    This release contains a total of six lot versions.  There are growable and ploppable versions for each of three lot sizes.  The 6x2 growable version will require the CAM mod.  The other sizes are CAMpatible, but do not require the full mod.  Enjoy!
+
+
+    | Lot size: | 6 x 4 tiles | 6 x 3 tiles | 6 x 2 tiles |
+    | --- | --- | --- | --- |
+    | Growth stage: | 7   | 8   | 10 (CAM) |
+    | Occupants: | CS-$ : 5565,CS-$$ : 1394,CS-$$$ : 559 |     |     |
+    | Bulldoze cost: | § 891 |     |     |
+    | Worth: | § 51273 |     |     |
+    | Construction Time: | 89 days |     |     |
+    | Max. Fire Stage/Flamability: | 4/35 |     |     |
+    | Power consumption: | 148 MWh/month |     |     |
+    | Water consumption: | 1324 Gallons/month |     |     |
+    | Air pollution: | 35 over 6 tiles |     |     |
+    | Water pollution: | 23 over 7 tiles |     |     |
+    | Garbage pollution: | 47 over 0 tiles |     |     |
+
+    Building style(s): Building: Commercial, Building: CS$$$, Style: Chicago, Style: New York, BTE : Comm. Tourism, BTE : JBSimio Creation, BTE : SHUR Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Swan_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Swan_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Swan Majestic#/"
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+        include:
+        - "/CS$$$10_6x2_The Swan Majestic.SC4Lot"
+
+---
+group: "jbsimio"
+name: rookery-building-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Rookery Building, a SHUR Project release
+  description: |-
+    This is the fourteenth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project [here](http://www.simtropolis.com/forum/messageview.cfm?catid=37&threadid=76703&STARTPAGE=14).
+
+    This building was inspired by the "oldest surviving skyscraper" in Chicago, Illinois. Constructed from 1885-1888, the building features a powerful exterior softened by very ornate detailing. The real building blends strong masonry wall-bearing with early steel skeletal frame construction. It took the name "Rookery" from a temporary City Hall and water tank that sat on the building site. As a common roost for pigeons, the structures were referred to as "the rookery."  This is not meant to be an exact copy by any means and there are many differences, but the building's character has been preserved as much as possible.
+
+    This release contains multiple lot versions. First is a 3x3 stage twelve growable with CS$ jobs which requires CAM to grow. There is also a functional plop version of this with a cost of $6700 to help fill that pesky CS$ demand. There are three versions with CO$$$ jobs: growable 3x3 stage seven, growable 4x4 stage six and also a functioning ploppable version with a plop cost of $6900. All the other statistics are the same as the growable. There are also two residential versions included. One is a 3x3 stage eight low wealth and the other is a 4x4 stage seven medium wealth'Every version is designed to fit in a more urban setting. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
+
+    # Lot Details & Information
+
+    |     | CS$ Version | CO$$ Versions | R$ Version | R$$ Version |
+    | --- | --- | --- | --- | --- |
+    | Lot size: | 3 x 3 tiles | 3 x 3 tiles, 4 x 4 tiles | 3 x 3 tiles | 4 x 4 tiles |
+    | Growth stage: | 12 (CAM) | 6 or 7 | 8   | 7   |
+    | Occupants: | CS-$ : 2804 | CO-$$ : 1248 | R-$ : 2258 | R-$ : 2258, R-$$ : 1248 |
+    | Bulldoze cost: | § 670 | § 691 | § 670 | § 691 |
+    | Worth: | § 21478 | § 8723 | § 30686 | § 32582 |
+    | Construction Time: | 67 days | 69 days | 67 days | 69 days |
+    | Max. Fire Stage: | 45  | 40  | 45  | 40  |
+    | Power consumption: | 57 MWh/month | 25 MWh/month | 10 MWh/month | 17 MWh/month |
+    | Water consumption: | 562 Gallons/month | 259 Gallons/month | 23 Gallons/month | 47 Gallons/month |
+    | Air pollution: | 28 over 5 tiles | 4 over 5 tiles | 11 over 5 tiles | 10 over 5 tiles |
+    | Water pollution: | 14 over 5 tiles | 4 over 6 tiles | 4 over 5 tiles | 5 over 6 tiles |
+    | Garbage pollution: | 84 over 0 tiles | 4 over 0 tiles | 6 over 0 tiles | 5 over 0 tiles |
+    
+    Building style(s): Building: Commercial, Building: CS$ or CO$$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE : SHUR Project | Building: Residential, Building: CS$ or CO$$$, Style: Chicago, Style: New York, BTE : Res Low or Medium Wealth, BTE : JBSimio Creation, BTE : SHUR Project
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Rookery_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Rookery_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Rookery Building#/"
+variants:
+  - variant: { CAM: "no" }
+    assets:
+      - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+  - variant: { CAM: "yes" }
+    assets:
+      - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+        include:
+        - "/CS$12_3x3_JB_Rookery Building.SC4Lot"
+
+---
+group: "jbsimio"
+name: stearns-building-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Stearns Building, a SHUR Project release
+  description: |-
+    This is the seventh release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project here'Business was booming downtown in the 1920's and the need for office space was high. Built in 1929 by Harvey Strearns, this was one of many office structures to be constructed near the end of the decade. Harvey chose a fairly simple and straightforward style for his building and then used a reddish toned brick and concrete detailing to  set his office apart. Unlike many buildings in the Skipjack Historical Society's portfolio, this particular building never really suffered through a time of abandonment and decay. The offices have been leased since the building opened. The need to save this building came about when it stood in the way of "progress" downtown. The parking structure was eventually built on a nearby lot thanks in part to the efforts of the SHUR Project.
+
+    The Stearns Building is based very loosely on a building in Fort Worth, Texas. This release contains three versions. There are growable R$$, CO$$ , and a CO$$ plop version. The ploppable version has all the same statistics as the growable with a plop cost of $5100. Enjoy!
+
+    # Lot Details & Information
+
+    |     | CO$$ Grow/Plop Version | R$$ Version |
+    | --- | --- | --- |
+    | Lot size: | 2 x 2 tiles | 2 x 2 tiles |
+    | Growth stage: | 7   | 7   |
+    | Occupants: | CO-$$ : 458 | R-$ : 827, R-$$ : 458 |
+    | Bulldoze cost: | § 516 | § 516 |
+    | Worth: | § 3201 | § 11933 |
+    | Construction Time: | 51 days | 51 days |
+    | Max. Fire Stage: | 40  | 40  |
+    | Power consumption: | 10 MWh/month | 7 MWh/month |
+    | Water consumption: | 101 Gallons/month | 18 Gallons/month |
+    | Air pollution: | 1 over 5 tiles | 3 over 5 tiles |
+    | Water pollution: | 1 over 6 tiles | 1 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles | 4 over 0 tiles |
+    
+    Building style(s): Building: Commercial, Building: CO$$, Style: Chicago, Style: New York, BTE : JBSimio Creation, BTE: SHUR Project,  BTE : Comm. W2W or Res - Med Income
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Stearns_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Stearns_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Stearns Building#/"
+
+---
+group: "jbsimio"
+name: taft-building-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The Taft Building, a SHUR Project release
+  description: |-
+    This is the fifth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project [here](http://www.simtropolis.com/forum/messageview.cfm?catid=37&threadid=76703&STARTPAGE=14). Originally built as a hotel, this structure has anchored its street corner since 1924. As was the case with so many urban hotels, business waned in the 1960's when the freeway came through town too far north to make it a convenient place to sleep. The building sat vacant for a number of years. Researchers at the Skipjack Historical Society discovered evidence that President Taft had once stayed in an upper room of the building and began their drive to save the building from further decay. After months of cleaning, street level shops opened and breathed new life into the building. The upper floors were slowly converted into offices and apartments and the building was given a new name in honor of its presidential ties.
+
+    The Taft Building is inspired by a building on the corner of Hollywood and Vine in Hollywood, California. (it's real name is unknown, but the building across the street had the name Taft, so that's what was chosen). This release includes four versions. There are growable CO$$, CS$$, and R$$. There is also a ploppable CO$$ version (plop cost is $5100) with the same statistics as the growable version.
+
+    # Lot Details & Information
+
+    |     | CO$$ Version | CS$$ Version | R$$ Version |
+    | --- | --- | --- | --- |
+    | Lot size: | 3 x 2 tiles | 3 x 2 tiles | 3 x 2 tiles |
+    | Growth stage: | 6   | 8   | 7   |
+    | Occupants: | CO-$$ : 670 | CS-$ : 1503CS-$$ : 378 | R-$ : 1211R-$$ : 670 |
+    | Bulldoze cost: | § 513 | § 513 | § 513 |
+    | Building Value: | § 4683 | § 12895 | § 17474 |
+    | Construction Time: | 51 days | 51 days | 51 days |
+    | Max. Fire Stage: | 4   | 4   | 4   |
+    | Power consumption: | 14 MWh/month | 31 MWh/month | 10 MWh/month |
+    | Water consumption: | 144 Gallons/month | 364 Gallons/month | 26 Gallons/month |
+    | Air pollution: | 2 over 4 tiles | 14 over 5 tiles | 5 over 5 tiles |
+    | Water pollution: | 2 over 5 tiles | 9 over 5 tiles | 2 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles | 18 over 0 tiles | 4 over 0 tiles |
+
+    Building style(s): Building: Commercial, W2W, BTE: JBSimio | Style: Chicago, Style:Creation, BTE:SHUR | New York, BTE: Comm. Project
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Taft_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Taft_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Taft Building#/"
+   - "/Taft Hotel/"
+
+---
+group: "jbsimio"
+name: shur-project-beginnings-commercial
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: The SHUR Project - Beginnings
+  description: |-
+    Today efforts of the SHUR Project save not only residential apartment buildings, but has also expanded to include smaller mid-rise office buildings and significant industrial buildings. Many projects are grouped together like the original Skipjack Park District and newer Warehouse District, although there are individual efforts scattered throughout the city. Making the list is not always a simple matter, but the criteria aren't as strict as some might think either. Historical significance may come from the original architect, builder, or owner, the building's role in Midland's growth, or simply the overall beauty of the structure.
+
+    # Included Lots
+
+    - **Wisner Apartments**: 2 x 2 tiles, R$ grow ; 2 x 3 tiles, R$$ grow, CO$$ grow and plop
+    - **Worthington Arms**: 2 x 2 tiles, R$ grow ; 2 x 3 tiles, R$$ grow
+    - **Chalfonte Apartments**: 2 x 2 tiles, R$ grow ; 2 x 3 tiles, 4 x 2 tiles, 4 x 3 tiles, R$$ grow
+    - **Hammond Building**: 3 x 3 tiles, CO$$ grow and plop, CS$$ grow and plop, R$$ grow
+  author: JBSimio
+  websites: 
+    - "https://www.sc4evermore.com/index.php/downloads/download/11-residential/434-sc4d-lex-legacy-bsc-jbsimio-residentials-compilation"
+    - "https://community.simtropolis.com/files/file/16895-shur-hammond-building/"
+    - "https://community.simtropolis.com/files/file/16697-shur-wisner-apartments/"
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/SHURImage01.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol02"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Hammond Building#/"
+   - "/Hammond Hotel#/"
+   - "/Wisner Law Firm Offices#/"
