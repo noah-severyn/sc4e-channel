@@ -25,7 +25,7 @@ info:
     | Bulldoze cost: | § 734 |
     | Worth: | § 4277 |
     | Construction Time: | 73 days |
-    | Max. Fire Stage/Flamability: | 4/40 |
+    | Max. Fire Stage/Flammability: | 4/40 |
     | Power consumption: | 13 MWh/month |
     | Water consumption: | 132 Gallons/month |
     | Air pollution: | 2 over 5 tiles |
@@ -156,24 +156,24 @@ info:
 
     The three part vertical composition was detailed in what, by 1926 standards was considered a rather backward looking stylistic mix of Romanesque and French Chateau ornamentation. Nevertheless, it is an extremely fine version and the city's only example of this style. The base and main office shaft, clad in a particularly fine Granitex, is designed in a rather attenuated version of the Romanesque. Above this is a set-back continuation of the shaft crowned by a high, red, dormered mansard roof with copper cresting. It is this roof which is one of the richest features on the city's skyline. The giant ground level entrance arch leads into a richly detailed elevator lobby.
 
-    This release contains two lot versions.  First is a 6x4 stage seven growable with CO$$$ jobs.  There is also a funtional plop version of the same with a plop cost of $23,000.  Both lots are designed for a very urban setting and will look best when taking up an entire city block.  As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file.  Enjoy!
+    This release contains two lot versions.  First is a 6x4 stage seven growable with CO$$$ jobs.  There is also a functional plop version of the same with a plop cost of $23,000.  Both lots are designed for a very urban setting and will look best when taking up an entire city block.  As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file.  Enjoy!
 
     |     | CO$$$ Version |
     | --- | --- |
-    | Lot size: | 4 x 6 tiles |
+    | Lot size: | 4 x 6 tiles |
     | Growth stage: | 7   |
     | Occupants: | CO-$$ : 4418, CO-$$$ : 3091 |
     | Bulldoze cost: | § 1476 |
     | Worth: | § 34578 |
     | Construction Time: | 147 days |
-    | Max. Fire Stage/Flamability: | 4/35 |
+    | Max. Fire Stage/Flammability: | 4/35 |
     | Power consumption: | 124 MWh/month |
     | Water consumption: | 1340 Gallons/month |
     | Air pollution: | 18 over 6 tiles |
     | Water pollution: | 18 over 7 tiles |
-    | Garbage pollution: | 7 over 0 tiles |
+    | Garbage pollution: | 7 over 0 tiles |
 
-    Building style(s): Building: Commercial, Building: CO$$$, Style: Chicago, Style: New York, BTE : Commercial Offices, BTE : JBSimio Creation, BTE : SHUR Project
+    Building style(s): Building: Commercial, Building: CO$$$, Style: Chicago, Style: New York, BTE : Commercial Offices, BTE : JBSimio Creation, BTE : SHUR Project
   author: JBSimio
   website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
   images:
@@ -210,7 +210,7 @@ info:
     | Bulldoze cost: | § 642 |
     | Worth: | § 4305 |
     | Construction Time: | 64 days |
-    | Max. Fire Stage/Flamability: | 3/40 |
+    | Max. Fire Stage/Flammability: | 3/40 |
     | Power consumption: | 13 MWh/month |
     | Water consumption: | 133 Gallons/month |
     | Air pollution: | 2 over 5 tiles |
@@ -239,7 +239,7 @@ subfolder: 300-commercial
 info:
   summary: The Swan Majestic, a SHUR Project release
   description: |-
-    This is the nineth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.  The Swan Majectic hotel has catered to countless prestigious or just rich plain guests over the years.  Looming over Skipjack Park, the fourteenth floor penthouse suites provide some gorgeous views from its balconies.  The front lobby and both hotel restaraunts are considered to be some of the most lavish in the area.  The hotel itself has been so popular since its founding, that the Swan brandname has expanded into a local chain of hotels.
+    This is the nineth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.  The Swan Majectic hotel has catered to countless prestigious or just rich plain guests over the years.  Looming over Skipjack Park, the fourteenth floor penthouse suites provide some gorgeous views from its balconies.  The front lobby and both hotel restaurants are considered to be some of the most lavish in the area.  The hotel itself has been so popular since its founding, that the Swan brand name has expanded into a local chain of hotels.
 
     This is one of the few SHUR Projects that was never a project.  The building never needed to be rescued from decay or the wrecking ball.  The family owners of the hotel have held their own sense of history for generations, and members of the current generation played key roles in founding the Skipjack Historical Society and continue to be active in the preservation projects throughout the city.  Because of this involvement, the Swan Majestic hotel is listed in the SHUR portfolio as a token of appreciation.
 
@@ -253,7 +253,7 @@ info:
     | Bulldoze cost: | § 891 |     |     |
     | Worth: | § 51273 |     |     |
     | Construction Time: | 89 days |     |     |
-    | Max. Fire Stage/Flamability: | 4/35 |     |     |
+    | Max. Fire Stage/Flammability: | 4/35 |     |     |
     | Power consumption: | 148 MWh/month |     |     |
     | Water consumption: | 1324 Gallons/month |     |     |
     | Air pollution: | 35 over 6 tiles |     |     |
@@ -275,13 +275,11 @@ assets:
    - "/Swan Majestic#/"
 variants:
   - variant: { CAM: "no" }
-    assets:
-      - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
   - variant: { CAM: "yes" }
     assets:
       - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
         include:
-        - "/CS$$$10_6x2_The Swan Majestic.SC4Lot"
+        - "/CS\\$\\$\\$10_6x2_The Swan Majestic.SC4Lot"
 
 ---
 group: "jbsimio"
@@ -328,13 +326,11 @@ assets:
    - "/Rookery Building#/"
 variants:
   - variant: { CAM: "no" }
-    assets:
-      - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
   - variant: { CAM: "yes" }
     assets:
       - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
         include:
-        - "/CS$12_3x3_JB_Rookery Building.SC4Lot"
+        - "/CS\\$12_3x3_JB_Rookery Building.SC4Lot"
 
 ---
 group: "jbsimio"
