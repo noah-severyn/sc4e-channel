@@ -17,6 +17,8 @@ info:
 
     This release contains two lot versions. There is a 1x3 stage seven growable with CO$$ jobs and also a functioning ploppable version with a plop cost of $7300. All the other statistics are the same as the growable. Enjoy!
 
+    ## Lot Details and Information
+
     |     | Growable Version |
     | --- | --- |
     | Lot size: | 1 x 3 tiles |
@@ -63,7 +65,7 @@ info:
 
     This release contains three lot versions. A 3x3 stage seven growable with CO$$ jobs and also a functioning ploppable version with a plop cost of $8200 are included. All the other statistics are the same as the growable. There is also a 3x3 stage seven R$$ version as well. All three versions are designed to fit a wall to wall corner setting. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
 
-    # Lot Details & Information
+    ## Lot Details & Information
 
     |     | CO$$ Version |
     | --- | --- |
@@ -109,7 +111,7 @@ info:
 
     This release contains three lot versions. A 3x3 stage seven growable with CO$$$ jobs and also a functioning ploppable version with a plop cost of $10860 are included. All the other statistics are the same as the growable. There is also a 3x3 stage seven R$$ version as well. All three versions are designed to fit a wall to wall corner setting. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
 
-    # Lot Details & Information
+    ## Lot Details & Information
 
     |     | CO$$$ Version |
     | --- | --- |
@@ -148,15 +150,17 @@ subfolder: 300-commercial
 info:
   summary: The Hunter-Dulin Building, a SHUR Project release
   description: |-
-    This is the fifteenth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.
+    This is the fifteenth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project here.
 
-    The Hunter-Dulin Building was completed and opened for occupancy in 1927. It would serve as the West Coast headquarters for the National Broadcasting Company for the next fifteen years. At 24 stories (94.0 m), this was one of the city's tallest buildings upon its completion. It is set apart from other San Francisco skyscrapers by its steep mansard roof with gabled dormers and terra cotta roof tiles.  The Los Angeles investment firm of Hunter, Dulin & Company bought the site in 1925 for a price estimated to have been well in excess of $1 million and hired the New York firm of Schultze and Weaver to design an office building for them. Leonard Schultze was chief of design for New York's Grand Central Terminal, and with his partner, Spencer Fullerton Weaver, designed a number of the most extravagant hotels built during the 1920s, including the Pierre, the Sherry Netherlands, and the Waldorf Astoria in New York along with the Breakers in Palm Beach.
+    The Hunter-Dulin Building was completed and opened for occupancy in 1927. It would serve as the West Coast headquarters for the National Broadcasting Company for the next fifteen years. At 24 stories (94.0 m), this was one of the city's tallest buildings upon its completion. It is set apart from other San Francisco skyscrapers by its steep mansard roof with gabled dormers and terra cotta roof tiles. The Los Angeles investment firm of Hunter, Dulin & Company bought the site in 1925 for a price estimated to have been well in excess of $1 million and hired the New York firm of Schultze and Weaver to design an office building for them. Leonard Schultze was chief of design for New York's Grand Central Terminal, and with his partner, Spencer Fullerton Weaver, designed a number of the most extravagant hotels built during the 1920s, including the Pierre, the Sherry Netherlands, and the Waldorf Astoria in New York along with the Breakers in Palm Beach.
 
     The Hunter-Dulin Building is a tripartite French Renaissance Revival structure clad with sand-coloured Granitex on its primary façades and brick on the others. The shaft rises to an elaborate gabled mansard roof of terra-cotta tile with copper-coated cresting. The ornamentation is particularly elaborate, with flower and bird designs, medallions representing the four seasons, and the heads of men facing each other in some of the window alcoves. The building's most famous tenant was Dashiell Hammett's fictitious detective, Sam Spade.
 
     The three part vertical composition was detailed in what, by 1926 standards was considered a rather backward looking stylistic mix of Romanesque and French Chateau ornamentation. Nevertheless, it is an extremely fine version and the city's only example of this style. The base and main office shaft, clad in a particularly fine Granitex, is designed in a rather attenuated version of the Romanesque. Above this is a set-back continuation of the shaft crowned by a high, red, dormered mansard roof with copper cresting. It is this roof which is one of the richest features on the city's skyline. The giant ground level entrance arch leads into a richly detailed elevator lobby.
 
-    This release contains two lot versions.  First is a 6x4 stage seven growable with CO$$$ jobs.  There is also a functional plop version of the same with a plop cost of $23,000.  Both lots are designed for a very urban setting and will look best when taking up an entire city block.  As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file.  Enjoy!
+    This release contains two lot versions. First is a 6x4 stage seven growable with CO$$$ jobs. There is also a functional plop version of the same with a plop cost of $23,000. Both lots are designed for a very urban setting and will look best when taking up an entire city block. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
+
+    ## Lot Details and Information
 
     |     | CO$$$ Version |
     | --- | --- |
@@ -195,11 +199,13 @@ subfolder: 300-commercial
 info:
   summary: The Jurst Building, a SHUR Project release
   description: |-
-    This is the tenth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.  The Hurst Building was commissioned by Dr. Jeffrey Hurst and constructed in 1913.  Dr. Hurst had a fairly sizable practice at the time which occupied the lower three floors of the building.  (He had actually made several business deals with the Weatherwax Pharmacy, but that's an entirely different story.)  The remaining floors were leased as office space to other companies and professionals.  Sadly, while paying so much attention to the health of his patients, Dr. Hurst ignored his own and fell quite ill with a host of medical problems.  The inability of other doctors in his offices to help cure him destroyed the reputation of the practice and the vacancies within the building began.
+    This is the tenth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project here. The Hurst Building was commissioned by Dr. Jeffrey Hurst and constructed in 1913. Dr. Hurst had a fairly sizable practice at the time which occupied the lower three floors of the building. (He had actually made several business deals with the Weatherwax Pharmacy, but that's an entirely different story.)  The remaining floors were leased as office space to other companies and professionals. Sadly, while paying so much attention to the health of his patients, Dr. Hurst ignored his own and fell quite ill with a host of medical problems. The inability of other doctors in his offices to help cure him destroyed the reputation of the practice and the vacancies within the building began.
   
-    The Hurst Building became part of the SHUR Project  during the Society's efforts to save the Stearns Building from becoming a parking garage.   Although the Stearns Building needed little restoration, the Hurst Building had become an eyesore and was slowly becoming structurally unsound.  Local developers felt the Hurst Building was beyond saving and that the Stearns Building was just in the way.  Underestimating the Skipjack Historical Society, the city made a deal stating that if the group could make the necessary repairs within the allotted time, both buildings could be purchased together as a package deal and the parking garage would be relocated.   Jessica Maloney, the daughter of Swan Hotel Group founder Herbert Maloney, took a personal interest in the issue.  The Swan Group made sizable financial contributions, and with their influence, the necessary repairs and updates were completed months ahead of schedule.  Don't you just love a happy ending?  Especially one that sticks it to the man at the same time?
+    The Hurst Building became part of the SHUR Project  during the Society's efforts to save the Stearns Building from becoming a parking garage.  Although the Stearns Building needed little restoration, the Hurst Building had become an eyesore and was slowly becoming structurally unsound. Local developers felt the Hurst Building was beyond saving and that the Stearns Building was just in the way. Underestimating the Skipjack Historical Society, the city made a deal stating that if the group could make the necessary repairs within the allotted time, both buildings could be purchased together as a package deal and the parking garage would be relocated.  Jessica Maloney, the daughter of Swan Hotel Group founder Herbert Maloney, took a personal interest in the issue. The Swan Group made sizable financial contributions, and with their influence, the necessary repairs and updates were completed months ahead of schedule. Don't you just love a happy ending?  Especially one that sticks it to the man at the same time?
 
     This release contains two lot versions. There is a 2x3 stage six growable with CO$$ jobs and also a functioning ploppable version. The second has a plop cost of $8974. Enjoy!
+
+    ## Lot Details and Information
 
     |     | Growable Version |
     | --- | --- |
@@ -239,12 +245,13 @@ subfolder: 300-commercial
 info:
   summary: The Swan Majestic, a SHUR Project release
   description: |-
-    This is the nineth release in the Skipjack Historical Urban Restoration Project.  Learn more about the history of this project here.  The Swan Majectic hotel has catered to countless prestigious or just rich plain guests over the years.  Looming over Skipjack Park, the fourteenth floor penthouse suites provide some gorgeous views from its balconies.  The front lobby and both hotel restaurants are considered to be some of the most lavish in the area.  The hotel itself has been so popular since its founding, that the Swan brand name has expanded into a local chain of hotels.
+    This is the nineth release in the Skipjack Historical Urban Restoration Project. Learn more about the history of this project here. The Swan Majectic hotel has catered to countless prestigious or just rich plain guests over the years. Looming over Skipjack Park, the fourteenth floor penthouse suites provide some gorgeous views from its balconies. The front lobby and both hotel restaurants are considered to be some of the most lavish in the area. The hotel itself has been so popular since its founding, that the Swan brand name has expanded into a local chain of hotels.
 
-    This is one of the few SHUR Projects that was never a project.  The building never needed to be rescued from decay or the wrecking ball.  The family owners of the hotel have held their own sense of history for generations, and members of the current generation played key roles in founding the Skipjack Historical Society and continue to be active in the preservation projects throughout the city.  Because of this involvement, the Swan Majestic hotel is listed in the SHUR portfolio as a token of appreciation.
+    This is one of the few SHUR Projects that was never a project. The building never needed to be rescued from decay or the wrecking ball. The family owners of the hotel have held their own sense of history for generations, and members of the current generation played key roles in founding the Skipjack Historical Society and continue to be active in the preservation projects throughout the city. Because of this involvement, the Swan Majestic hotel is listed in the SHUR portfolio as a token of appreciation.
 
-    This release contains a total of six lot versions.  There are growable and ploppable versions for each of three lot sizes.  The 6x2 growable version will require the CAM mod.  The other sizes are CAMpatible, but do not require the full mod.  Enjoy!
+    This release contains a total of six lot versions. There are growable and ploppable versions for each of three lot sizes. The 6x2 growable version will require the CAM mod. The other sizes are CAMpatible, but do not require the full mod. Enjoy!
 
+    ## Lot Details and Information
 
     | Lot size: | 6 x 4 tiles | 6 x 3 tiles | 6 x 2 tiles |
     | --- | --- | --- | --- |
@@ -295,7 +302,7 @@ info:
 
     This release contains multiple lot versions. First is a 3x3 stage twelve growable with CS$ jobs which requires CAM to grow. There is also a functional plop version of this with a cost of $6700 to help fill that pesky CS$ demand. There are three versions with CO$$$ jobs: growable 3x3 stage seven, growable 4x4 stage six and also a functioning ploppable version with a plop cost of $6900. All the other statistics are the same as the growable. There are also two residential versions included. One is a 3x3 stage eight low wealth and the other is a 4x4 stage seven medium wealth'Every version is designed to fit in a more urban setting. As always, you can safely delete any LOT versions you don't need, just be sure to keep the MODEL file. Enjoy!
 
-    # Lot Details & Information
+    ## Lot Details & Information
 
     |     | CS$ Version | CO$$ Versions |
     | --- | --- | --- |
@@ -344,7 +351,7 @@ info:
 
     The Stearns Building is based very loosely on a building in Fort Worth, Texas. This release contains three versions. There are growable R$$, CO$$ , and a CO$$ plop version. The ploppable version has all the same statistics as the growable with a plop cost of $5100. Enjoy!
 
-    # Lot Details & Information
+    ## Lot Details & Information
 
     |     | CO$$ Grow/Plop Version |
     | --- | --- |
@@ -386,7 +393,7 @@ info:
 
     The Taft Building is inspired by a building on the corner of Hollywood and Vine in Hollywood, California. (it's real name is unknown, but the building across the street had the name Taft, so that's what was chosen). This release includes four versions. There are growable CO$$, CS$$, and R$$. There is also a ploppable CO$$ version (plop cost is $5100) with the same statistics as the growable version.
 
-    # Lot Details & Information
+    ## Lot Details & Information
 
     |     | CO$$ Version | CS$$ Version |
     | --- | --- | --- |
@@ -428,13 +435,13 @@ info:
   description: |-
     Today efforts of the SHUR Project save not only residential apartment buildings, but has also expanded to include smaller mid-rise office buildings and significant industrial buildings. Many projects are grouped together like the original Skipjack Park District and newer Warehouse District, although there are individual efforts scattered throughout the city. Making the list is not always a simple matter, but the criteria aren't as strict as some might think either. Historical significance may come from the original architect, builder, or owner, the building's role in Midland's growth, or simply the overall beauty of the structure.
 
-    # Included Lots
+    ## Included Lots
 
     - **Wisner Apartments**: 2 x 2 tiles, CO$$ grow and plop
     - **Hammond Building**: 3 x 3 tiles, CO$$ grow and plop, CS$$ grow and plop
   author: JBSimio
   websites: 
-    - "https://www.sc4evermore.com/index.php/downloads/download/11-residential/434-sc4d-lex-legacy-bsc-jbsimio-residentials-compilation"
+    - "https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
     - "https://community.simtropolis.com/files/file/16895-shur-hammond-building/"
     - "https://community.simtropolis.com/files/file/16697-shur-wisner-apartments/"
   images:
@@ -448,3 +455,258 @@ assets:
    - "/Hammond Building#/"
    - "/Hammond Hotel#/"
    - "/Wisner Law Firm Offices#/"
+
+
+---
+group: "jbsimio"
+name: kittys-clothes
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Kitty's Clothes, part of the Smalltown, USA series
+  description: |-
+    Kitty Manchester was a woman born well before her time. In the days when women's bathing suits resembled dresses and the word "pants" was still considered profanity across the pond in England, she was selling sleeveless blouses and printed t-shirts. She was also the first person to anyone's recollection who purposely spelled things incorrectly as a means of marketing. Her shop opened in a small Victorian building during the fall of 1908 and the business has done well ever since, although it has caused several minor scandals over the years. Today, the shop remains in the family and is still as progressive as ever. To my knowledge it is the first and only store in the United States to carry the full line of Tripwired apparel.
+
+    With Kitty's Klothes, the Smalltown, USA Series officially turns twenty-one!  We'll be having drinks next door at Fire Sticks for anyone that cares to join the celebration. This package contains both growable and ploppable versions of the building. Enjoy!
+
+    ## Lot Details and Information
+
+    | Lot size: | 1 x 2 tiles |
+    | --- | --- |
+    | Growth stage: | 3   |
+    | Occupants: | CS-$ : 106,CS-$$ : 29 |
+    | Bulldoze cost: | § 235 |
+    | Worth: | § 909 |
+    | Construction Time: | 23 days |
+    | Max. Fire Stage: | 40  |
+    | Power consumption: | 3 MWh/month |
+    | Water consumption: | 29 Gallons/month |
+    | Air pollution: | 1 over 5 tiles |
+    | Water pollution: | 1 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
+
+    Building style(s): Building: Commercial, Building: CS$$, Style: Chicago, Style: New York, BTE : Comm. W2W, BTE : Comm. Retailers, BTE : JBSimio Creation, BTE : SmalltownUSA
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Kittys_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Kittys_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol01"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Kitty's Clothes#/"
+
+---
+group: "jbsimio"
+name: rascos-dime-store
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Rasco's Dime Store, part of the Smalltown, USA series
+  description: |-
+    Fredrick A. Rasco began  his career selling all the little things that most retailers seemed to ignore. This rather eclectic combination of greeting cards, disposable razors, and chocolate bars ultimately led to a small revolution that soon became known as the Five and Dime. F. A. Rasco grew larger and larger as a company, eventually blanketing the country with 130 stores in its heyday. So just remember, the next time you need a birthday card for that children's party , go to Rasco's where you can get the card, the balloons, measuring cups for baking the cake (sorry, no cake mix though), AND the aspirin you're sure to need later!
+
+    Rasco's Dime Store is the twenty-second release in the Smalltown, USA series. This package contains both growable and ploppable versions. Enjoy!
+
+    ## Lot Details and Information
+
+    | Lot size: | 1 x 2 tiles |
+    | --- | --- |
+    | Growth stage: | 2   |
+    | Occupants: | CS-$ : 38 |
+    | Bulldoze cost: | § 113 |
+    | Worth: | § 291 |
+    | Construction Time: | 11 days |
+    | Max. Fire Stage/Flammability: | 3/45 |
+    | Power consumption: | 1 MWh/month |
+    | Water consumption: | 9 Gallons/month |
+    | Air pollution: | 1 over 5 tiles |
+    | Water pollution: | 1 over 5 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
+
+    Building style(s): | Building: Commercial, Building: CS$, Style: Chicago, Style: New York, Style: Houston, BTE : Comm. W2W, BTE : Comm. Retailers, BTE : JBSimio Creation, BTE : SmalltownUSA
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Rascos_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Rascos_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol01"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Rasco's Dime Store#/"
+
+
+
+---
+group: "jbsimio"
+name: smalltown-usa-collectors-edition
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Smalltown, USA - Collector's Edition
+  description: |-
+    Smalltown, USA has grown considerably in just one year. What began as a small handful of small commercial shops quickly grew into a series of eighteen buildings with restaurants, pubs, shops, offices, and town services. Each building has its own readme with a brief history and detailed information. So sit back and take a moment to read the stories, even if you read them once before. I know I enjoyed revisiting the characters and quirks of this little community!  All the individual Readmes have been collected together in ~Documents\BSC_Readmes\JBSimio\SmallTownUSA Readmes_OLD.
+
+    This collection includes every building from the Smalltown, USA Series released in 2006, including the BSC Advent Calendar release. All lots have been updated and are now BSC Tracking Enabled. They will contribute to existing BSC reward chains and form a starting point for future rewards just for you Smalltown fans. The buildings and lots themselves have not changed so no bulldozing is necessary. Be sure to delete the original files or let BSC Cleanitol TM do the hunting for you.
+
+    ## Lots Included
+
+    | Name | Details |
+    | --- | --- |
+    | **Faler's and Sebald's** | 1 x 2 tiles, CS$$ grow and plop |
+    | **Herter's Music Store** | 1 x 2 tiles, CS$ grow and plop |
+    | **Schust Hotel** | 1 x 2 tiles,  CS$$ grow and plop |
+    | **Scottish Inn and Pub** | 1 x 2 tiles, corner lot, CS$$ grow and plop |
+    | **Sonnet's Corner Shops** | 2 x 2 tiles, corner lot, CS$$ grow and plop |
+    | **Emma's Coffee Shop** | 1 x 2 tiles, CS$ grow and plop |
+    | **Fire Sticks Pool Hall** | 1 x 2 tiles, CS$ grow and plop |
+    | **Onsted State Bank** | 1 x 2 tiles, CS$$ grow and plop, CO$$ grow and plop |
+    | **Hamilton's Jewelry** | 1 x 2 tiles, CS$$ grow and plop |
+    | **Ted's Meat Market** | 2 x 2 tiles, CS$$ grow and plop |
+    | **Fire Station No. 2** | 1 x 2 tiles, plop (fire station) |
+    | **Smalltown Muse** | 1 x 2 tiles, CO$$ grow and plop |
+    | **Pit & Balcony Theater** | 1 x 2 tiles, CS$ grow and plop |
+    | **Town Hall** | 3 x 3 tiles or 3 x 4 tiles, plop (police station), CO$$ plop, R$$ grow |
+    | **Stanley Mercer Building** | 2 x 2 tiles, corner lot, CO$$ grow and plop |
+    | **Clinton Clock Tower** | 2 x 2 tiles, corner lot, CS$$$ grow and plop |
+    | **Smalltown Post Office** | 2 x 2 tiles, corner lot, plop LM, plop CO$$, reward |
+    | **Aunt Millie's Candy Shop** | 1 x 2 tiles, corner lot, CS$$ grow and plop |
+  author: JBSimio
+  websites: 
+    - "https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+    - "https://community.simtropolis.com/files/file/15914-smalltownusa-falers-and-sebalds/"
+    - "https://community.simtropolis.com/files/file/15950-smalltownusa-herters-music-store/"
+    - "https://community.simtropolis.com/files/file/15955-smalltownusa-schust-hotel/"
+    - "https://community.simtropolis.com/files/file/15984-smalltownusa-scottish-inn-and-pub/"
+    - "https://community.simtropolis.com/files/file/16044-smalltownusa-sonnets-corner-shops/"
+    - "https://community.simtropolis.com/files/file/16063-smalltownusa-emmas-coffee-shop/"
+    - "https://community.simtropolis.com/files/file/16069-smalltownusa-fire-sticks/"
+    - "https://community.simtropolis.com/files/file/16085-smalltownusa-onsted-state-bank/"
+    - "https://community.simtropolis.com/files/file/16093-smalltownusa-hamiltons-jewelry/"
+    - "https://community.simtropolis.com/files/file/16128-smalltownusa-teds-meat-market/"
+    - "https://community.simtropolis.com/files/file/16129-smalltownusa-fire-station-no-2/"
+    - "https://community.simtropolis.com/files/file/16145-smalltownusa-smalltown-muse/"
+    - "https://community.simtropolis.com/files/file/16157-smalltownusa-pit-and-balcony-theater/"
+    - "https://community.simtropolis.com/files/file/16389-smalltownusa-town-hall/"
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/SmalltownUSA01.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol01"
+  - "bsc:flags"
+  # TODO: requires https://community.simtropolis.com/files/file/17038-ndex-postal-vehicles-by-ardecila/
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Aunt Millies#/"
+   - "/Clinton Clock Tower#/"
+   - "/Emma's Coffee Shop#/"
+   - "/Falers and Sebalds#/"
+   - "/Fire Station/"
+   - "/Fire Sticks#/"
+   - "/Hamiltons Jewelry#/"
+   - "/Herters Music Store#/"
+   - "/Onsted State Bank#/"
+   - "/Pit and Balcony#/"
+   - "/Post Office#/"
+   - "/Schust Hotel#/"
+   - "/Scottish Inn and Pub#/"
+   - "/Smalltown Muse#/"
+   - "/Sonnets Corner Shops#/"
+   - "/Stanley Mercer Building#/"
+   - "/Teds Meat Market#/"
+
+---
+group: "jbsimio"
+name: tiffanys-tea-shop
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Tiffany's Tea Shop, part of the Smalltown, USA series
+  description: |-
+    Tiffany Green had been a tea lover all her life. Her husband, a banker of rather substantial means, indulged her habit as much as he could even though he personally couldn't stand the stuff. After years of suppers accompanied by tea, he could take no more and set out to find another outlet for his wife's passion. He contracted to have a building erected in 1911 and helped Tiffany to set up a shop of her own where she could brew, drink, and sell tea to her heart's content. The shop flourished and has been handed down through the generations ever since. Beyond selling exotic teas and fine china cups, the shop has grown into a small restaurant  that may soon rival Emma's Coffee Shop as the place to meet in Smalltown. I do remember having breakfast at Tiffany's and, as I recall, I kind of liked it.
+
+    Tiffany's Tea Shop is the nineteenth release in the Smalltown, USA Series. This package contains both growable and ploppable versions of the building. Enjoy!
+
+    ## Lot Details and Information
+
+    | Lot size: | 2 x 2 tiles |
+    | --- | --- |
+    | Growth stage: | 3   |
+    | Occupants: | CS-$ : 219,CS-$$ : 57 |
+    | Bulldoze cost: | § 263 |
+    | Worth: | § 1879 |
+    | Construction Time: | 26 days |
+    | Max. Fire Stage: | 40  |
+    | Power consumption: | 5 MWh/month |
+    | Water consumption: | 56 Gallons/month |
+    | Air pollution: | 2 over 5 tiles |
+    | Water pollution: | 1 over 6 tiles |
+    | Garbage pollution: | 4 over 0 tiles |
+
+    Building style(s): Building: Commercial, Building: CS$$, Style: Chicago, Style: New York, BTE : Comm. W2W, BTE : Comm. Restaurants, BTE : JBSimio Creation, BTE : SmalltownUSA
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/12-commercial/433-sc4d-lex-legacy-bsc-jbsimio-commercials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Tiffanys_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Tiffanys_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol01"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Tiffany's Tea Shop#/"
+
+
+---
+group: "jbsimio"
+name: town-hall-apartments
+version: "1.0.0"
+subfolder: 610-safety
+info:
+  summary: Town Hall Police Station, part of the SmalltownUSA Series
+  description: |-
+    As Smalltown grew from a fork in the road into a legitimate village, local leaders began to consider the idea of building a meeting hall'The more the area grew, the more necessary it became to have a place other than Edna Rausch's basement to store important records and building permits'Unfortunately, simply voting in favor of building a town hall was the easy part'The debate over style and location lasted for three years'Some people wanted a clock tower that would fit snugly between other businesses on Main Street'Others wanted a building that would stand alone with graceful lawns and gardens'Still others thought Edna's house should just be converted into a town hall'During all this bickering, the need for a police station became another hot issue in town'Finally in 1924, after years of delays, voters decided to erect a building at the head of the Village Common Park that would house all the official town offices as well as offices for the local police'Although some feel Smalltown has outgrown its once controversial structure, the building is still in use today, thanks to the ever watchful efforts of SLICH. Rather than rebuild, a small jail annex was added in 1967'Oddly enough, the first visitor to the new jail was a former record keeper'Followers of this series will all remember why she was not only fired, but also served a ten day sentence.
+
+    The Town Hall is the thirteenth release in the Smalltown, USA series'This package contains a total of four different versions in two building styles.
+  author: JBSimio
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/434-sc4d-lex-legacy-bsc-jbsimio-residentials-compilation
+  images:
+    - ""
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol01"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Town Hall#/"
+
+---
+group: "jbsimio"
+name: weathermax-pharmacy
+version: "1.0.0"
+subfolder: 300-commercial
+info:
+  summary: Weathermax Pharmacy, part of the Smalltown, USA series
+  description: |-
+    Esme Weatherwax developed a reputation in Smalltown long before she ever set up shop as a pharmacist. Her quick temper, stern gazes, and sharp tongue struck fear in anyone she passed on the streets. Many children in town even called her a witch. Despite these seemingly rude and unfriendly characteristics, she had an amazing ability to convince people of nearly anything she wanted them to believe. (Perhaps the witch theory had some credibility after all. That is not part of our story and we'll probably never really know anyway.)  A local young doctor who was just setting up his practice noticed this quality and approached Esme with a rather questionable idea. He proposed to set  up his offices above a pharmacy which he would also own while Esme would keep shop and sell the medicines that he prescribed. With her powers of persuasion, the doctor believed that she could make his patients feel better even if the medicines didn't work. Esme agreed and, being a very ambitious (and egotistical) woman, the pharmacy thrived. All the patients raved about the new doctor. The pharmacy did so well that Esme eventually bought the doctor out and made it her own shop. The name has remained and continues to inspire trust even to this day.
+
+    Weatherwax Pharmacy is the twentieth release in the Smalltown, USA Series. This package contains both growable and ploppable versions for CO$$ or CS$$. There is also a Clinic version which can be found in the Health menu. Enjoy!
+  website: https://www.sc4evermore.com/index.php/downloads/download/11-residential/434-sc4d-lex-legacy-bsc-jbsimio-residentials-compilation
+  images:
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Weatherwax_Day.jpg"
+    - "https://www.sc4evermore.com/images/sc4pac/jbsimio/Weatherwax_Night.jpg"
+dependencies:
+  - "bsc:essentials"
+  - "bsc:mega-props-jbsimio-vol01"
+assets:
+ - assetId: "sc4d-lex-legacy-bsc-jbsimio-commercials-compilation"
+   include:
+   - "/Town Hall#/"
