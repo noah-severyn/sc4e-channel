@@ -33,6 +33,6 @@ variantInfo:
   description: "Choose sidewalk textures"
   values:
   - value: "medium"
-    description: "Shows the medium wealth textures in the highw wealth zones, avoiding the pinky brick ones, and keeping homogeneity with the other sidewalk textures"
+    description: "Shows the medium wealth textures in the high wealth zones, avoiding the pinky brick ones, and keeping homogeneity with the other sidewalk textures"
   - value: "low"
     description: "Designed for low wealth / old cities. Low wealth sidewalks will be seen everywhere except in farming areas."
