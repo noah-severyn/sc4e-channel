@@ -11,6 +11,7 @@ subfolders: []
 ignore-version-mismatches:
 - vortext:vortexture-1
 - vortext:vortexture-2
+- cp:scilt # Pulls from both 'sc4d-lex-legacy-bsc-cp-sidewalk-and-scilt-compilation' and 'sc4d-lex-legacy-gobias-sidewalk-and-scilt-compilation' 
 
 # Set this to true to allow writing descriptions from a first-person perspective.
 allow-ego-perspective: false
