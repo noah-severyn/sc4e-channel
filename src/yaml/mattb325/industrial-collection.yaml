@@ -687,25 +687,33 @@ variants:
   - variant: { nightmode: standard, memo:industrial-revolution-mod:enabled: "no" }
     assets:
       - assetId: mattb325-industrial-pack-maxisnite
+        include:
+          - "/SPAR Distribution-I-HT/"
         exclude:
           - "\\(Com Svc\\)"
   - variant: { nightmode: dark, memo:industrial-revolution-mod:enabled: "no" }
     dependencies: [ "simfox:day-and-nite-mod" ]
     assets:
       - assetId: mattb325-industrial-pack-darknite
+        include:
+          - "/SPAR Distribution-I-HT/"
         exclude:
           - "\\(Com Svc\\)"
   - variant: { nightmode: standard, memo:industrial-revolution-mod:enabled: "yes" }
     assets:
       - assetId: mattb325-industrial-pack-maxisnite-irm
+        include:
+          - "/SPAR Distribution-I-HT/"
         exclude:
           - "\\(Com Svc\\)"
   - variant: { nightmode: dark, memo:industrial-revolution-mod:enabled: "yes" }
     dependencies: [ "simfox:day-and-nite-mod" ]
     assets:
       - assetId: mattb325-industrial-pack-darknite-irm
+        include:
+          - "/SPAR Distribution-I-HT/" 
         exclude:
-          - "\\(Com Svc\\)" 
+          - "\\(Com Svc\\)"
 
 ---
 group: mattb325
