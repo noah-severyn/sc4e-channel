@@ -1,6 +1,6 @@
 group: "orange"
 name: "pyrenean-terrain-mod"
-version: "1.0"
+version: "1.0-1"
 subfolder: "170-terrain"
 info:
   summary: "An HD terrain mod based on the Pyranees region of France"
