@@ -90,30 +90,30 @@ assets:
   include:
   - /mas71_JPN_RiceField_Models.dat
   withConditions:
-  - ifVariant: { mas71:jpn-rice-fields:texture-type: "original", mas71:jpn-rice-fields:menu-type: "mml" }
+  - ifVariant: { mas71:rice-fields:texture-type: "original", mas71:rice-fields:menu-type: "mml" }
     include:
     - /MAS71 JPN Rice Fields Lots by Original.dat
     - /Mas71_JPN-RiseFields_MML.dat
-  - ifVariant: { mas71:jpn-rice-fields:texture-type: "original", mas71:jpn-rice-fields:menu-type: "submenu" }
+  - ifVariant: { mas71:rice-fields:texture-type: "original", mas71:rice-fields:menu-type: "submenu" }
     include:
     - /MAS71 JPN Rice Fields Lots by Original.dat
     - /mas71_Ricefields_Submenu.dat
-  - ifVariant: { mas71:jpn-rice-fields:texture-type: "original", mas71:jpn-rice-fields:menu-type: "none" }
+  - ifVariant: { mas71:rice-fields:texture-type: "original", mas71:rice-fields:menu-type: "none" }
     include:
     - /MAS71 JPN Rice Fields Lots by Original.dat
-  - ifVariant: { mas71:jpn-rice-fields:texture-type: "bsc", mas71:jpn-rice-fields:menu-type: "mml" }
+  - ifVariant: { mas71:rice-fields:texture-type: "bsc", mas71:rice-fields:menu-type: "mml" }
     include:
     - /MAS71 JPN Rice Fields Lots by BSC.dat
     - /Mas71_JPN-RiseFields_MML.dat
-  - ifVariant: { mas71:jpn-rice-fields:texture-type: "bsc", mas71:jpn-rice-fields:menu-type: "submenu" }
+  - ifVariant: { mas71:rice-fields:texture-type: "bsc", mas71:rice-fields:menu-type: "submenu" }
     include:
     - /MAS71 JPN Rice Fields Lots by BSC.dat
     - /mas71_Ricefields_Submenu.dat
-  - ifVariant: { mas71:jpn-rice-fields:texture-type: "bsc", mas71:jpn-rice-fields:menu-type: "none" }
+  - ifVariant: { mas71:rice-fields:texture-type: "bsc", mas71:rice-fields:menu-type: "none" }
     include:
     - /MAS71 JPN Rice Fields Lots by BSC.dat
 variantInfo:
-- variantId: "mas71:jpn-rice-fields:texture-type"
+- variantId: "mas71:rice-fields:texture-type"
   description: "Choose texture type used to assist when initially placing fields"
   values:
   - value: "original"
@@ -121,7 +121,7 @@ variantInfo:
     default: true
   - value: "bsc"
     description: "Use BSC path textures"
-- variantId: "mas71:jpn-rice-fields:menu-type"
+- variantId: "mas71:rice-fields:menu-type"
   description: "Choose how these lots show in your menu"
   values:
   - value: "submenu"
